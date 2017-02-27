@@ -1,0 +1,29 @@
+{
+  "name": "moon-mayhem",
+  "version": "1.0.0",
+  "description": "An app designed to show the correlation between the phases of the moon and the increase or decrease of crime.",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/lunatechs/moon-mayhem.git"
+  },
+  "keywords": [
+    "moon",
+    "mayhem",
+    "phases",
+    "lunatechs",
+    "education",
+    "crime",
+    "Seattle",
+    "Chicago"
+  ],
+  "author": "Lunatechs - Brandon Little, Eve Denison, Morgan Nomura",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/lunatechs/moon-mayhem/issues"
+  },
+  "homepage": "https://github.com/lunatechs/moon-mayhem#readme"
+}
