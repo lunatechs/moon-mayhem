@@ -16,8 +16,7 @@ app.get('/', (request, response) => response.sendFile('index.html', {root: './pu
 app.get('/about', (request, response) => response.sendFile('index.html', {root: './public'}));
 app.get('/resources', (request, response) => response.sendFile('index.html', {root: './public'}));
 
-app.get('/');
+// app.get('/');
 
-app.listen(PORT, function() {
-  console.log('app is running locally on', PORT);
-});
+
+app.listen(PORT, () => console.log(`Server started on port ${PORT}!`));
