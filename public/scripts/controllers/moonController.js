@@ -5,6 +5,7 @@
   $('section').hide();
   $('section#main-moon').show();
 
+
   moonController.index = function() {
     console.log('moon contoller cawled');
     $('section').hide();
