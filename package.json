@@ -25,5 +25,10 @@
   "bugs": {
     "url": "https://github.com/lunatechs/moon-mayhem/issues"
   },
-  "homepage": "https://github.com/lunatechs/moon-mayhem#readme"
+  "homepage": "https://github.com/lunatechs/moon-mayhem#readme",
+  "dependencies": {
+    "express": "^4.14.1",
+    "express-request-proxy": "^2.0.0",
+    "pg": "^6.1.2"
+  }
 }
