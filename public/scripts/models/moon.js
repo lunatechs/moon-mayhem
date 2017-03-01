@@ -19,7 +19,7 @@
   }
 
   // JSON call to get filtered data
-  moonData.getData = function () {
+  moonData.getData = function (callback) {
     $.getJSON('../../data/cityData.json')
       .then(function (jsonData) {
         dataContent = jsonData.filter(filterFormData);
@@ -38,8 +38,19 @@
       })
       .then(function (days) {
         moonData.getCounts(days);
-      });
+      })
+      .then(callback);
   }
+   // Yields an array with crime counts for each day
+   moonData.getCounts = function (days) {
+     moonData.counts = days.map(function (day) {
+       return dataContent.filter(function (datum) {
+         if (datum.date.slice(3, 5) === day) {
+           return datum;
+         }
+       }).length;
+     });
+   }
 
   module.moonData = moonData;
 })(window);
