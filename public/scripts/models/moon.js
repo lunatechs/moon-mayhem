@@ -12,8 +12,12 @@ moonData.filterData = function(value) {
 }
 
 moonData.getData = function() {
-  $.getJSON('../../data/fakeData.json')
+  $.getJSON('../../data/fakeData.json') // switch to real json at some point!
   .then(function(jsonData) {
     moonData.dataContent = jsonData.filter(moonData.filterData);
+    moonData.dayCounts = moonData.dataContent.map(function(datum) {
+      //console.log(datum);
+      return datum.date.slice(3,5);
+    });
   });
 }
