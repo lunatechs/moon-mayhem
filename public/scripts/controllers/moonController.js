@@ -11,7 +11,7 @@ moonController.month;
     e.preventDefault();
     moonController.month = $('select')[0].value;
     moonController.year = $('select')[1].value;
-    moonData.getData(); // may want to move this once view functions are in place
+    moonChart();
   });
 
   moonController.index = function() {
