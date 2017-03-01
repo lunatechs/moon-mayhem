@@ -1,0 +1,4622 @@
+[
+ {
+   "code": 220,
+   "description": "CRISIS COMPLAINT - GENERAL",
+   "subgroup": "CRISIS CALL",
+   "group": "BEHAVIORAL HEALTH",
+   "date": "01/24/2017 12:25:22 PM"
+ },
+ {
+   "code": 250,
+   "description": "MISCHIEF, NUISANCE COMPLAINTS",
+   "subgroup": "NUISANCE, MISCHIEF COMPLAINTS",
+   "group": "NUISANCE, MISCHIEF",
+   "date": "01/24/2017 12:24:04 PM"
+ },
+ {
+   "code": 201,
+   "description": "ALACAD - RESIDENTIAL BURGLARY (FALSE)",
+   "subgroup": "BURGLARY ALACAD (FALSE)",
+   "group": "FALSE ALACAD",
+   "date": "01/24/2016 12:29:47 PM"
+ },
+ {
+   "code": 242,
+   "description": "FIGHT DISTURBANCE",
+   "subgroup": "DISTURBANCES",
+   "group": "DISTURBANCES",
+   "date": "01/24/2016 12:11:03 PM"
+ },
+ {
+   "code": 220,
+   "description": "CRISIS COMPLAINT - GENERAL",
+   "subgroup": "CRISIS CALL",
+   "group": "BEHAVIORAL HEALTH",
+   "date": "01/24/2016 12:20:16 PM"
+ },
+ {
+   "code": 250,
+   "description": "MISCHIEF, NUISANCE COMPLAINTS",
+   "subgroup": "NUISANCE, MISCHIEF COMPLAINTS",
+   "group": "NUISANCE, MISCHIEF",
+   "date": "01/24/2016 12:27:58 PM"
+ },
+ {
+   "code": 250,
+   "description": "MISCHIEF, NUISANCE COMPLAINTS",
+   "subgroup": "NUISANCE, MISCHIEF COMPLAINTS",
+   "group": "NUISANCE, MISCHIEF",
+   "date": "01/24/2016 12:36:04 PM"
+ },
+ {
+   "code": 250,
+   "description": "MISCHIEF, NUISANCE COMPLAINTS",
+   "subgroup": "NUISANCE, MISCHIEF COMPLAINTS",
+   "group": "NUISANCE, MISCHIEF",
+   "date": "01/24/2016 01:03:08 PM"
+ },
+ {
+   "code": 291,
+   "description": "PERSON WITH A GUN",
+   "subgroup": "GUN CALLS",
+   "group": "WEAPONS CALLS",
+   "date": "01/24/2016 12:57:26 PM"
+ },
+ {
+   "code": 250,
+   "description": "MISCHIEF, NUISANCE COMPLAINTS",
+   "subgroup": "NUISANCE, MISCHIEF COMPLAINTS",
+   "group": "NUISANCE, MISCHIEF",
+   "date": "01/24/2016 01:41:41 PM"
+ },
+ {
+   "code": 250,
+   "description": "MISCHIEF, NUISANCE COMPLAINTS",
+   "subgroup": "NUISANCE, MISCHIEF COMPLAINTS",
+   "group": "NUISANCE, MISCHIEF",
+   "date": "01/24/2016 11:32:37 PM"
+ },
+ {
+   "code": 250,
+   "description": "MISCHIEF, NUISANCE COMPLAINTS",
+   "subgroup": "NUISANCE, MISCHIEF COMPLAINTS",
+   "group": "NUISANCE, MISCHIEF",
+   "date": "01/24/2016 01:46:59 PM"
+ },
+ {
+   "code": 250,
+   "description": "MISCHIEF, NUISANCE COMPLAINTS",
+   "subgroup": "NUISANCE, MISCHIEF COMPLAINTS",
+   "group": "NUISANCE, MISCHIEF",
+   "date": "01/24/2016 02:00:39 PM"
+ },
+ {
+   "code": 220,
+   "description": "CRISIS COMPLAINT - GENERAL",
+   "subgroup": "CRISIS CALL",
+   "group": "BEHAVIORAL HEALTH",
+   "date": "01/24/2016 03:35:33 PM"
+ },
+ {
+   "code": 250,
+   "description": "MISCHIEF, NUISANCE COMPLAINTS",
+   "subgroup": "NUISANCE, MISCHIEF COMPLAINTS",
+   "group": "NUISANCE, MISCHIEF",
+   "date": "01/26/2016 05:57:57 PM"
+ },
+ {
+   "code": 250,
+   "description": "MISCHIEF, NUISANCE COMPLAINTS",
+   "subgroup": "NUISANCE, MISCHIEF COMPLAINTS",
+   "group": "NUISANCE, MISCHIEF",
+   "date": "01/26/2016 05:54:59 PM"
+ },
+ {
+   "code": 250,
+   "description": "MISCHIEF, NUISANCE COMPLAINTS",
+   "subgroup": "NUISANCE, MISCHIEF COMPLAINTS",
+   "group": "NUISANCE, MISCHIEF",
+   "date": "01/24/2016 03:35:53 PM"
+ },
+ {
+   "code": 40,
+   "description": "ASSAULTS, OTHER",
+   "subgroup": "ASSAULTS",
+   "group": "ASSAULTS",
+   "date": "01/24/2016 03:48:24 PM"
+ },
+ {
+   "code": 40,
+   "description": "ASSAULTS, OTHER",
+   "subgroup": "ASSAULTS",
+   "group": "ASSAULTS",
+   "date": "01/24/2016 04:07:21 PM"
+ },
+ {
+   "code": 220,
+   "description": "CRISIS COMPLAINT - GENERAL",
+   "subgroup": "CRISIS CALL",
+   "group": "BEHAVIORAL HEALTH",
+   "date": "01/24/2016 04:25:26 PM"
+ },
+ {
+   "code": 40,
+   "description": "ASSAULTS, OTHER",
+   "subgroup": "ASSAULTS",
+   "group": "ASSAULTS",
+   "date": "01/24/2016 04:25:34 PM"
+ },
+ {
+   "code": 201,
+   "description": "ALACAD - RESIDENTIAL BURGLARY (FALSE)",
+   "subgroup": "BURGLARY ALACAD (FALSE)",
+   "group": "FALSE ALACAD",
+   "date": "01/24/2016 04:52:18 PM"
+ },
+ {
+   "code": 250,
+   "description": "MISCHIEF, NUISANCE COMPLAINTS",
+   "subgroup": "NUISANCE, MISCHIEF COMPLAINTS",
+   "group": "NUISANCE, MISCHIEF",
+   "date": "01/24/2016 05:30:37 PM"
+ },
+ {
+   "code": 220,
+   "description": "CRISIS COMPLAINT - GENERAL",
+   "subgroup": "CRISIS CALL",
+   "group": "BEHAVIORAL HEALTH",
+   "date": "01/24/2016 05:23:35 PM"
+ },
+ {
+   "code": 220,
+   "description": "CRISIS COMPLAINT - GENERAL",
+   "subgroup": "CRISIS CALL",
+   "group": "BEHAVIORAL HEALTH",
+   "date": "01/24/2016 05:38:00 PM"
+ },
+ {
+   "code": 250,
+   "description": "MISCHIEF, NUISANCE COMPLAINTS",
+   "subgroup": "NUISANCE, MISCHIEF COMPLAINTS",
+   "group": "NUISANCE, MISCHIEF",
+   "date": "01/24/2016 05:50:22 PM"
+ },
+ {
+   "code": 30,
+   "description": "ARMED ROBBERY",
+   "subgroup": "GUN CALLS",
+   "group": "ROBBERY",
+   "date": "01/24/2016 06:35:30 PM"
+ },
+ {
+   "code": 250,
+   "description": "MISCHIEF, NUISANCE COMPLAINTS",
+   "subgroup": "NUISANCE, MISCHIEF COMPLAINTS",
+   "group": "NUISANCE, MISCHIEF",
+   "date": "01/24/2016 07:12:38 PM"
+ },
+ {
+   "code": 292,
+   "description": "PERSON WITH A WEAPON (NOT GUN)",
+   "subgroup": "WEAPONS CALLS",
+   "group": "WEAPONS CALLS",
+   "date": "01/24/2016 07:30:47 PM"
+ },
+ {
+   "code": 41,
+   "description": "HARASSMENT, THREATS",
+   "subgroup": "THREATS, HARASSMENT",
+   "group": "THREATS, HARASSMENT",
+   "date": "01/26/2016 07:07:42 PM"
+ },
+ {
+   "code": 242,
+   "description": "FIGHT DISTURBANCE",
+   "subgroup": "DISTURBANCES",
+   "group": "DISTURBANCES",
+   "date": "01/24/2016 11:09:40 PM"
+ },
+ {
+   "code": 40,
+   "description": "ASSAULTS, OTHER",
+   "subgroup": "ASSAULTS",
+   "group": "ASSAULTS",
+   "date": "01/24/2016 10:00:02 PM"
+ },
+ {
+   "code": 41,
+   "description": "HARASSMENT, THREATS",
+   "subgroup": "THREATS, HARASSMENT",
+   "group": "THREATS, HARASSMENT",
+   "date": "01/26/2016 07:00:27 PM"
+ },
+ {
+   "code": 330,
+   "description": "CASUALTY (NON CRIMINAL/TRAFFIC) - MAN DOWN, SICK PERSONS, INJURED, DOA)",
+   "subgroup": "CASUALTIES",
+   "group": "PERSON DOWN/INJURY",
+   "date": "01/24/2016 10:08:40 PM"
+ },
+ {
+   "code": 41,
+   "description": "HARASSMENT, THREATS",
+   "subgroup": "THREATS, HARASSMENT",
+   "group": "THREATS, HARASSMENT",
+   "date": "01/24/2016 09:05:59 PM"
+ },
+ {
+   "code": 40,
+   "description": "ASSAULTS, OTHER",
+   "subgroup": "ASSAULTS",
+   "group": "ASSAULTS",
+   "date": "01/24/2016 10:28:09 PM"
+ },
+ {
+   "code": 41,
+   "description": "HARASSMENT, THREATS",
+   "subgroup": "THREATS, HARASSMENT",
+   "group": "THREATS, HARASSMENT",
+   "date": "01/24/2016 10:46:53 PM"
+ },
+ {
+   "code": 242,
+   "description": "FIGHT DISTURBANCE",
+   "subgroup": "DISTURBANCES",
+   "group": "DISTURBANCES",
+   "date": "01/24/2016 10:37:10 PM"
+ },
+ {
+   "code": 40,
+   "description": "ASSAULTS, OTHER",
+   "subgroup": "ASSAULTS",
+   "group": "ASSAULTS",
+   "date": "01/24/2016 11:30:34 PM"
+ },
+ {
+   "code": 250,
+   "description": "MISCHIEF, NUISANCE COMPLAINTS",
+   "subgroup": "NUISANCE, MISCHIEF COMPLAINTS",
+   "group": "NUISANCE, MISCHIEF",
+   "date": "01/24/2016 11:24:12 PM"
+ },
+ {
+   "code": 201,
+   "description": "ALACAD - RESIDENTIAL BURGLARY (FALSE)",
+   "subgroup": "BURGLARY ALACAD (FALSE)",
+   "group": "FALSE ALACAD",
+   "date": "01/26/2016 07:21:26 PM"
+ },
+ {
+   "code": 40,
+   "description": "ASSAULTS, OTHER",
+   "subgroup": "ASSAULTS",
+   "group": "ASSAULTS",
+   "date": "01/25/2016 03:04:50 AM"
+ },
+ {
+   "code": 10,
+   "description": "HOMICIDE",
+   "subgroup": "HOMICIDE",
+   "group": "HOMICIDE",
+   "date": "01/27/2016 03:12:53 AM"
+ },
+ {
+   "code": 201,
+   "description": "ALACAD - RESIDENTIAL BURGLARY (FALSE)",
+   "subgroup": "BURGLARY ALACAD (FALSE)",
+   "group": "FALSE ALACAD",
+   "date": "01/25/2016 04:59:15 AM"
+ },
+ {
+   "code": 220,
+   "description": "CRISIS COMPLAINT - GENERAL",
+   "subgroup": "CRISIS CALL",
+   "group": "BEHAVIORAL HEALTH",
+   "date": "01/25/2016 05:22:21 AM"
+ },
+ {
+   "code": 201,
+   "description": "ALACAD - RESIDENTIAL BURGLARY (FALSE)",
+   "subgroup": "BURGLARY ALACAD (FALSE)",
+   "group": "FALSE ALACAD",
+   "date": "01/25/2016 06:36:40 AM"
+ },
+ {
+   "code": 250,
+   "description": "MISCHIEF, NUISANCE COMPLAINTS",
+   "subgroup": "NUISANCE, MISCHIEF COMPLAINTS",
+   "group": "NUISANCE, MISCHIEF",
+   "date": "01/25/2016 08:49:02 AM"
+ },
+ {
+   "code": 250,
+   "description": "MISCHIEF, NUISANCE COMPLAINTS",
+   "subgroup": "NUISANCE, MISCHIEF COMPLAINTS",
+   "group": "NUISANCE, MISCHIEF",
+   "date": "01/25/2016 08:32:58 AM"
+ },
+ {
+   "code": 250,
+   "description": "MISCHIEF, NUISANCE COMPLAINTS",
+   "subgroup": "NUISANCE, MISCHIEF COMPLAINTS",
+   "group": "NUISANCE, MISCHIEF",
+   "date": "01/25/2016 09:16:46 AM"
+ },
+ {
+   "code": 220,
+   "description": "CRISIS COMPLAINT - GENERAL",
+   "subgroup": "CRISIS CALL",
+   "group": "BEHAVIORAL HEALTH",
+   "date": "01/25/2016 08:58:09 AM"
+ },
+ {
+   "code": 41,
+   "description": "HARASSMENT, THREATS",
+   "subgroup": "THREATS, HARASSMENT",
+   "group": "THREATS, HARASSMENT",
+   "date": "01/25/2016 09:13:18 AM"
+ },
+ {
+   "code": 31,
+   "description": "STRONG ARM ROBBERY",
+   "subgroup": "ROBBERY",
+   "group": "ROBBERY",
+   "date": "01/25/2016 09:12:29 AM"
+ },
+ {
+   "code": 250,
+   "description": "MISCHIEF, NUISANCE COMPLAINTS",
+   "subgroup": "NUISANCE, MISCHIEF COMPLAINTS",
+   "group": "NUISANCE, MISCHIEF",
+   "date": "01/25/2016 10:13:06 AM"
+ },
+ {
+   "code": 201,
+   "description": "ALACAD - RESIDENTIAL BURGLARY (FALSE)",
+   "subgroup": "BURGLARY ALACAD (FALSE)",
+   "group": "FALSE ALACAD",
+   "date": "01/25/2016 11:10:51 AM"
+ },
+ {
+   "code": 220,
+   "description": "CRISIS COMPLAINT - GENERAL",
+   "subgroup": "CRISIS CALL",
+   "group": "BEHAVIORAL HEALTH",
+   "date": "01/25/2016 11:24:28 AM"
+ },
+ {
+   "code": 250,
+   "description": "MISCHIEF, NUISANCE COMPLAINTS",
+   "subgroup": "NUISANCE, MISCHIEF COMPLAINTS",
+   "group": "NUISANCE, MISCHIEF",
+   "date": "01/25/2016 11:32:43 AM"
+ },
+ {
+   "code": 250,
+   "description": "MISCHIEF, NUISANCE COMPLAINTS",
+   "subgroup": "NUISANCE, MISCHIEF COMPLAINTS",
+   "group": "NUISANCE, MISCHIEF",
+   "date": "01/25/2016 11:56:05 AM"
+ },
+ {
+   "code": 31,
+   "description": "STRONG ARM ROBBERY",
+   "subgroup": "ROBBERY",
+   "group": "ROBBERY",
+   "date": "01/26/2016 07:55:56 PM"
+ },
+ {
+   "code": 41,
+   "description": "HARASSMENT, THREATS",
+   "subgroup": "THREATS, HARASSMENT",
+   "group": "THREATS, HARASSMENT",
+   "date": "01/25/2016 12:58:01 PM"
+ },
+ {
+   "code": 201,
+   "description": "ALACAD - RESIDENTIAL BURGLARY (FALSE)",
+   "subgroup": "BURGLARY ALACAD (FALSE)",
+   "group": "FALSE ALACAD",
+   "date": "01/25/2016 01:30:32 PM"
+ },
+ {
+   "code": 201,
+   "description": "ALACAD - RESIDENTIAL BURGLARY (FALSE)",
+   "subgroup": "BURGLARY ALACAD (FALSE)",
+   "group": "FALSE ALACAD",
+   "date": "01/25/2016 02:31:33 PM"
+ },
+ {
+   "code": 40,
+   "description": "ASSAULTS, OTHER",
+   "subgroup": "ASSAULTS",
+   "group": "ASSAULTS",
+   "date": "01/25/2016 02:43:43 PM"
+ },
+ {
+   "code": 201,
+   "description": "ALACAD - RESIDENTIAL BURGLARY (FALSE)",
+   "subgroup": "BURGLARY ALACAD (FALSE)",
+   "group": "FALSE ALACAD",
+   "date": "01/25/2016 03:27:01 PM"
+ },
+ {
+   "code": 250,
+   "description": "MISCHIEF, NUISANCE COMPLAINTS",
+   "subgroup": "NUISANCE, MISCHIEF COMPLAINTS",
+   "group": "NUISANCE, MISCHIEF",
+   "date": "01/25/2016 04:24:54 PM"
+ },
+ {
+   "code": 250,
+   "description": "MISCHIEF, NUISANCE COMPLAINTS",
+   "subgroup": "NUISANCE, MISCHIEF COMPLAINTS",
+   "group": "NUISANCE, MISCHIEF",
+   "date": "01/25/2016 04:34:56 PM"
+ },
+ {
+   "code": 201,
+   "description": "ALACAD - RESIDENTIAL BURGLARY (FALSE)",
+   "subgroup": "BURGLARY ALACAD (FALSE)",
+   "group": "FALSE ALACAD",
+   "date": "01/25/2016 04:43:25 PM"
+ },
+ {
+   "code": 250,
+   "description": "MISCHIEF, NUISANCE COMPLAINTS",
+   "subgroup": "NUISANCE, MISCHIEF COMPLAINTS",
+   "group": "NUISANCE, MISCHIEF",
+   "date": "01/25/2016 04:39:59 PM"
+ },
+ {
+   "code": 201,
+   "description": "ALACAD - RESIDENTIAL BURGLARY (FALSE)",
+   "subgroup": "BURGLARY ALACAD (FALSE)",
+   "group": "FALSE ALACAD",
+   "date": "01/25/2016 05:12:21 PM"
+ },
+ {
+   "code": 250,
+   "description": "MISCHIEF, NUISANCE COMPLAINTS",
+   "subgroup": "NUISANCE, MISCHIEF COMPLAINTS",
+   "group": "NUISANCE, MISCHIEF",
+   "date": "01/26/2016 09:31:29 PM"
+ },
+ {
+   "code": 201,
+   "description": "ALACAD - RESIDENTIAL BURGLARY (FALSE)",
+   "subgroup": "BURGLARY ALACAD (FALSE)",
+   "group": "FALSE ALACAD",
+   "date": "01/25/2016 05:32:52 PM"
+ },
+ {
+   "code": 41,
+   "description": "HARASSMENT, THREATS",
+   "subgroup": "THREATS, HARASSMENT",
+   "group": "THREATS, HARASSMENT",
+   "date": "01/25/2016 06:04:37 PM"
+ },
+ {
+   "code": 41,
+   "description": "HARASSMENT, THREATS",
+   "subgroup": "THREATS, HARASSMENT",
+   "group": "THREATS, HARASSMENT",
+   "date": "01/25/2016 07:15:10 PM"
+ },
+ {
+   "code": 40,
+   "description": "ASSAULTS, OTHER",
+   "subgroup": "ASSAULTS",
+   "group": "ASSAULTS",
+   "date": "01/25/2016 07:20:24 PM"
+ },
+ {
+   "code": 40,
+   "description": "ASSAULTS, OTHER",
+   "subgroup": "ASSAULTS",
+   "group": "ASSAULTS",
+   "date": "01/25/2016 07:33:04 PM"
+ },
+ {
+   "code": 250,
+   "description": "MISCHIEF, NUISANCE COMPLAINTS",
+   "subgroup": "NUISANCE, MISCHIEF COMPLAINTS",
+   "group": "NUISANCE, MISCHIEF",
+   "date": "01/25/2016 07:47:31 PM"
+ },
+ {
+   "code": 220,
+   "description": "CRISIS COMPLAINT - GENERAL",
+   "subgroup": "CRISIS CALL",
+   "group": "BEHAVIORAL HEALTH",
+   "date": "01/25/2016 07:46:36 PM"
+ },
+ {
+   "code": 220,
+   "description": "CRISIS COMPLAINT - GENERAL",
+   "subgroup": "CRISIS CALL",
+   "group": "BEHAVIORAL HEALTH",
+   "date": "01/25/2016 08:17:07 PM"
+ },
+ {
+   "code": 242,
+   "description": "FIGHT DISTURBANCE",
+   "subgroup": "DISTURBANCES",
+   "group": "DISTURBANCES",
+   "date": "01/25/2016 07:52:44 PM"
+ },
+ {
+   "code": 250,
+   "description": "MISCHIEF, NUISANCE COMPLAINTS",
+   "subgroup": "NUISANCE, MISCHIEF COMPLAINTS",
+   "group": "NUISANCE, MISCHIEF",
+   "date": "01/25/2016 08:12:57 PM"
+ },
+ {
+   "code": 201,
+   "description": "ALACAD - RESIDENTIAL BURGLARY (FALSE)",
+   "subgroup": "BURGLARY ALACAD (FALSE)",
+   "group": "FALSE ALACAD",
+   "date": "01/25/2016 08:25:21 PM"
+ },
+ {
+   "code": 220,
+   "description": "CRISIS COMPLAINT - GENERAL",
+   "subgroup": "CRISIS CALL",
+   "group": "BEHAVIORAL HEALTH",
+   "date": "01/25/2016 08:50:34 PM"
+ },
+ {
+   "code": 242,
+   "description": "FIGHT DISTURBANCE",
+   "subgroup": "DISTURBANCES",
+   "group": "DISTURBANCES",
+   "date": "01/25/2016 08:41:44 PM"
+ },
+ {
+   "code": 201,
+   "description": "ALACAD - RESIDENTIAL BURGLARY (FALSE)",
+   "subgroup": "BURGLARY ALACAD (FALSE)",
+   "group": "FALSE ALACAD",
+   "date": "01/25/2016 10:18:27 PM"
+ },
+ {
+   "code": 41,
+   "description": "HARASSMENT, THREATS",
+   "subgroup": "THREATS, HARASSMENT",
+   "group": "THREATS, HARASSMENT",
+   "date": "01/25/2016 10:09:05 PM"
+ },
+ {
+   "code": 40,
+   "description": "ASSAULTS, OTHER",
+   "subgroup": "ASSAULTS",
+   "group": "ASSAULTS",
+   "date": "01/25/2016 10:40:31 PM"
+ },
+ {
+   "code": 250,
+   "description": "MISCHIEF, NUISANCE COMPLAINTS",
+   "subgroup": "NUISANCE, MISCHIEF COMPLAINTS",
+   "group": "NUISANCE, MISCHIEF",
+   "date": "01/25/2016 11:02:24 PM"
+ },
+ {
+   "code": 31,
+   "description": "STRONG ARM ROBBERY",
+   "subgroup": "ROBBERY",
+   "group": "ROBBERY",
+   "date": "01/25/2016 11:03:15 PM"
+ },
+ {
+   "code": 41,
+   "description": "HARASSMENT, THREATS",
+   "subgroup": "THREATS, HARASSMENT",
+   "group": "THREATS, HARASSMENT",
+   "date": "01/25/2016 11:09:54 PM"
+ },
+ {
+   "code": 31,
+   "description": "STRONG ARM ROBBERY",
+   "subgroup": "ROBBERY",
+   "group": "ROBBERY",
+   "date": "01/25/2016 11:00:22 PM"
+ },
+ {
+   "code": 220,
+   "description": "CRISIS COMPLAINT - GENERAL",
+   "subgroup": "CRISIS CALL",
+   "group": "BEHAVIORAL HEALTH",
+   "date": "01/26/2016 02:08:17 AM"
+ },
+ {
+   "code": 41,
+   "description": "HARASSMENT, THREATS",
+   "subgroup": "THREATS, HARASSMENT",
+   "group": "THREATS, HARASSMENT",
+   "date": "01/26/2016 03:28:37 AM"
+ },
+ {
+   "code": 250,
+   "description": "MISCHIEF, NUISANCE COMPLAINTS",
+   "subgroup": "NUISANCE, MISCHIEF COMPLAINTS",
+   "group": "NUISANCE, MISCHIEF",
+   "date": "01/26/2016 04:22:05 AM"
+ },
+ {
+   "code": 242,
+   "description": "FIGHT DISTURBANCE",
+   "subgroup": "DISTURBANCES",
+   "group": "DISTURBANCES",
+   "date": "01/26/2016 07:00:59 AM"
+ },
+ {
+   "code": 242,
+   "description": "FIGHT DISTURBANCE",
+   "subgroup": "DISTURBANCES",
+   "group": "DISTURBANCES",
+   "date": "01/26/2016 09:22:37 AM"
+ },
+ {
+   "code": 201,
+   "description": "ALACAD - RESIDENTIAL BURGLARY (FALSE)",
+   "subgroup": "BURGLARY ALACAD (FALSE)",
+   "group": "FALSE ALACAD",
+   "date": "01/26/2016 09:53:06 AM"
+ },
+ {
+   "code": 41,
+   "description": "HARASSMENT, THREATS",
+   "subgroup": "THREATS, HARASSMENT",
+   "group": "THREATS, HARASSMENT",
+   "date": "01/26/2016 10:07:38 AM"
+ },
+ {
+   "code": 220,
+   "description": "CRISIS COMPLAINT - GENERAL",
+   "subgroup": "CRISIS CALL",
+   "group": "BEHAVIORAL HEALTH",
+   "date": "01/26/2016 10:02:43 AM"
+ },
+ {
+   "code": 250,
+   "description": "MISCHIEF, NUISANCE COMPLAINTS",
+   "subgroup": "NUISANCE, MISCHIEF COMPLAINTS",
+   "group": "NUISANCE, MISCHIEF",
+   "date": "01/26/2016 10:36:08 AM"
+ },
+ {
+   "code": 40,
+   "description": "ASSAULTS, OTHER",
+   "subgroup": "ASSAULTS",
+   "group": "ASSAULTS",
+   "date": "01/26/2016 10:37:25 AM"
+ },
+ {
+   "code": 40,
+   "description": "ASSAULTS, OTHER",
+   "subgroup": "ASSAULTS",
+   "group": "ASSAULTS",
+   "date": "01/26/2016 11:00:30 AM"
+ },
+ {
+   "code": 250,
+   "description": "MISCHIEF, NUISANCE COMPLAINTS",
+   "subgroup": "NUISANCE, MISCHIEF COMPLAINTS",
+   "group": "NUISANCE, MISCHIEF",
+   "date": "01/26/2016 11:44:22 AM"
+ },
+ {
+   "code": 40,
+   "description": "ASSAULTS, OTHER",
+   "subgroup": "ASSAULTS",
+   "group": "ASSAULTS",
+   "date": "01/26/2016 11:35:10 AM"
+ },
+ {
+   "code": 220,
+   "description": "CRISIS COMPLAINT - GENERAL",
+   "subgroup": "CRISIS CALL",
+   "group": "BEHAVIORAL HEALTH",
+   "date": "01/26/2016 12:08:27 PM"
+ },
+ {
+   "code": 220,
+   "description": "CRISIS COMPLAINT - GENERAL",
+   "subgroup": "CRISIS CALL",
+   "group": "BEHAVIORAL HEALTH",
+   "date": "01/26/2016 12:20:16 PM"
+ },
+ {
+   "code": 220,
+   "description": "CRISIS COMPLAINT - GENERAL",
+   "subgroup": "CRISIS CALL",
+   "group": "BEHAVIORAL HEALTH",
+   "date": "01/26/2016 12:23:54 PM"
+ },
+ {
+   "code": 40,
+   "description": "ASSAULTS, OTHER",
+   "subgroup": "ASSAULTS",
+   "group": "ASSAULTS",
+   "date": "01/25/2016 06:14:28 PM"
+ },
+ {
+   "code": 250,
+   "description": "MISCHIEF, NUISANCE COMPLAINTS",
+   "subgroup": "NUISANCE, MISCHIEF COMPLAINTS",
+   "group": "NUISANCE, MISCHIEF",
+   "date": "01/26/2016 12:35:06 PM"
+ },
+ {
+   "code": 250,
+   "description": "MISCHIEF, NUISANCE COMPLAINTS",
+   "subgroup": "NUISANCE, MISCHIEF COMPLAINTS",
+   "group": "NUISANCE, MISCHIEF",
+   "date": "01/26/2016 01:00:17 PM"
+ },
+ {
+   "code": 250,
+   "description": "MISCHIEF, NUISANCE COMPLAINTS",
+   "subgroup": "NUISANCE, MISCHIEF COMPLAINTS",
+   "group": "NUISANCE, MISCHIEF",
+   "date": "01/26/2016 12:43:32 PM"
+ },
+ {
+   "code": 204,
+   "description": "ALACAD - VEHICLE (FALSE)",
+   "subgroup": "VEHICLE ALACAD (FALSE)",
+   "group": "FALSE ALACAD",
+   "date": "01/26/2016 11:30:40 PM"
+ },
+ {
+   "code": 220,
+   "description": "CRISIS COMPLAINT - GENERAL",
+   "subgroup": "CRISIS CALL",
+   "group": "BEHAVIORAL HEALTH",
+   "date": "01/26/2016 01:12:05 PM"
+ },
+ {
+   "code": 220,
+   "description": "CRISIS COMPLAINT - GENERAL",
+   "subgroup": "CRISIS CALL",
+   "group": "BEHAVIORAL HEALTH",
+   "date": "01/26/2016 01:11:52 PM"
+ },
+ {
+   "code": 250,
+   "description": "MISCHIEF, NUISANCE COMPLAINTS",
+   "subgroup": "NUISANCE, MISCHIEF COMPLAINTS",
+   "group": "NUISANCE, MISCHIEF",
+   "date": "01/26/2016 01:20:28 PM"
+ },
+ {
+   "code": 201,
+   "description": "ALACAD - RESIDENTIAL BURGLARY (FALSE)",
+   "subgroup": "BURGLARY ALACAD (FALSE)",
+   "group": "FALSE ALACAD",
+   "date": "01/26/2016 01:32:07 PM"
+ },
+ {
+   "code": 250,
+   "description": "MISCHIEF, NUISANCE COMPLAINTS",
+   "subgroup": "NUISANCE, MISCHIEF COMPLAINTS",
+   "group": "NUISANCE, MISCHIEF",
+   "date": "01/26/2016 01:56:47 PM"
+ },
+ {
+   "code": 40,
+   "description": "ASSAULTS, OTHER",
+   "subgroup": "ASSAULTS",
+   "group": "ASSAULTS",
+   "date": "01/26/2016 01:49:25 PM"
+ },
+ {
+   "code": 41,
+   "description": "HARASSMENT, THREATS",
+   "subgroup": "THREATS, HARASSMENT",
+   "group": "THREATS, HARASSMENT",
+   "date": "01/26/2016 01:44:37 PM"
+ },
+ {
+   "code": 201,
+   "description": "ALACAD - RESIDENTIAL BURGLARY (FALSE)",
+   "subgroup": "BURGLARY ALACAD (FALSE)",
+   "group": "FALSE ALACAD",
+   "date": "01/26/2016 01:41:46 PM"
+ },
+ {
+   "code": 292,
+   "description": "PERSON WITH A WEAPON (NOT GUN)",
+   "subgroup": "WEAPONS CALLS",
+   "group": "WEAPONS CALLS",
+   "date": "01/26/2016 02:55:32 PM"
+ },
+ {
+   "code": 31,
+   "description": "STRONG ARM ROBBERY",
+   "subgroup": "ROBBERY",
+   "group": "ROBBERY",
+   "date": "01/26/2016 02:43:01 PM"
+ },
+ {
+   "code": 31,
+   "description": "STRONG ARM ROBBERY",
+   "subgroup": "ROBBERY",
+   "group": "ROBBERY",
+   "date": "01/26/2016 06:46:35 PM"
+ },
+ {
+   "code": 201,
+   "description": "ALACAD - RESIDENTIAL BURGLARY (FALSE)",
+   "subgroup": "BURGLARY ALACAD (FALSE)",
+   "group": "FALSE ALACAD",
+   "date": "01/26/2016 03:53:41 PM"
+ },
+ {
+   "code": 250,
+   "description": "MISCHIEF, NUISANCE COMPLAINTS",
+   "subgroup": "NUISANCE, MISCHIEF COMPLAINTS",
+   "group": "NUISANCE, MISCHIEF",
+   "date": "01/26/2016 04:18:22 PM"
+ },
+ {
+   "code": 40,
+   "description": "ASSAULTS, OTHER",
+   "subgroup": "ASSAULTS",
+   "group": "ASSAULTS",
+   "date": "01/26/2016 04:01:09 PM"
+ },
+ {
+   "code": 220,
+   "description": "CRISIS COMPLAINT - GENERAL",
+   "subgroup": "CRISIS CALL",
+   "group": "BEHAVIORAL HEALTH",
+   "date": "01/26/2016 04:17:50 PM"
+ },
+ {
+   "code": 42,
+   "description": "HARASSMENT, THREATS - BY TELEPHONE, WRITING",
+   "subgroup": "THREATS, HARASSMENT",
+   "group": "THREATS, HARASSMENT",
+   "date": "01/26/2016 04:31:53 PM"
+ },
+ {
+   "code": 40,
+   "description": "ASSAULTS, OTHER",
+   "subgroup": "ASSAULTS",
+   "group": "ASSAULTS",
+   "date": "01/26/2016 04:57:45 PM"
+ },
+ {
+   "code": 250,
+   "description": "MISCHIEF, NUISANCE COMPLAINTS",
+   "subgroup": "NUISANCE, MISCHIEF COMPLAINTS",
+   "group": "NUISANCE, MISCHIEF",
+   "date": "01/26/2016 07:17:18 PM"
+ },
+ {
+   "code": 40,
+   "description": "ASSAULTS, OTHER",
+   "subgroup": "ASSAULTS",
+   "group": "ASSAULTS",
+   "date": "01/26/2016 04:54:24 PM"
+ },
+ {
+   "code": 41,
+   "description": "HARASSMENT, THREATS",
+   "subgroup": "THREATS, HARASSMENT",
+   "group": "THREATS, HARASSMENT",
+   "date": "01/26/2016 08:48:48 PM"
+ },
+ {
+   "code": 41,
+   "description": "HARASSMENT, THREATS",
+   "subgroup": "THREATS, HARASSMENT",
+   "group": "THREATS, HARASSMENT",
+   "date": "01/26/2016 05:18:34 PM"
+ },
+ {
+   "code": 203,
+   "description": "ALACAD - RESIDENTIAL PANIC (FALSE)",
+   "subgroup": "PANIC ALACAD (FALSE)",
+   "group": "FALSE ALACAD",
+   "date": "01/26/2016 05:41:55 PM"
+ },
+ {
+   "code": 41,
+   "description": "HARASSMENT, THREATS",
+   "subgroup": "THREATS, HARASSMENT",
+   "group": "THREATS, HARASSMENT",
+   "date": "01/26/2016 05:37:54 PM"
+ },
+ {
+   "code": 242,
+   "description": "FIGHT DISTURBANCE",
+   "subgroup": "DISTURBANCES",
+   "group": "DISTURBANCES",
+   "date": "01/26/2016 05:26:37 PM"
+ },
+ {
+   "code": 40,
+   "description": "ASSAULTS, OTHER",
+   "subgroup": "ASSAULTS",
+   "group": "ASSAULTS",
+   "date": "01/26/2016 05:36:27 PM"
+ },
+ {
+   "code": 41,
+   "description": "HARASSMENT, THREATS",
+   "subgroup": "THREATS, HARASSMENT",
+   "group": "THREATS, HARASSMENT",
+   "date": "01/26/2016 07:59:34 PM"
+ },
+ {
+   "code": 40,
+   "description": "ASSAULTS, OTHER",
+   "subgroup": "ASSAULTS",
+   "group": "ASSAULTS",
+   "date": "01/26/2016 08:27:23 PM"
+ },
+ {
+   "code": 201,
+   "description": "ALACAD - RESIDENTIAL BURGLARY (FALSE)",
+   "subgroup": "BURGLARY ALACAD (FALSE)",
+   "group": "FALSE ALACAD",
+   "date": "01/26/2016 09:15:44 PM"
+ },
+ {
+   "code": 41,
+   "description": "HARASSMENT, THREATS",
+   "subgroup": "THREATS, HARASSMENT",
+   "group": "THREATS, HARASSMENT",
+   "date": "01/26/2016 09:39:41 PM"
+ },
+ {
+   "code": 40,
+   "description": "ASSAULTS, OTHER",
+   "subgroup": "ASSAULTS",
+   "group": "ASSAULTS",
+   "date": "01/26/2016 10:23:28 PM"
+ },
+ {
+   "code": 220,
+   "description": "CRISIS COMPLAINT - GENERAL",
+   "subgroup": "CRISIS CALL",
+   "group": "BEHAVIORAL HEALTH",
+   "date": "02/15/2016 06:38:36 AM"
+ },
+ {
+   "code": 40,
+   "description": "ASSAULTS, OTHER",
+   "subgroup": "ASSAULTS",
+   "group": "ASSAULTS",
+   "date": "01/26/2016 10:15:14 PM"
+ },
+ {
+   "code": 330,
+   "description": "CASUALTY (NON CRIMINAL/TRAFFIC) - MAN DOWN, SICK PERSONS, INJURED, DOA)",
+   "subgroup": "CASUALTIES",
+   "group": "PERSON DOWN/INJURY",
+   "date": "01/26/2016 09:36:23 PM"
+ },
+ {
+   "code": 220,
+   "description": "CRISIS COMPLAINT - GENERAL",
+   "subgroup": "CRISIS CALL",
+   "group": "BEHAVIORAL HEALTH",
+   "date": "01/26/2016 11:14:24 PM"
+ },
+ {
+   "code": 40,
+   "description": "ASSAULTS, OTHER",
+   "subgroup": "ASSAULTS",
+   "group": "ASSAULTS",
+   "date": "01/26/2016 09:54:42 PM"
+ },
+ {
+   "code": 291,
+   "description": "PERSON WITH A GUN",
+   "subgroup": "GUN CALLS",
+   "group": "WEAPONS CALLS",
+   "date": "02/11/2016 09:11:07 PM"
+ },
+ {
+   "code": 220,
+   "description": "CRISIS COMPLAINT - GENERAL",
+   "subgroup": "CRISIS CALL",
+   "group": "BEHAVIORAL HEALTH",
+   "date": "01/26/2016 11:51:51 PM"
+ },
+ {
+   "code": 40,
+   "description": "ASSAULTS, OTHER",
+   "subgroup": "ASSAULTS",
+   "group": "ASSAULTS",
+   "date": "01/27/2016 01:37:13 AM"
+ },
+ {
+   "code": 40,
+   "description": "ASSAULTS, OTHER",
+   "subgroup": "ASSAULTS",
+   "group": "ASSAULTS",
+   "date": "01/27/2016 01:29:20 AM"
+ },
+ {
+   "code": 179,
+   "description": "DRIVE BY SHOOTING (NO INJURIES)",
+   "subgroup": "GUN CALLS",
+   "group": "DRIVE BY (NO INJURY)",
+   "date": "01/27/2016 02:06:10 AM"
+ },
+ {
+   "code": 31,
+   "description": "STRONG ARM ROBBERY",
+   "subgroup": "ROBBERY",
+   "group": "ROBBERY",
+   "date": "01/27/2016 02:20:12 AM"
+ },
+ {
+   "code": 40,
+   "description": "ASSAULTS, OTHER",
+   "subgroup": "ASSAULTS",
+   "group": "ASSAULTS",
+   "date": "01/21/2016 07:25:53 PM"
+ },
+ {
+   "code": 250,
+   "description": "MISCHIEF, NUISANCE COMPLAINTS",
+   "subgroup": "NUISANCE, MISCHIEF COMPLAINTS",
+   "group": "NUISANCE, MISCHIEF",
+   "date": "01/27/2016 04:18:22 AM"
+ },
+ {
+   "code": 220,
+   "description": "CRISIS COMPLAINT - GENERAL",
+   "subgroup": "CRISIS CALL",
+   "group": "BEHAVIORAL HEALTH",
+   "date": "01/27/2016 04:49:24 AM"
+ },
+ {
+   "code": 201,
+   "description": "ALACAD - RESIDENTIAL BURGLARY (FALSE)",
+   "subgroup": "BURGLARY ALACAD (FALSE)",
+   "group": "FALSE ALACAD",
+   "date": "01/27/2016 04:55:09 AM"
+ },
+ {
+   "code": 201,
+   "description": "ALACAD - RESIDENTIAL BURGLARY (FALSE)",
+   "subgroup": "BURGLARY ALACAD (FALSE)",
+   "group": "FALSE ALACAD",
+   "date": "01/27/2016 05:29:02 AM"
+ },
+ {
+   "code": 201,
+   "description": "ALACAD - RESIDENTIAL BURGLARY (FALSE)",
+   "subgroup": "BURGLARY ALACAD (FALSE)",
+   "group": "FALSE ALACAD",
+   "date": "01/27/2016 05:55:49 AM"
+ },
+ {
+   "code": 201,
+   "description": "ALACAD - RESIDENTIAL BURGLARY (FALSE)",
+   "subgroup": "BURGLARY ALACAD (FALSE)",
+   "group": "FALSE ALACAD",
+   "date": "01/27/2016 07:48:27 AM"
+ },
+ {
+   "code": 250,
+   "description": "MISCHIEF, NUISANCE COMPLAINTS",
+   "subgroup": "NUISANCE, MISCHIEF COMPLAINTS",
+   "group": "NUISANCE, MISCHIEF",
+   "date": "01/27/2016 08:45:46 AM"
+ },
+ {
+   "code": 41,
+   "description": "HARASSMENT, THREATS",
+   "subgroup": "THREATS, HARASSMENT",
+   "group": "THREATS, HARASSMENT",
+   "date": "01/27/2016 08:35:46 AM"
+ },
+ {
+   "code": 330,
+   "description": "CASUALTY (NON CRIMINAL/TRAFFIC) - MAN DOWN, SICK PERSONS, INJURED, DOA)",
+   "subgroup": "CASUALTIES",
+   "group": "PERSON DOWN/INJURY",
+   "date": "01/27/2016 10:31:00 AM"
+ },
+ {
+   "code": 41,
+   "description": "HARASSMENT, THREATS",
+   "subgroup": "THREATS, HARASSMENT",
+   "group": "THREATS, HARASSMENT",
+   "date": "01/27/2016 10:38:05 AM"
+ },
+ {
+   "code": 203,
+   "description": "ALACAD - RESIDENTIAL PANIC (FALSE)",
+   "subgroup": "PANIC ALACAD (FALSE)",
+   "group": "FALSE ALACAD",
+   "date": "01/27/2016 10:59:34 AM"
+ },
+ {
+   "code": 40,
+   "description": "ASSAULTS, OTHER",
+   "subgroup": "ASSAULTS",
+   "group": "ASSAULTS",
+   "date": "01/27/2016 11:30:56 AM"
+ },
+ {
+   "code": 250,
+   "description": "MISCHIEF, NUISANCE COMPLAINTS",
+   "subgroup": "NUISANCE, MISCHIEF COMPLAINTS",
+   "group": "NUISANCE, MISCHIEF",
+   "date": "01/27/2016 11:39:14 AM"
+ },
+ {
+   "code": 31,
+   "description": "STRONG ARM ROBBERY",
+   "subgroup": "ROBBERY",
+   "group": "ROBBERY",
+   "date": "01/27/2016 11:31:14 AM"
+ },
+ {
+   "code": 330,
+   "description": "CASUALTY (NON CRIMINAL/TRAFFIC) - MAN DOWN, SICK PERSONS, INJURED, DOA)",
+   "subgroup": "CASUALTIES",
+   "group": "PERSON DOWN/INJURY",
+   "date": "01/27/2016 11:45:24 AM"
+ },
+ {
+   "code": 330,
+   "description": "CASUALTY (NON CRIMINAL/TRAFFIC) - MAN DOWN, SICK PERSONS, INJURED, DOA)",
+   "subgroup": "CASUALTIES",
+   "group": "PERSON DOWN/INJURY",
+   "date": "01/27/2016 07:39:27 PM"
+ },
+ {
+   "code": 201,
+   "description": "ALACAD - RESIDENTIAL BURGLARY (FALSE)",
+   "subgroup": "BURGLARY ALACAD (FALSE)",
+   "group": "FALSE ALACAD",
+   "date": "01/27/2016 12:47:31 PM"
+ },
+ {
+   "code": 41,
+   "description": "HARASSMENT, THREATS",
+   "subgroup": "THREATS, HARASSMENT",
+   "group": "THREATS, HARASSMENT",
+   "date": "01/27/2016 12:25:02 PM"
+ },
+ {
+   "code": 201,
+   "description": "ALACAD - RESIDENTIAL BURGLARY (FALSE)",
+   "subgroup": "BURGLARY ALACAD (FALSE)",
+   "group": "FALSE ALACAD",
+   "date": "01/27/2016 12:26:02 PM"
+ },
+ {
+   "code": 250,
+   "description": "MISCHIEF, NUISANCE COMPLAINTS",
+   "subgroup": "NUISANCE, MISCHIEF COMPLAINTS",
+   "group": "NUISANCE, MISCHIEF",
+   "date": "01/27/2016 01:17:33 PM"
+ },
+ {
+   "code": 250,
+   "description": "MISCHIEF, NUISANCE COMPLAINTS",
+   "subgroup": "NUISANCE, MISCHIEF COMPLAINTS",
+   "group": "NUISANCE, MISCHIEF",
+   "date": "01/27/2016 01:58:32 PM"
+ },
+ {
+   "code": 40,
+   "description": "ASSAULTS, OTHER",
+   "subgroup": "ASSAULTS",
+   "group": "ASSAULTS",
+   "date": "01/27/2016 02:41:30 PM"
+ },
+ {
+   "code": 250,
+   "description": "MISCHIEF, NUISANCE COMPLAINTS",
+   "subgroup": "NUISANCE, MISCHIEF COMPLAINTS",
+   "group": "NUISANCE, MISCHIEF",
+   "date": "01/27/2016 02:52:49 PM"
+ },
+ {
+   "code": 30,
+   "description": "ARMED ROBBERY",
+   "subgroup": "GUN CALLS",
+   "group": "ROBBERY",
+   "date": "01/27/2016 03:25:37 PM"
+ },
+ {
+   "code": 201,
+   "description": "ALACAD - RESIDENTIAL BURGLARY (FALSE)",
+   "subgroup": "BURGLARY ALACAD (FALSE)",
+   "group": "FALSE ALACAD",
+   "date": "01/27/2016 03:28:19 PM"
+ },
+ {
+   "code": 250,
+   "description": "MISCHIEF, NUISANCE COMPLAINTS",
+   "subgroup": "NUISANCE, MISCHIEF COMPLAINTS",
+   "group": "NUISANCE, MISCHIEF",
+   "date": "01/27/2016 03:18:24 PM"
+ },
+ {
+   "code": 330,
+   "description": "CASUALTY (NON CRIMINAL/TRAFFIC) - MAN DOWN, SICK PERSONS, INJURED, DOA)",
+   "subgroup": "CASUALTIES",
+   "group": "PERSON DOWN/INJURY",
+   "date": "01/27/2016 04:14:15 PM"
+ },
+ {
+   "code": 220,
+   "description": "CRISIS COMPLAINT - GENERAL",
+   "subgroup": "CRISIS CALL",
+   "group": "BEHAVIORAL HEALTH",
+   "date": "01/27/2016 04:56:47 PM"
+ },
+ {
+   "code": 242,
+   "description": "FIGHT DISTURBANCE",
+   "subgroup": "DISTURBANCES",
+   "group": "DISTURBANCES",
+   "date": "01/27/2016 05:17:38 PM"
+ },
+ {
+   "code": 30,
+   "description": "ARMED ROBBERY",
+   "subgroup": "GUN CALLS",
+   "group": "ROBBERY",
+   "date": "01/27/2016 05:43:16 PM"
+ },
+ {
+   "code": 220,
+   "description": "CRISIS COMPLAINT - GENERAL",
+   "subgroup": "CRISIS CALL",
+   "group": "BEHAVIORAL HEALTH",
+   "date": "01/27/2016 05:30:46 PM"
+ },
+ {
+   "code": 40,
+   "description": "ASSAULTS, OTHER",
+   "subgroup": "ASSAULTS",
+   "group": "ASSAULTS",
+   "date": "01/27/2016 05:32:50 PM"
+ },
+ {
+   "code": 40,
+   "description": "ASSAULTS, OTHER",
+   "subgroup": "ASSAULTS",
+   "group": "ASSAULTS",
+   "date": "01/27/2016 06:25:11 PM"
+ },
+ {
+   "code": 220,
+   "description": "CRISIS COMPLAINT - GENERAL",
+   "subgroup": "CRISIS CALL",
+   "group": "BEHAVIORAL HEALTH",
+   "date": "01/27/2016 06:57:52 PM"
+ },
+ {
+   "code": 40,
+   "description": "ASSAULTS, OTHER",
+   "subgroup": "ASSAULTS",
+   "group": "ASSAULTS",
+   "date": "01/27/2016 07:12:40 PM"
+ },
+ {
+   "code": 220,
+   "description": "CRISIS COMPLAINT - GENERAL",
+   "subgroup": "CRISIS CALL",
+   "group": "BEHAVIORAL HEALTH",
+   "date": "01/27/2016 07:56:25 PM"
+ },
+ {
+   "code": 201,
+   "description": "ALACAD - RESIDENTIAL BURGLARY (FALSE)",
+   "subgroup": "BURGLARY ALACAD (FALSE)",
+   "group": "FALSE ALACAD",
+   "date": "01/27/2016 07:40:01 PM"
+ },
+ {
+   "code": 204,
+   "description": "ALACAD - VEHICLE (FALSE)",
+   "subgroup": "VEHICLE ALACAD (FALSE)",
+   "group": "FALSE ALACAD",
+   "date": "01/27/2016 07:42:42 PM"
+ },
+ {
+   "code": 242,
+   "description": "FIGHT DISTURBANCE",
+   "subgroup": "DISTURBANCES",
+   "group": "DISTURBANCES",
+   "date": "01/27/2016 08:16:24 PM"
+ },
+ {
+   "code": 220,
+   "description": "CRISIS COMPLAINT - GENERAL",
+   "subgroup": "CRISIS CALL",
+   "group": "BEHAVIORAL HEALTH",
+   "date": "01/27/2016 08:04:58 PM"
+ },
+ {
+   "code": 220,
+   "description": "CRISIS COMPLAINT - GENERAL",
+   "subgroup": "CRISIS CALL",
+   "group": "BEHAVIORAL HEALTH",
+   "date": "01/27/2016 08:22:58 PM"
+ },
+ {
+   "code": 330,
+   "description": "CASUALTY (NON CRIMINAL/TRAFFIC) - MAN DOWN, SICK PERSONS, INJURED, DOA)",
+   "subgroup": "CASUALTIES",
+   "group": "PERSON DOWN/INJURY",
+   "date": "01/27/2016 08:23:54 PM"
+ },
+ {
+   "code": 201,
+   "description": "ALACAD - RESIDENTIAL BURGLARY (FALSE)",
+   "subgroup": "BURGLARY ALACAD (FALSE)",
+   "group": "FALSE ALACAD",
+   "date": "01/27/2016 08:35:35 PM"
+ },
+ {
+   "code": 330,
+   "description": "CASUALTY (NON CRIMINAL/TRAFFIC) - MAN DOWN, SICK PERSONS, INJURED, DOA)",
+   "subgroup": "CASUALTIES",
+   "group": "PERSON DOWN/INJURY",
+   "date": "01/27/2016 08:45:32 PM"
+ },
+ {
+   "code": 220,
+   "description": "CRISIS COMPLAINT - GENERAL",
+   "subgroup": "CRISIS CALL",
+   "group": "BEHAVIORAL HEALTH",
+   "date": "01/27/2016 06:12:27 PM"
+ },
+ {
+   "code": 242,
+   "description": "FIGHT DISTURBANCE",
+   "subgroup": "DISTURBANCES",
+   "group": "DISTURBANCES",
+   "date": "01/27/2016 09:25:48 PM"
+ },
+ {
+   "code": 40,
+   "description": "ASSAULTS, OTHER",
+   "subgroup": "ASSAULTS",
+   "group": "ASSAULTS",
+   "date": "01/27/2016 10:33:25 PM"
+ },
+ {
+   "code": 41,
+   "description": "HARASSMENT, THREATS",
+   "subgroup": "THREATS, HARASSMENT",
+   "group": "THREATS, HARASSMENT",
+   "date": "01/27/2016 10:46:37 PM"
+ },
+ {
+   "code": 250,
+   "description": "MISCHIEF, NUISANCE COMPLAINTS",
+   "subgroup": "NUISANCE, MISCHIEF COMPLAINTS",
+   "group": "NUISANCE, MISCHIEF",
+   "date": "01/27/2016 10:53:35 PM"
+ },
+ {
+   "code": 41,
+   "description": "HARASSMENT, THREATS",
+   "subgroup": "THREATS, HARASSMENT",
+   "group": "THREATS, HARASSMENT",
+   "date": "01/27/2016 10:55:58 PM"
+ },
+ {
+   "code": 201,
+   "description": "ALACAD - RESIDENTIAL BURGLARY (FALSE)",
+   "subgroup": "BURGLARY ALACAD (FALSE)",
+   "group": "FALSE ALACAD",
+   "date": "01/27/2016 11:00:38 PM"
+ },
+ {
+   "code": 220,
+   "description": "CRISIS COMPLAINT - GENERAL",
+   "subgroup": "CRISIS CALL",
+   "group": "BEHAVIORAL HEALTH",
+   "date": "02/11/2016 07:29:49 PM"
+ },
+ {
+   "code": 31,
+   "description": "STRONG ARM ROBBERY",
+   "subgroup": "ROBBERY",
+   "group": "ROBBERY",
+   "date": "01/27/2016 11:40:23 PM"
+ },
+ {
+   "code": 220,
+   "description": "CRISIS COMPLAINT - GENERAL",
+   "subgroup": "CRISIS CALL",
+   "group": "BEHAVIORAL HEALTH",
+   "date": "01/27/2016 11:40:49 PM"
+ },
+ {
+   "code": 179,
+   "description": "DRIVE BY SHOOTING (NO INJURIES)",
+   "subgroup": "GUN CALLS",
+   "group": "DRIVE BY (NO INJURY)",
+   "date": "01/26/2016 10:59:12 PM"
+ },
+ {
+   "code": 220,
+   "description": "CRISIS COMPLAINT - GENERAL",
+   "subgroup": "CRISIS CALL",
+   "group": "BEHAVIORAL HEALTH",
+   "date": "02/11/2016 10:12:35 PM"
+ },
+ {
+   "code": 201,
+   "description": "ALACAD - RESIDENTIAL BURGLARY (FALSE)",
+   "subgroup": "BURGLARY ALACAD (FALSE)",
+   "group": "FALSE ALACAD",
+   "date": "01/28/2016 01:26:00 AM"
+ },
+ {
+   "code": 40,
+   "description": "ASSAULTS, OTHER",
+   "subgroup": "ASSAULTS",
+   "group": "ASSAULTS",
+   "date": "01/28/2016 03:05:04 AM"
+ },
+ {
+   "code": 220,
+   "description": "CRISIS COMPLAINT - GENERAL",
+   "subgroup": "CRISIS CALL",
+   "group": "BEHAVIORAL HEALTH",
+   "date": "10/29/2016 02:30:26 AM"
+ },
+ {
+   "code": 40,
+   "description": "ASSAULTS, OTHER",
+   "subgroup": "ASSAULTS",
+   "group": "ASSAULTS",
+   "date": "01/28/2016 03:53:32 AM"
+ },
+ {
+   "code": 250,
+   "description": "MISCHIEF, NUISANCE COMPLAINTS",
+   "subgroup": "NUISANCE, MISCHIEF COMPLAINTS",
+   "group": "NUISANCE, MISCHIEF",
+   "date": "01/28/2016 04:03:15 AM"
+ },
+ {
+   "code": 201,
+   "description": "ALACAD - RESIDENTIAL BURGLARY (FALSE)",
+   "subgroup": "BURGLARY ALACAD (FALSE)",
+   "group": "FALSE ALACAD",
+   "date": "01/28/2016 05:30:56 AM"
+ },
+ {
+   "code": 220,
+   "description": "CRISIS COMPLAINT - GENERAL",
+   "subgroup": "CRISIS CALL",
+   "group": "BEHAVIORAL HEALTH",
+   "date": "01/28/2016 06:38:36 AM"
+ },
+ {
+   "code": 250,
+   "description": "MISCHIEF, NUISANCE COMPLAINTS",
+   "subgroup": "NUISANCE, MISCHIEF COMPLAINTS",
+   "group": "NUISANCE, MISCHIEF",
+   "date": "01/28/2016 06:44:54 AM"
+ },
+ {
+   "code": 201,
+   "description": "ALACAD - RESIDENTIAL BURGLARY (FALSE)",
+   "subgroup": "BURGLARY ALACAD (FALSE)",
+   "group": "FALSE ALACAD",
+   "date": "01/28/2016 07:40:51 AM"
+ },
+ {
+   "code": 201,
+   "description": "ALACAD - RESIDENTIAL BURGLARY (FALSE)",
+   "subgroup": "BURGLARY ALACAD (FALSE)",
+   "group": "FALSE ALACAD",
+   "date": "01/28/2016 07:58:22 AM"
+ },
+ {
+   "code": 201,
+   "description": "ALACAD - RESIDENTIAL BURGLARY (FALSE)",
+   "subgroup": "BURGLARY ALACAD (FALSE)",
+   "group": "FALSE ALACAD",
+   "date": "01/28/2016 08:03:24 AM"
+ },
+ {
+   "code": 40,
+   "description": "ASSAULTS, OTHER",
+   "subgroup": "ASSAULTS",
+   "group": "ASSAULTS",
+   "date": "01/29/2016 03:47:33 PM"
+ },
+ {
+   "code": 201,
+   "description": "ALACAD - RESIDENTIAL BURGLARY (FALSE)",
+   "subgroup": "BURGLARY ALACAD (FALSE)",
+   "group": "FALSE ALACAD",
+   "date": "01/28/2016 05:24:54 PM"
+ },
+ {
+   "code": 250,
+   "description": "MISCHIEF, NUISANCE COMPLAINTS",
+   "subgroup": "NUISANCE, MISCHIEF COMPLAINTS",
+   "group": "NUISANCE, MISCHIEF",
+   "date": "01/28/2016 10:11:44 AM"
+ },
+ {
+   "code": 250,
+   "description": "MISCHIEF, NUISANCE COMPLAINTS",
+   "subgroup": "NUISANCE, MISCHIEF COMPLAINTS",
+   "group": "NUISANCE, MISCHIEF",
+   "date": "01/28/2016 09:40:23 AM"
+ },
+ {
+   "code": 201,
+   "description": "ALACAD - RESIDENTIAL BURGLARY (FALSE)",
+   "subgroup": "BURGLARY ALACAD (FALSE)",
+   "group": "FALSE ALACAD",
+   "date": "01/28/2016 12:35:06 PM"
+ },
+ {
+   "code": 220,
+   "description": "CRISIS COMPLAINT - GENERAL",
+   "subgroup": "CRISIS CALL",
+   "group": "BEHAVIORAL HEALTH",
+   "date": "01/28/2016 12:15:14 PM"
+ },
+ {
+   "code": 201,
+   "description": "ALACAD - RESIDENTIAL BURGLARY (FALSE)",
+   "subgroup": "BURGLARY ALACAD (FALSE)",
+   "group": "FALSE ALACAD",
+   "date": "01/28/2016 11:45:49 AM"
+ },
+ {
+   "code": 242,
+   "description": "FIGHT DISTURBANCE",
+   "subgroup": "DISTURBANCES",
+   "group": "DISTURBANCES",
+   "date": "01/28/2016 10:58:28 AM"
+ },
+ {
+   "code": 220,
+   "description": "CRISIS COMPLAINT - GENERAL",
+   "subgroup": "CRISIS CALL",
+   "group": "BEHAVIORAL HEALTH",
+   "date": "01/28/2016 11:04:17 AM"
+ },
+ {
+   "code": 250,
+   "description": "MISCHIEF, NUISANCE COMPLAINTS",
+   "subgroup": "NUISANCE, MISCHIEF COMPLAINTS",
+   "group": "NUISANCE, MISCHIEF",
+   "date": "01/28/2016 11:25:37 AM"
+ },
+ {
+   "code": 250,
+   "description": "MISCHIEF, NUISANCE COMPLAINTS",
+   "subgroup": "NUISANCE, MISCHIEF COMPLAINTS",
+   "group": "NUISANCE, MISCHIEF",
+   "date": "01/28/2016 11:22:33 AM"
+ },
+ {
+   "code": 41,
+   "description": "HARASSMENT, THREATS",
+   "subgroup": "THREATS, HARASSMENT",
+   "group": "THREATS, HARASSMENT",
+   "date": "01/28/2016 11:51:51 AM"
+ },
+ {
+   "code": 201,
+   "description": "ALACAD - RESIDENTIAL BURGLARY (FALSE)",
+   "subgroup": "BURGLARY ALACAD (FALSE)",
+   "group": "FALSE ALACAD",
+   "date": "01/28/2016 11:46:35 AM"
+ },
+ {
+   "code": 220,
+   "description": "CRISIS COMPLAINT - GENERAL",
+   "subgroup": "CRISIS CALL",
+   "group": "BEHAVIORAL HEALTH",
+   "date": "01/28/2016 12:13:17 PM"
+ },
+ {
+   "code": 40,
+   "description": "ASSAULTS, OTHER",
+   "subgroup": "ASSAULTS",
+   "group": "ASSAULTS",
+   "date": "01/28/2016 12:26:16 PM"
+ },
+ {
+   "code": 220,
+   "description": "CRISIS COMPLAINT - GENERAL",
+   "subgroup": "CRISIS CALL",
+   "group": "BEHAVIORAL HEALTH",
+   "date": "02/11/2016 10:51:41 PM"
+ },
+ {
+   "code": 41,
+   "description": "HARASSMENT, THREATS",
+   "subgroup": "THREATS, HARASSMENT",
+   "group": "THREATS, HARASSMENT",
+   "date": "01/28/2016 12:55:27 PM"
+ },
+ {
+   "code": 201,
+   "description": "ALACAD - RESIDENTIAL BURGLARY (FALSE)",
+   "subgroup": "BURGLARY ALACAD (FALSE)",
+   "group": "FALSE ALACAD",
+   "date": "01/28/2016 04:44:17 PM"
+ },
+ {
+   "code": 201,
+   "description": "ALACAD - RESIDENTIAL BURGLARY (FALSE)",
+   "subgroup": "BURGLARY ALACAD (FALSE)",
+   "group": "FALSE ALACAD",
+   "date": "01/28/2016 01:11:52 PM"
+ },
+ {
+   "code": 201,
+   "description": "ALACAD - RESIDENTIAL BURGLARY (FALSE)",
+   "subgroup": "BURGLARY ALACAD (FALSE)",
+   "group": "FALSE ALACAD",
+   "date": "01/28/2016 07:48:12 PM"
+ },
+ {
+   "code": 201,
+   "description": "ALACAD - RESIDENTIAL BURGLARY (FALSE)",
+   "subgroup": "BURGLARY ALACAD (FALSE)",
+   "group": "FALSE ALACAD",
+   "date": "01/28/2016 04:50:02 PM"
+ },
+ {
+   "code": 41,
+   "description": "HARASSMENT, THREATS",
+   "subgroup": "THREATS, HARASSMENT",
+   "group": "THREATS, HARASSMENT",
+   "date": "01/28/2016 04:38:04 PM"
+ },
+ {
+   "code": 250,
+   "description": "MISCHIEF, NUISANCE COMPLAINTS",
+   "subgroup": "NUISANCE, MISCHIEF COMPLAINTS",
+   "group": "NUISANCE, MISCHIEF",
+   "date": "01/28/2016 05:15:58 PM"
+ },
+ {
+   "code": 242,
+   "description": "FIGHT DISTURBANCE",
+   "subgroup": "DISTURBANCES",
+   "group": "DISTURBANCES",
+   "date": "01/28/2016 05:39:39 PM"
+ },
+ {
+   "code": 201,
+   "description": "ALACAD - RESIDENTIAL BURGLARY (FALSE)",
+   "subgroup": "BURGLARY ALACAD (FALSE)",
+   "group": "FALSE ALACAD",
+   "date": "01/28/2016 06:26:30 PM"
+ },
+ {
+   "code": 250,
+   "description": "MISCHIEF, NUISANCE COMPLAINTS",
+   "subgroup": "NUISANCE, MISCHIEF COMPLAINTS",
+   "group": "NUISANCE, MISCHIEF",
+   "date": "01/28/2016 06:11:40 PM"
+ },
+ {
+   "code": 202,
+   "description": "ALACAD - COMMERCIAL PANIC (FALSE)",
+   "subgroup": "PANIC ALACAD (FALSE)",
+   "group": "FALSE ALACAD",
+   "date": "01/28/2016 06:44:46 PM"
+ },
+ {
+   "code": 41,
+   "description": "HARASSMENT, THREATS",
+   "subgroup": "THREATS, HARASSMENT",
+   "group": "THREATS, HARASSMENT",
+   "date": "01/28/2016 06:24:56 PM"
+ },
+ {
+   "code": 330,
+   "description": "CASUALTY (NON CRIMINAL/TRAFFIC) - MAN DOWN, SICK PERSONS, INJURED, DOA)",
+   "subgroup": "CASUALTIES",
+   "group": "PERSON DOWN/INJURY",
+   "date": "01/28/2016 07:16:51 PM"
+ },
+ {
+   "code": 250,
+   "description": "MISCHIEF, NUISANCE COMPLAINTS",
+   "subgroup": "NUISANCE, MISCHIEF COMPLAINTS",
+   "group": "NUISANCE, MISCHIEF",
+   "date": "01/28/2016 07:58:23 PM"
+ },
+ {
+   "code": 201,
+   "description": "ALACAD - RESIDENTIAL BURGLARY (FALSE)",
+   "subgroup": "BURGLARY ALACAD (FALSE)",
+   "group": "FALSE ALACAD",
+   "date": "01/28/2016 08:32:48 PM"
+ },
+ {
+   "code": 242,
+   "description": "FIGHT DISTURBANCE",
+   "subgroup": "DISTURBANCES",
+   "group": "DISTURBANCES",
+   "date": "01/28/2016 09:05:18 PM"
+ },
+ {
+   "code": 40,
+   "description": "ASSAULTS, OTHER",
+   "subgroup": "ASSAULTS",
+   "group": "ASSAULTS",
+   "date": "01/28/2016 10:14:41 PM"
+ },
+ {
+   "code": 220,
+   "description": "CRISIS COMPLAINT - GENERAL",
+   "subgroup": "CRISIS CALL",
+   "group": "BEHAVIORAL HEALTH",
+   "date": "01/28/2016 10:00:10 PM"
+ },
+ {
+   "code": 201,
+   "description": "ALACAD - RESIDENTIAL BURGLARY (FALSE)",
+   "subgroup": "BURGLARY ALACAD (FALSE)",
+   "group": "FALSE ALACAD",
+   "date": "01/28/2016 09:39:53 PM"
+ },
+ {
+   "code": 31,
+   "description": "STRONG ARM ROBBERY",
+   "subgroup": "ROBBERY",
+   "group": "ROBBERY",
+   "date": "01/28/2016 09:37:17 PM"
+ },
+ {
+   "code": 40,
+   "description": "ASSAULTS, OTHER",
+   "subgroup": "ASSAULTS",
+   "group": "ASSAULTS",
+   "date": "01/28/2016 10:26:21 PM"
+ },
+ {
+   "code": 40,
+   "description": "ASSAULTS, OTHER",
+   "subgroup": "ASSAULTS",
+   "group": "ASSAULTS",
+   "date": "01/28/2016 10:56:36 PM"
+ },
+ {
+   "code": 250,
+   "description": "MISCHIEF, NUISANCE COMPLAINTS",
+   "subgroup": "NUISANCE, MISCHIEF COMPLAINTS",
+   "group": "NUISANCE, MISCHIEF",
+   "date": "01/28/2016 09:53:51 PM"
+ },
+ {
+   "code": 220,
+   "description": "CRISIS COMPLAINT - GENERAL",
+   "subgroup": "CRISIS CALL",
+   "group": "BEHAVIORAL HEALTH",
+   "date": "01/28/2016 09:58:48 PM"
+ },
+ {
+   "code": 41,
+   "description": "HARASSMENT, THREATS",
+   "subgroup": "THREATS, HARASSMENT",
+   "group": "THREATS, HARASSMENT",
+   "date": "01/28/2016 04:27:53 PM"
+ },
+ {
+   "code": 92,
+   "description": "RECKLESS BURNING",
+   "subgroup": "RECKLESS BURNING",
+   "group": "RECKLESS BURNING",
+   "date": "01/29/2016 12:16:32 AM"
+ },
+ {
+   "code": 201,
+   "description": "ALACAD - RESIDENTIAL BURGLARY (FALSE)",
+   "subgroup": "BURGLARY ALACAD (FALSE)",
+   "group": "FALSE ALACAD",
+   "date": "01/29/2016 12:42:54 AM"
+ },
+ {
+   "code": 220,
+   "description": "CRISIS COMPLAINT - GENERAL",
+   "subgroup": "CRISIS CALL",
+   "group": "BEHAVIORAL HEALTH",
+   "date": "01/29/2016 12:28:46 AM"
+ },
+ {
+   "code": 220,
+   "description": "CRISIS COMPLAINT - GENERAL",
+   "subgroup": "CRISIS CALL",
+   "group": "BEHAVIORAL HEALTH",
+   "date": "01/29/2016 01:22:31 AM"
+ },
+ {
+   "code": 250,
+   "description": "MISCHIEF, NUISANCE COMPLAINTS",
+   "subgroup": "NUISANCE, MISCHIEF COMPLAINTS",
+   "group": "NUISANCE, MISCHIEF",
+   "date": "01/29/2016 01:54:27 AM"
+ },
+ {
+   "code": 41,
+   "description": "HARASSMENT, THREATS",
+   "subgroup": "THREATS, HARASSMENT",
+   "group": "THREATS, HARASSMENT",
+   "date": "01/29/2016 02:18:27 AM"
+ },
+ {
+   "code": 250,
+   "description": "MISCHIEF, NUISANCE COMPLAINTS",
+   "subgroup": "NUISANCE, MISCHIEF COMPLAINTS",
+   "group": "NUISANCE, MISCHIEF",
+   "date": "01/29/2016 02:54:40 AM"
+ },
+ {
+   "code": 292,
+   "description": "PERSON WITH A WEAPON (NOT GUN)",
+   "subgroup": "WEAPONS CALLS",
+   "group": "WEAPONS CALLS",
+   "date": "01/29/2016 02:53:32 AM"
+ },
+ {
+   "code": 40,
+   "description": "ASSAULTS, OTHER",
+   "subgroup": "ASSAULTS",
+   "group": "ASSAULTS",
+   "date": "01/29/2016 03:24:47 AM"
+ },
+ {
+   "code": 250,
+   "description": "MISCHIEF, NUISANCE COMPLAINTS",
+   "subgroup": "NUISANCE, MISCHIEF COMPLAINTS",
+   "group": "NUISANCE, MISCHIEF",
+   "date": "01/29/2016 03:47:42 AM"
+ },
+ {
+   "code": 330,
+   "description": "CASUALTY (NON CRIMINAL/TRAFFIC) - MAN DOWN, SICK PERSONS, INJURED, DOA)",
+   "subgroup": "CASUALTIES",
+   "group": "PERSON DOWN/INJURY",
+   "date": "10/13/2016 07:56:51 PM"
+ },
+ {
+   "code": 250,
+   "description": "MISCHIEF, NUISANCE COMPLAINTS",
+   "subgroup": "NUISANCE, MISCHIEF COMPLAINTS",
+   "group": "NUISANCE, MISCHIEF",
+   "date": "01/29/2016 05:06:58 AM"
+ },
+ {
+   "code": 242,
+   "description": "FIGHT DISTURBANCE",
+   "subgroup": "DISTURBANCES",
+   "group": "DISTURBANCES",
+   "date": "01/29/2016 06:27:21 AM"
+ },
+ {
+   "code": 201,
+   "description": "ALACAD - RESIDENTIAL BURGLARY (FALSE)",
+   "subgroup": "BURGLARY ALACAD (FALSE)",
+   "group": "FALSE ALACAD",
+   "date": "01/29/2016 06:42:11 AM"
+ },
+ {
+   "code": 250,
+   "description": "MISCHIEF, NUISANCE COMPLAINTS",
+   "subgroup": "NUISANCE, MISCHIEF COMPLAINTS",
+   "group": "NUISANCE, MISCHIEF",
+   "date": "01/29/2016 06:40:01 AM"
+ },
+ {
+   "code": 203,
+   "description": "ALACAD - RESIDENTIAL PANIC (FALSE)",
+   "subgroup": "PANIC ALACAD (FALSE)",
+   "group": "FALSE ALACAD",
+   "date": "01/29/2016 07:01:22 AM"
+ },
+ {
+   "code": 330,
+   "description": "CASUALTY (NON CRIMINAL/TRAFFIC) - MAN DOWN, SICK PERSONS, INJURED, DOA)",
+   "subgroup": "CASUALTIES",
+   "group": "PERSON DOWN/INJURY",
+   "date": "01/29/2016 07:03:58 AM"
+ },
+ {
+   "code": 250,
+   "description": "MISCHIEF, NUISANCE COMPLAINTS",
+   "subgroup": "NUISANCE, MISCHIEF COMPLAINTS",
+   "group": "NUISANCE, MISCHIEF",
+   "date": "01/29/2016 07:32:04 AM"
+ },
+ {
+   "code": 201,
+   "description": "ALACAD - RESIDENTIAL BURGLARY (FALSE)",
+   "subgroup": "BURGLARY ALACAD (FALSE)",
+   "group": "FALSE ALACAD",
+   "date": "01/29/2016 08:09:45 AM"
+ },
+ {
+   "code": 220,
+   "description": "CRISIS COMPLAINT - GENERAL",
+   "subgroup": "CRISIS CALL",
+   "group": "BEHAVIORAL HEALTH",
+   "date": "01/29/2016 08:12:58 AM"
+ },
+ {
+   "code": 250,
+   "description": "MISCHIEF, NUISANCE COMPLAINTS",
+   "subgroup": "NUISANCE, MISCHIEF COMPLAINTS",
+   "group": "NUISANCE, MISCHIEF",
+   "date": "01/29/2016 08:53:58 AM"
+ },
+ {
+   "code": 250,
+   "description": "MISCHIEF, NUISANCE COMPLAINTS",
+   "subgroup": "NUISANCE, MISCHIEF COMPLAINTS",
+   "group": "NUISANCE, MISCHIEF",
+   "date": "01/29/2016 09:06:43 AM"
+ },
+ {
+   "code": 40,
+   "description": "ASSAULTS, OTHER",
+   "subgroup": "ASSAULTS",
+   "group": "ASSAULTS",
+   "date": "01/29/2016 09:22:28 AM"
+ },
+ {
+   "code": 40,
+   "description": "ASSAULTS, OTHER",
+   "subgroup": "ASSAULTS",
+   "group": "ASSAULTS",
+   "date": "01/29/2016 10:26:45 AM"
+ },
+ {
+   "code": 250,
+   "description": "MISCHIEF, NUISANCE COMPLAINTS",
+   "subgroup": "NUISANCE, MISCHIEF COMPLAINTS",
+   "group": "NUISANCE, MISCHIEF",
+   "date": "01/29/2016 10:44:18 AM"
+ },
+ {
+   "code": 202,
+   "description": "ALACAD - COMMERCIAL PANIC (FALSE)",
+   "subgroup": "PANIC ALACAD (FALSE)",
+   "group": "FALSE ALACAD",
+   "date": "01/29/2016 11:22:28 AM"
+ },
+ {
+   "code": 201,
+   "description": "ALACAD - RESIDENTIAL BURGLARY (FALSE)",
+   "subgroup": "BURGLARY ALACAD (FALSE)",
+   "group": "FALSE ALACAD",
+   "date": "01/29/2016 11:38:44 AM"
+ },
+ {
+   "code": 250,
+   "description": "MISCHIEF, NUISANCE COMPLAINTS",
+   "subgroup": "NUISANCE, MISCHIEF COMPLAINTS",
+   "group": "NUISANCE, MISCHIEF",
+   "date": "01/29/2016 12:33:39 PM"
+ },
+ {
+   "code": 250,
+   "description": "MISCHIEF, NUISANCE COMPLAINTS",
+   "subgroup": "NUISANCE, MISCHIEF COMPLAINTS",
+   "group": "NUISANCE, MISCHIEF",
+   "date": "01/29/2016 12:38:14 PM"
+ },
+ {
+   "code": 40,
+   "description": "ASSAULTS, OTHER",
+   "subgroup": "ASSAULTS",
+   "group": "ASSAULTS",
+   "date": "02/12/2016 12:05:55 AM"
+ },
+ {
+   "code": 202,
+   "description": "ALACAD - COMMERCIAL PANIC (FALSE)",
+   "subgroup": "PANIC ALACAD (FALSE)",
+   "group": "FALSE ALACAD",
+   "date": "01/29/2016 01:31:22 PM"
+ },
+ {
+   "code": 250,
+   "description": "MISCHIEF, NUISANCE COMPLAINTS",
+   "subgroup": "NUISANCE, MISCHIEF COMPLAINTS",
+   "group": "NUISANCE, MISCHIEF",
+   "date": "01/29/2016 02:02:25 PM"
+ },
+ {
+   "code": 201,
+   "description": "ALACAD - RESIDENTIAL BURGLARY (FALSE)",
+   "subgroup": "BURGLARY ALACAD (FALSE)",
+   "group": "FALSE ALACAD",
+   "date": "01/29/2016 02:20:16 PM"
+ },
+ {
+   "code": 40,
+   "description": "ASSAULTS, OTHER",
+   "subgroup": "ASSAULTS",
+   "group": "ASSAULTS",
+   "date": "01/29/2016 02:52:37 PM"
+ },
+ {
+   "code": 201,
+   "description": "ALACAD - RESIDENTIAL BURGLARY (FALSE)",
+   "subgroup": "BURGLARY ALACAD (FALSE)",
+   "group": "FALSE ALACAD",
+   "date": "01/29/2016 04:28:33 PM"
+ },
+ {
+   "code": 41,
+   "description": "HARASSMENT, THREATS",
+   "subgroup": "THREATS, HARASSMENT",
+   "group": "THREATS, HARASSMENT",
+   "date": "01/31/2016 07:06:24 AM"
+ },
+ {
+   "code": 31,
+   "description": "STRONG ARM ROBBERY",
+   "subgroup": "ROBBERY",
+   "group": "ROBBERY",
+   "date": "01/31/2016 07:25:19 AM"
+ },
+ {
+   "code": 40,
+   "description": "ASSAULTS, OTHER",
+   "subgroup": "ASSAULTS",
+   "group": "ASSAULTS",
+   "date": "01/31/2016 07:18:37 AM"
+ },
+ {
+   "code": 31,
+   "description": "STRONG ARM ROBBERY",
+   "subgroup": "ROBBERY",
+   "group": "ROBBERY",
+   "date": "01/31/2016 06:08:43 AM"
+ },
+ {
+   "code": 31,
+   "description": "STRONG ARM ROBBERY",
+   "subgroup": "ROBBERY",
+   "group": "ROBBERY",
+   "date": "01/31/2016 06:14:34 AM"
+ },
+ {
+   "code": 220,
+   "description": "CRISIS COMPLAINT - GENERAL",
+   "subgroup": "CRISIS CALL",
+   "group": "BEHAVIORAL HEALTH",
+   "date": "01/31/2016 05:00:50 AM"
+ },
+ {
+   "code": 250,
+   "description": "MISCHIEF, NUISANCE COMPLAINTS",
+   "subgroup": "NUISANCE, MISCHIEF COMPLAINTS",
+   "group": "NUISANCE, MISCHIEF",
+   "date": "01/30/2016 10:59:05 PM"
+ },
+ {
+   "code": 201,
+   "description": "ALACAD - RESIDENTIAL BURGLARY (FALSE)",
+   "subgroup": "BURGLARY ALACAD (FALSE)",
+   "group": "FALSE ALACAD",
+   "date": "01/30/2016 11:03:51 PM"
+ },
+ {
+   "code": 243,
+   "description": "JUVENILE DISTURBANCE",
+   "subgroup": "DISTURBANCES",
+   "group": "DISTURBANCES",
+   "date": "01/30/2016 11:15:47 PM"
+ },
+ {
+   "code": 202,
+   "description": "ALACAD - COMMERCIAL PANIC (FALSE)",
+   "subgroup": "PANIC ALACAD (FALSE)",
+   "group": "FALSE ALACAD",
+   "date": "01/30/2016 10:48:41 PM"
+ },
+ {
+   "code": 201,
+   "description": "ALACAD - RESIDENTIAL BURGLARY (FALSE)",
+   "subgroup": "BURGLARY ALACAD (FALSE)",
+   "group": "FALSE ALACAD",
+   "date": "01/30/2016 10:46:18 PM"
+ },
+ {
+   "code": 250,
+   "description": "MISCHIEF, NUISANCE COMPLAINTS",
+   "subgroup": "NUISANCE, MISCHIEF COMPLAINTS",
+   "group": "NUISANCE, MISCHIEF",
+   "date": "01/30/2016 10:46:20 PM"
+ },
+ {
+   "code": 201,
+   "description": "ALACAD - RESIDENTIAL BURGLARY (FALSE)",
+   "subgroup": "BURGLARY ALACAD (FALSE)",
+   "group": "FALSE ALACAD",
+   "date": "01/30/2016 08:32:38 AM"
+ },
+ {
+   "code": 250,
+   "description": "MISCHIEF, NUISANCE COMPLAINTS",
+   "subgroup": "NUISANCE, MISCHIEF COMPLAINTS",
+   "group": "NUISANCE, MISCHIEF",
+   "date": "01/30/2016 07:13:50 AM"
+ },
+ {
+   "code": 250,
+   "description": "MISCHIEF, NUISANCE COMPLAINTS",
+   "subgroup": "NUISANCE, MISCHIEF COMPLAINTS",
+   "group": "NUISANCE, MISCHIEF",
+   "date": "01/30/2016 07:08:20 AM"
+ },
+ {
+   "code": 40,
+   "description": "ASSAULTS, OTHER",
+   "subgroup": "ASSAULTS",
+   "group": "ASSAULTS",
+   "date": "01/31/2016 05:27:10 PM"
+ },
+ {
+   "code": 250,
+   "description": "MISCHIEF, NUISANCE COMPLAINTS",
+   "subgroup": "NUISANCE, MISCHIEF COMPLAINTS",
+   "group": "NUISANCE, MISCHIEF",
+   "date": "01/29/2016 09:42:54 PM"
+ },
+ {
+   "code": 201,
+   "description": "ALACAD - RESIDENTIAL BURGLARY (FALSE)",
+   "subgroup": "BURGLARY ALACAD (FALSE)",
+   "group": "FALSE ALACAD",
+   "date": "01/29/2016 09:19:28 PM"
+ },
+ {
+   "code": 250,
+   "description": "MISCHIEF, NUISANCE COMPLAINTS",
+   "subgroup": "NUISANCE, MISCHIEF COMPLAINTS",
+   "group": "NUISANCE, MISCHIEF",
+   "date": "01/30/2016 01:00:56 AM"
+ },
+ {
+   "code": 250,
+   "description": "MISCHIEF, NUISANCE COMPLAINTS",
+   "subgroup": "NUISANCE, MISCHIEF COMPLAINTS",
+   "group": "NUISANCE, MISCHIEF",
+   "date": "01/29/2016 06:52:14 PM"
+ },
+ {
+   "code": 40,
+   "description": "ASSAULTS, OTHER",
+   "subgroup": "ASSAULTS",
+   "group": "ASSAULTS",
+   "date": "01/31/2016 06:40:32 PM"
+ },
+ {
+   "code": 220,
+   "description": "CRISIS COMPLAINT - GENERAL",
+   "subgroup": "CRISIS CALL",
+   "group": "BEHAVIORAL HEALTH",
+   "date": "01/29/2016 06:28:55 PM"
+ },
+ {
+   "code": 41,
+   "description": "HARASSMENT, THREATS",
+   "subgroup": "THREATS, HARASSMENT",
+   "group": "THREATS, HARASSMENT",
+   "date": "01/29/2016 07:30:58 PM"
+ },
+ {
+   "code": 250,
+   "description": "MISCHIEF, NUISANCE COMPLAINTS",
+   "subgroup": "NUISANCE, MISCHIEF COMPLAINTS",
+   "group": "NUISANCE, MISCHIEF",
+   "date": "01/31/2016 08:21:28 PM"
+ },
+ {
+   "code": 201,
+   "description": "ALACAD - RESIDENTIAL BURGLARY (FALSE)",
+   "subgroup": "BURGLARY ALACAD (FALSE)",
+   "group": "FALSE ALACAD",
+   "date": "01/31/2016 08:35:28 PM"
+ },
+ {
+   "code": 30,
+   "description": "ARMED ROBBERY",
+   "subgroup": "GUN CALLS",
+   "group": "ROBBERY",
+   "date": "01/31/2016 08:32:05 PM"
+ },
+ {
+   "code": 250,
+   "description": "MISCHIEF, NUISANCE COMPLAINTS",
+   "subgroup": "NUISANCE, MISCHIEF COMPLAINTS",
+   "group": "NUISANCE, MISCHIEF",
+   "date": "02/12/2016 04:36:35 PM"
+ },
+ {
+   "code": 40,
+   "description": "ASSAULTS, OTHER",
+   "subgroup": "ASSAULTS",
+   "group": "ASSAULTS",
+   "date": "02/01/2016 01:26:48 AM"
+ },
+ {
+   "code": 31,
+   "description": "STRONG ARM ROBBERY",
+   "subgroup": "ROBBERY",
+   "group": "ROBBERY",
+   "date": "02/01/2016 01:24:36 AM"
+ },
+ {
+   "code": 31,
+   "description": "STRONG ARM ROBBERY",
+   "subgroup": "ROBBERY",
+   "group": "ROBBERY",
+   "date": "01/26/2016 07:32:41 AM"
+ },
+ {
+   "code": 250,
+   "description": "MISCHIEF, NUISANCE COMPLAINTS",
+   "subgroup": "NUISANCE, MISCHIEF COMPLAINTS",
+   "group": "NUISANCE, MISCHIEF",
+   "date": "02/02/2016 10:23:11 AM"
+ },
+ {
+   "code": 40,
+   "description": "ASSAULTS, OTHER",
+   "subgroup": "ASSAULTS",
+   "group": "ASSAULTS",
+   "date": "02/01/2016 02:17:40 AM"
+ },
+ {
+   "code": 330,
+   "description": "CASUALTY (NON CRIMINAL/TRAFFIC) - MAN DOWN, SICK PERSONS, INJURED, DOA)",
+   "subgroup": "CASUALTIES",
+   "group": "PERSON DOWN/INJURY",
+   "date": "02/01/2016 04:33:11 AM"
+ },
+ {
+   "code": 250,
+   "description": "MISCHIEF, NUISANCE COMPLAINTS",
+   "subgroup": "NUISANCE, MISCHIEF COMPLAINTS",
+   "group": "NUISANCE, MISCHIEF",
+   "date": "02/01/2016 07:56:38 AM"
+ },
+ {
+   "code": 203,
+   "description": "ALACAD - RESIDENTIAL PANIC (FALSE)",
+   "subgroup": "PANIC ALACAD (FALSE)",
+   "group": "FALSE ALACAD",
+   "date": "01/25/2016 10:09:09 AM"
+ },
+ {
+   "code": 250,
+   "description": "MISCHIEF, NUISANCE COMPLAINTS",
+   "subgroup": "NUISANCE, MISCHIEF COMPLAINTS",
+   "group": "NUISANCE, MISCHIEF",
+   "date": "02/01/2016 09:15:38 AM"
+ },
+ {
+   "code": 250,
+   "description": "MISCHIEF, NUISANCE COMPLAINTS",
+   "subgroup": "NUISANCE, MISCHIEF COMPLAINTS",
+   "group": "NUISANCE, MISCHIEF",
+   "date": "02/01/2016 09:36:42 AM"
+ },
+ {
+   "code": 250,
+   "description": "MISCHIEF, NUISANCE COMPLAINTS",
+   "subgroup": "NUISANCE, MISCHIEF COMPLAINTS",
+   "group": "NUISANCE, MISCHIEF",
+   "date": "02/01/2016 10:40:52 AM"
+ },
+ {
+   "code": 250,
+   "description": "MISCHIEF, NUISANCE COMPLAINTS",
+   "subgroup": "NUISANCE, MISCHIEF COMPLAINTS",
+   "group": "NUISANCE, MISCHIEF",
+   "date": "02/01/2016 10:55:30 AM"
+ },
+ {
+   "code": 40,
+   "description": "ASSAULTS, OTHER",
+   "subgroup": "ASSAULTS",
+   "group": "ASSAULTS",
+   "date": "02/01/2016 05:21:34 PM"
+ },
+ {
+   "code": 292,
+   "description": "PERSON WITH A WEAPON (NOT GUN)",
+   "subgroup": "WEAPONS CALLS",
+   "group": "WEAPONS CALLS",
+   "date": "02/01/2016 05:23:21 PM"
+ },
+ {
+   "code": 220,
+   "description": "CRISIS COMPLAINT - GENERAL",
+   "subgroup": "CRISIS CALL",
+   "group": "BEHAVIORAL HEALTH",
+   "date": "02/01/2016 11:10:25 AM"
+ },
+ {
+   "code": 250,
+   "description": "MISCHIEF, NUISANCE COMPLAINTS",
+   "subgroup": "NUISANCE, MISCHIEF COMPLAINTS",
+   "group": "NUISANCE, MISCHIEF",
+   "date": "02/01/2016 11:33:15 AM"
+ },
+ {
+   "code": 220,
+   "description": "CRISIS COMPLAINT - GENERAL",
+   "subgroup": "CRISIS CALL",
+   "group": "BEHAVIORAL HEALTH",
+   "date": "02/12/2016 12:42:02 AM"
+ },
+ {
+   "code": 250,
+   "description": "MISCHIEF, NUISANCE COMPLAINTS",
+   "subgroup": "NUISANCE, MISCHIEF COMPLAINTS",
+   "group": "NUISANCE, MISCHIEF",
+   "date": "02/12/2016 02:26:43 AM"
+ },
+ {
+   "code": 250,
+   "description": "MISCHIEF, NUISANCE COMPLAINTS",
+   "subgroup": "NUISANCE, MISCHIEF COMPLAINTS",
+   "group": "NUISANCE, MISCHIEF",
+   "date": "02/01/2016 12:56:30 PM"
+ },
+ {
+   "code": 250,
+   "description": "MISCHIEF, NUISANCE COMPLAINTS",
+   "subgroup": "NUISANCE, MISCHIEF COMPLAINTS",
+   "group": "NUISANCE, MISCHIEF",
+   "date": "02/01/2016 12:57:35 PM"
+ },
+ {
+   "code": 330,
+   "description": "CASUALTY (NON CRIMINAL/TRAFFIC) - MAN DOWN, SICK PERSONS, INJURED, DOA)",
+   "subgroup": "CASUALTIES",
+   "group": "PERSON DOWN/INJURY",
+   "date": "02/01/2016 01:19:50 PM"
+ },
+ {
+   "code": 179,
+   "description": "DRIVE BY SHOOTING (NO INJURIES)",
+   "subgroup": "GUN CALLS",
+   "group": "DRIVE BY (NO INJURY)",
+   "date": "01/28/2016 01:21:19 AM"
+ },
+ {
+   "code": 330,
+   "description": "CASUALTY (NON CRIMINAL/TRAFFIC) - MAN DOWN, SICK PERSONS, INJURED, DOA)",
+   "subgroup": "CASUALTIES",
+   "group": "PERSON DOWN/INJURY",
+   "date": "02/02/2016 01:56:28 AM"
+ },
+ {
+   "code": 242,
+   "description": "FIGHT DISTURBANCE",
+   "subgroup": "DISTURBANCES",
+   "group": "DISTURBANCES",
+   "date": "02/12/2016 01:15:30 AM"
+ },
+ {
+   "code": 220,
+   "description": "CRISIS COMPLAINT - GENERAL",
+   "subgroup": "CRISIS CALL",
+   "group": "BEHAVIORAL HEALTH",
+   "date": "02/02/2016 12:41:55 AM"
+ },
+ {
+   "code": 220,
+   "description": "CRISIS COMPLAINT - GENERAL",
+   "subgroup": "CRISIS CALL",
+   "group": "BEHAVIORAL HEALTH",
+   "date": "02/02/2016 05:30:36 PM"
+ },
+ {
+   "code": 220,
+   "description": "CRISIS COMPLAINT - GENERAL",
+   "subgroup": "CRISIS CALL",
+   "group": "BEHAVIORAL HEALTH",
+   "date": "02/01/2016 03:28:52 PM"
+ },
+ {
+   "code": 40,
+   "description": "ASSAULTS, OTHER",
+   "subgroup": "ASSAULTS",
+   "group": "ASSAULTS",
+   "date": "02/01/2016 08:04:17 PM"
+ },
+ {
+   "code": 330,
+   "description": "CASUALTY (NON CRIMINAL/TRAFFIC) - MAN DOWN, SICK PERSONS, INJURED, DOA)",
+   "subgroup": "CASUALTIES",
+   "group": "PERSON DOWN/INJURY",
+   "date": "02/01/2016 07:22:03 PM"
+ },
+ {
+   "code": 250,
+   "description": "MISCHIEF, NUISANCE COMPLAINTS",
+   "subgroup": "NUISANCE, MISCHIEF COMPLAINTS",
+   "group": "NUISANCE, MISCHIEF",
+   "date": "02/12/2016 04:26:12 PM"
+ },
+ {
+   "code": 31,
+   "description": "STRONG ARM ROBBERY",
+   "subgroup": "ROBBERY",
+   "group": "ROBBERY",
+   "date": "02/12/2016 04:35:48 PM"
+ },
+ {
+   "code": 43,
+   "description": "ASSAULTS, FIREARM INVOLVED",
+   "subgroup": "GUN CALLS",
+   "group": "ASSAULTS",
+   "date": "02/01/2016 04:47:34 PM"
+ },
+ {
+   "code": 40,
+   "description": "ASSAULTS, OTHER",
+   "subgroup": "ASSAULTS",
+   "group": "ASSAULTS",
+   "date": "02/02/2016 01:45:40 AM"
+ },
+ {
+   "code": 250,
+   "description": "MISCHIEF, NUISANCE COMPLAINTS",
+   "subgroup": "NUISANCE, MISCHIEF COMPLAINTS",
+   "group": "NUISANCE, MISCHIEF",
+   "date": "02/02/2016 01:50:38 AM"
+ },
+ {
+   "code": 31,
+   "description": "STRONG ARM ROBBERY",
+   "subgroup": "ROBBERY",
+   "group": "ROBBERY",
+   "date": "02/12/2016 02:02:53 AM"
+ },
+ {
+   "code": 250,
+   "description": "MISCHIEF, NUISANCE COMPLAINTS",
+   "subgroup": "NUISANCE, MISCHIEF COMPLAINTS",
+   "group": "NUISANCE, MISCHIEF",
+   "date": "02/12/2016 01:56:38 AM"
+ },
+ {
+   "code": 201,
+   "description": "ALACAD - RESIDENTIAL BURGLARY (FALSE)",
+   "subgroup": "BURGLARY ALACAD (FALSE)",
+   "group": "FALSE ALACAD",
+   "date": "02/01/2016 10:36:09 PM"
+ },
+ {
+   "code": 220,
+   "description": "CRISIS COMPLAINT - GENERAL",
+   "subgroup": "CRISIS CALL",
+   "group": "BEHAVIORAL HEALTH",
+   "date": "02/11/2016 10:13:18 PM"
+ },
+ {
+   "code": 220,
+   "description": "CRISIS COMPLAINT - GENERAL",
+   "subgroup": "CRISIS CALL",
+   "group": "BEHAVIORAL HEALTH",
+   "date": "02/12/2016 03:06:55 AM"
+ },
+ {
+   "code": 201,
+   "description": "ALACAD - RESIDENTIAL BURGLARY (FALSE)",
+   "subgroup": "BURGLARY ALACAD (FALSE)",
+   "group": "FALSE ALACAD",
+   "date": "02/12/2016 04:37:15 PM"
+ },
+ {
+   "code": 10,
+   "description": "HOMICIDE",
+   "subgroup": "HOMICIDE",
+   "group": "HOMICIDE",
+   "date": "01/25/2016 06:26:49 PM"
+ },
+ {
+   "code": 250,
+   "description": "MISCHIEF, NUISANCE COMPLAINTS",
+   "subgroup": "NUISANCE, MISCHIEF COMPLAINTS",
+   "group": "NUISANCE, MISCHIEF",
+   "date": "02/02/2016 01:38:08 AM"
+ },
+ {
+   "code": 203,
+   "description": "ALACAD - RESIDENTIAL PANIC (FALSE)",
+   "subgroup": "PANIC ALACAD (FALSE)",
+   "group": "FALSE ALACAD",
+   "date": "02/12/2016 06:59:25 AM"
+ },
+ {
+   "code": 201,
+   "description": "ALACAD - RESIDENTIAL BURGLARY (FALSE)",
+   "subgroup": "BURGLARY ALACAD (FALSE)",
+   "group": "FALSE ALACAD",
+   "date": "02/12/2016 09:07:09 AM"
+ },
+ {
+   "code": 242,
+   "description": "FIGHT DISTURBANCE",
+   "subgroup": "DISTURBANCES",
+   "group": "DISTURBANCES",
+   "date": "02/12/2016 09:05:43 AM"
+ },
+ {
+   "code": 220,
+   "description": "CRISIS COMPLAINT - GENERAL",
+   "subgroup": "CRISIS CALL",
+   "group": "BEHAVIORAL HEALTH",
+   "date": "02/12/2016 04:45:35 PM"
+ },
+ {
+   "code": 220,
+   "description": "CRISIS COMPLAINT - GENERAL",
+   "subgroup": "CRISIS CALL",
+   "group": "BEHAVIORAL HEALTH",
+   "date": "02/12/2016 02:21:08 AM"
+ },
+ {
+   "code": 40,
+   "description": "ASSAULTS, OTHER",
+   "subgroup": "ASSAULTS",
+   "group": "ASSAULTS",
+   "date": "02/12/2016 02:20:16 AM"
+ },
+ {
+   "code": 220,
+   "description": "CRISIS COMPLAINT - GENERAL",
+   "subgroup": "CRISIS CALL",
+   "group": "BEHAVIORAL HEALTH",
+   "date": "02/12/2016 06:17:52 PM"
+ },
+ {
+   "code": 201,
+   "description": "ALACAD - RESIDENTIAL BURGLARY (FALSE)",
+   "subgroup": "BURGLARY ALACAD (FALSE)",
+   "group": "FALSE ALACAD",
+   "date": "02/01/2016 09:06:53 PM"
+ },
+ {
+   "code": 250,
+   "description": "MISCHIEF, NUISANCE COMPLAINTS",
+   "subgroup": "NUISANCE, MISCHIEF COMPLAINTS",
+   "group": "NUISANCE, MISCHIEF",
+   "date": "02/01/2016 09:06:51 PM"
+ },
+ {
+   "code": 201,
+   "description": "ALACAD - RESIDENTIAL BURGLARY (FALSE)",
+   "subgroup": "BURGLARY ALACAD (FALSE)",
+   "group": "FALSE ALACAD",
+   "date": "02/01/2016 09:05:18 PM"
+ },
+ {
+   "code": 220,
+   "description": "CRISIS COMPLAINT - GENERAL",
+   "subgroup": "CRISIS CALL",
+   "group": "BEHAVIORAL HEALTH",
+   "date": "02/01/2016 07:56:59 PM"
+ },
+ {
+   "code": 40,
+   "description": "ASSAULTS, OTHER",
+   "subgroup": "ASSAULTS",
+   "group": "ASSAULTS",
+   "date": "02/01/2016 08:31:02 PM"
+ },
+ {
+   "code": 201,
+   "description": "ALACAD - RESIDENTIAL BURGLARY (FALSE)",
+   "subgroup": "BURGLARY ALACAD (FALSE)",
+   "group": "FALSE ALACAD",
+   "date": "02/01/2016 11:39:53 PM"
+ },
+ {
+   "code": 250,
+   "description": "MISCHIEF, NUISANCE COMPLAINTS",
+   "subgroup": "NUISANCE, MISCHIEF COMPLAINTS",
+   "group": "NUISANCE, MISCHIEF",
+   "date": "02/01/2016 08:48:43 PM"
+ },
+ {
+   "code": 250,
+   "description": "MISCHIEF, NUISANCE COMPLAINTS",
+   "subgroup": "NUISANCE, MISCHIEF COMPLAINTS",
+   "group": "NUISANCE, MISCHIEF",
+   "date": "02/01/2016 08:34:57 PM"
+ },
+ {
+   "code": 250,
+   "description": "MISCHIEF, NUISANCE COMPLAINTS",
+   "subgroup": "NUISANCE, MISCHIEF COMPLAINTS",
+   "group": "NUISANCE, MISCHIEF",
+   "date": "02/12/2016 03:20:42 AM"
+ },
+ {
+   "code": 40,
+   "description": "ASSAULTS, OTHER",
+   "subgroup": "ASSAULTS",
+   "group": "ASSAULTS",
+   "date": "02/12/2016 03:25:16 AM"
+ },
+ {
+   "code": 220,
+   "description": "CRISIS COMPLAINT - GENERAL",
+   "subgroup": "CRISIS CALL",
+   "group": "BEHAVIORAL HEALTH",
+   "date": "02/12/2016 06:02:01 AM"
+ },
+ {
+   "code": 40,
+   "description": "ASSAULTS, OTHER",
+   "subgroup": "ASSAULTS",
+   "group": "ASSAULTS",
+   "date": "02/12/2016 06:07:46 AM"
+ },
+ {
+   "code": 242,
+   "description": "FIGHT DISTURBANCE",
+   "subgroup": "DISTURBANCES",
+   "group": "DISTURBANCES",
+   "date": "02/12/2016 05:15:51 PM"
+ },
+ {
+   "code": 40,
+   "description": "ASSAULTS, OTHER",
+   "subgroup": "ASSAULTS",
+   "group": "ASSAULTS",
+   "date": "01/31/2016 03:44:08 PM"
+ },
+ {
+   "code": 250,
+   "description": "MISCHIEF, NUISANCE COMPLAINTS",
+   "subgroup": "NUISANCE, MISCHIEF COMPLAINTS",
+   "group": "NUISANCE, MISCHIEF",
+   "date": "02/01/2016 09:05:46 PM"
+ },
+ {
+   "code": 242,
+   "description": "FIGHT DISTURBANCE",
+   "subgroup": "DISTURBANCES",
+   "group": "DISTURBANCES",
+   "date": "02/12/2016 05:09:53 PM"
+ },
+ {
+   "code": 40,
+   "description": "ASSAULTS, OTHER",
+   "subgroup": "ASSAULTS",
+   "group": "ASSAULTS",
+   "date": "01/28/2016 02:50:51 PM"
+ },
+ {
+   "code": 330,
+   "description": "CASUALTY (NON CRIMINAL/TRAFFIC) - MAN DOWN, SICK PERSONS, INJURED, DOA)",
+   "subgroup": "CASUALTIES",
+   "group": "PERSON DOWN/INJURY",
+   "date": "02/02/2016 06:40:17 PM"
+ },
+ {
+   "code": 41,
+   "description": "HARASSMENT, THREATS",
+   "subgroup": "THREATS, HARASSMENT",
+   "group": "THREATS, HARASSMENT",
+   "date": "02/02/2016 08:39:46 PM"
+ },
+ {
+   "code": 250,
+   "description": "MISCHIEF, NUISANCE COMPLAINTS",
+   "subgroup": "NUISANCE, MISCHIEF COMPLAINTS",
+   "group": "NUISANCE, MISCHIEF",
+   "date": "02/12/2016 04:43:14 AM"
+ },
+ {
+   "code": 330,
+   "description": "CASUALTY (NON CRIMINAL/TRAFFIC) - MAN DOWN, SICK PERSONS, INJURED, DOA)",
+   "subgroup": "CASUALTIES",
+   "group": "PERSON DOWN/INJURY",
+   "date": "02/12/2016 07:14:14 PM"
+ },
+ {
+   "code": 40,
+   "description": "ASSAULTS, OTHER",
+   "subgroup": "ASSAULTS",
+   "group": "ASSAULTS",
+   "date": "02/11/2016 03:28:09 AM"
+ },
+ {
+   "code": 220,
+   "description": "CRISIS COMPLAINT - GENERAL",
+   "subgroup": "CRISIS CALL",
+   "group": "BEHAVIORAL HEALTH",
+   "date": "02/02/2016 04:48:12 AM"
+ },
+ {
+   "code": 41,
+   "description": "HARASSMENT, THREATS",
+   "subgroup": "THREATS, HARASSMENT",
+   "group": "THREATS, HARASSMENT",
+   "date": "02/02/2016 04:49:31 AM"
+ },
+ {
+   "code": 201,
+   "description": "ALACAD - RESIDENTIAL BURGLARY (FALSE)",
+   "subgroup": "BURGLARY ALACAD (FALSE)",
+   "group": "FALSE ALACAD",
+   "date": "02/02/2016 06:54:30 AM"
+ },
+ {
+   "code": 220,
+   "description": "CRISIS COMPLAINT - GENERAL",
+   "subgroup": "CRISIS CALL",
+   "group": "BEHAVIORAL HEALTH",
+   "date": "02/02/2016 06:42:56 AM"
+ },
+ {
+   "code": 250,
+   "description": "MISCHIEF, NUISANCE COMPLAINTS",
+   "subgroup": "NUISANCE, MISCHIEF COMPLAINTS",
+   "group": "NUISANCE, MISCHIEF",
+   "date": "02/02/2016 07:15:14 AM"
+ },
+ {
+   "code": 220,
+   "description": "CRISIS COMPLAINT - GENERAL",
+   "subgroup": "CRISIS CALL",
+   "group": "BEHAVIORAL HEALTH",
+   "date": "02/02/2016 08:59:55 AM"
+ },
+ {
+   "code": 220,
+   "description": "CRISIS COMPLAINT - GENERAL",
+   "subgroup": "CRISIS CALL",
+   "group": "BEHAVIORAL HEALTH",
+   "date": "02/02/2016 06:56:12 AM"
+ },
+ {
+   "code": 220,
+   "description": "CRISIS COMPLAINT - GENERAL",
+   "subgroup": "CRISIS CALL",
+   "group": "BEHAVIORAL HEALTH",
+   "date": "02/02/2016 07:18:07 AM"
+ },
+ {
+   "code": 220,
+   "description": "CRISIS COMPLAINT - GENERAL",
+   "subgroup": "CRISIS CALL",
+   "group": "BEHAVIORAL HEALTH",
+   "date": "02/02/2016 08:05:20 AM"
+ },
+ {
+   "code": 250,
+   "description": "MISCHIEF, NUISANCE COMPLAINTS",
+   "subgroup": "NUISANCE, MISCHIEF COMPLAINTS",
+   "group": "NUISANCE, MISCHIEF",
+   "date": "02/02/2016 11:05:40 AM"
+ },
+ {
+   "code": 40,
+   "description": "ASSAULTS, OTHER",
+   "subgroup": "ASSAULTS",
+   "group": "ASSAULTS",
+   "date": "02/02/2016 11:19:30 AM"
+ },
+ {
+   "code": 40,
+   "description": "ASSAULTS, OTHER",
+   "subgroup": "ASSAULTS",
+   "group": "ASSAULTS",
+   "date": "01/30/2016 03:35:17 PM"
+ },
+ {
+   "code": 250,
+   "description": "MISCHIEF, NUISANCE COMPLAINTS",
+   "subgroup": "NUISANCE, MISCHIEF COMPLAINTS",
+   "group": "NUISANCE, MISCHIEF",
+   "date": "02/02/2016 08:29:25 AM"
+ },
+ {
+   "code": 330,
+   "description": "CASUALTY (NON CRIMINAL/TRAFFIC) - MAN DOWN, SICK PERSONS, INJURED, DOA)",
+   "subgroup": "CASUALTIES",
+   "group": "PERSON DOWN/INJURY",
+   "date": "02/02/2016 12:08:11 PM"
+ },
+ {
+   "code": 201,
+   "description": "ALACAD - RESIDENTIAL BURGLARY (FALSE)",
+   "subgroup": "BURGLARY ALACAD (FALSE)",
+   "group": "FALSE ALACAD",
+   "date": "02/02/2016 09:52:57 AM"
+ },
+ {
+   "code": 40,
+   "description": "ASSAULTS, OTHER",
+   "subgroup": "ASSAULTS",
+   "group": "ASSAULTS",
+   "date": "02/01/2016 05:23:16 PM"
+ },
+ {
+   "code": 40,
+   "description": "ASSAULTS, OTHER",
+   "subgroup": "ASSAULTS",
+   "group": "ASSAULTS",
+   "date": "02/12/2016 04:59:55 AM"
+ },
+ {
+   "code": 30,
+   "description": "ARMED ROBBERY",
+   "subgroup": "GUN CALLS",
+   "group": "ROBBERY",
+   "date": "02/02/2016 09:45:14 AM"
+ },
+ {
+   "code": 201,
+   "description": "ALACAD - RESIDENTIAL BURGLARY (FALSE)",
+   "subgroup": "BURGLARY ALACAD (FALSE)",
+   "group": "FALSE ALACAD",
+   "date": "02/02/2016 10:09:50 AM"
+ },
+ {
+   "code": 201,
+   "description": "ALACAD - RESIDENTIAL BURGLARY (FALSE)",
+   "subgroup": "BURGLARY ALACAD (FALSE)",
+   "group": "FALSE ALACAD",
+   "date": "02/02/2016 10:01:18 AM"
+ },
+ {
+   "code": 250,
+   "description": "MISCHIEF, NUISANCE COMPLAINTS",
+   "subgroup": "NUISANCE, MISCHIEF COMPLAINTS",
+   "group": "NUISANCE, MISCHIEF",
+   "date": "02/02/2016 10:54:37 AM"
+ },
+ {
+   "code": 201,
+   "description": "ALACAD - RESIDENTIAL BURGLARY (FALSE)",
+   "subgroup": "BURGLARY ALACAD (FALSE)",
+   "group": "FALSE ALACAD",
+   "date": "02/02/2016 10:44:49 AM"
+ },
+ {
+   "code": 330,
+   "description": "CASUALTY (NON CRIMINAL/TRAFFIC) - MAN DOWN, SICK PERSONS, INJURED, DOA)",
+   "subgroup": "CASUALTIES",
+   "group": "PERSON DOWN/INJURY",
+   "date": "02/02/2016 11:26:59 AM"
+ },
+ {
+   "code": 330,
+   "description": "CASUALTY (NON CRIMINAL/TRAFFIC) - MAN DOWN, SICK PERSONS, INJURED, DOA)",
+   "subgroup": "CASUALTIES",
+   "group": "PERSON DOWN/INJURY",
+   "date": "02/02/2016 12:22:31 PM"
+ },
+ {
+   "code": 250,
+   "description": "MISCHIEF, NUISANCE COMPLAINTS",
+   "subgroup": "NUISANCE, MISCHIEF COMPLAINTS",
+   "group": "NUISANCE, MISCHIEF",
+   "date": "02/12/2016 05:31:49 AM"
+ },
+ {
+   "code": 220,
+   "description": "CRISIS COMPLAINT - GENERAL",
+   "subgroup": "CRISIS CALL",
+   "group": "BEHAVIORAL HEALTH",
+   "date": "02/02/2016 01:24:55 PM"
+ },
+ {
+   "code": 250,
+   "description": "MISCHIEF, NUISANCE COMPLAINTS",
+   "subgroup": "NUISANCE, MISCHIEF COMPLAINTS",
+   "group": "NUISANCE, MISCHIEF",
+   "date": "02/02/2016 01:38:42 PM"
+ },
+ {
+   "code": 41,
+   "description": "HARASSMENT, THREATS",
+   "subgroup": "THREATS, HARASSMENT",
+   "group": "THREATS, HARASSMENT",
+   "date": "02/02/2016 02:13:21 PM"
+ },
+ {
+   "code": 291,
+   "description": "PERSON WITH A GUN",
+   "subgroup": "GUN CALLS",
+   "group": "WEAPONS CALLS",
+   "date": "02/02/2016 02:54:06 PM"
+ },
+ {
+   "code": 40,
+   "description": "ASSAULTS, OTHER",
+   "subgroup": "ASSAULTS",
+   "group": "ASSAULTS",
+   "date": "02/02/2016 03:02:14 PM"
+ },
+ {
+   "code": 250,
+   "description": "MISCHIEF, NUISANCE COMPLAINTS",
+   "subgroup": "NUISANCE, MISCHIEF COMPLAINTS",
+   "group": "NUISANCE, MISCHIEF",
+   "date": "02/02/2016 05:41:11 PM"
+ },
+ {
+   "code": 42,
+   "description": "HARASSMENT, THREATS - BY TELEPHONE, WRITING",
+   "subgroup": "THREATS, HARASSMENT",
+   "group": "THREATS, HARASSMENT",
+   "date": "02/02/2016 04:04:22 PM"
+ },
+ {
+   "code": 179,
+   "description": "DRIVE BY SHOOTING (NO INJURIES)",
+   "subgroup": "GUN CALLS",
+   "group": "DRIVE BY (NO INJURY)",
+   "date": "01/29/2016 01:22:04 PM"
+ },
+ {
+   "code": 201,
+   "description": "ALACAD - RESIDENTIAL BURGLARY (FALSE)",
+   "subgroup": "BURGLARY ALACAD (FALSE)",
+   "group": "FALSE ALACAD",
+   "date": "02/02/2016 04:53:11 PM"
+ },
+ {
+   "code": 220,
+   "description": "CRISIS COMPLAINT - GENERAL",
+   "subgroup": "CRISIS CALL",
+   "group": "BEHAVIORAL HEALTH",
+   "date": "02/02/2016 04:51:34 PM"
+ },
+ {
+   "code": 220,
+   "description": "CRISIS COMPLAINT - GENERAL",
+   "subgroup": "CRISIS CALL",
+   "group": "BEHAVIORAL HEALTH",
+   "date": "02/02/2016 05:04:27 PM"
+ },
+ {
+   "code": 291,
+   "description": "PERSON WITH A GUN",
+   "subgroup": "GUN CALLS",
+   "group": "WEAPONS CALLS",
+   "date": "02/02/2016 05:24:52 PM"
+ },
+ {
+   "code": 201,
+   "description": "ALACAD - RESIDENTIAL BURGLARY (FALSE)",
+   "subgroup": "BURGLARY ALACAD (FALSE)",
+   "group": "FALSE ALACAD",
+   "date": "02/02/2016 05:29:06 PM"
+ },
+ {
+   "code": 220,
+   "description": "CRISIS COMPLAINT - GENERAL",
+   "subgroup": "CRISIS CALL",
+   "group": "BEHAVIORAL HEALTH",
+   "date": "02/02/2016 05:23:28 PM"
+ },
+ {
+   "code": 242,
+   "description": "FIGHT DISTURBANCE",
+   "subgroup": "DISTURBANCES",
+   "group": "DISTURBANCES",
+   "date": "02/02/2016 05:59:40 PM"
+ },
+ {
+   "code": 41,
+   "description": "HARASSMENT, THREATS",
+   "subgroup": "THREATS, HARASSMENT",
+   "group": "THREATS, HARASSMENT",
+   "date": "02/02/2016 06:45:45 PM"
+ },
+ {
+   "code": 41,
+   "description": "HARASSMENT, THREATS",
+   "subgroup": "THREATS, HARASSMENT",
+   "group": "THREATS, HARASSMENT",
+   "date": "02/02/2016 07:03:09 PM"
+ },
+ {
+   "code": 41,
+   "description": "HARASSMENT, THREATS",
+   "subgroup": "THREATS, HARASSMENT",
+   "group": "THREATS, HARASSMENT",
+   "date": "02/02/2016 07:04:32 PM"
+ },
+ {
+   "code": 43,
+   "description": "ASSAULTS, FIREARM INVOLVED",
+   "subgroup": "GUN CALLS",
+   "group": "ASSAULTS",
+   "date": "02/02/2016 09:08:47 PM"
+ },
+ {
+   "code": 242,
+   "description": "FIGHT DISTURBANCE",
+   "subgroup": "DISTURBANCES",
+   "group": "DISTURBANCES",
+   "date": "02/02/2016 09:17:43 PM"
+ },
+ {
+   "code": 40,
+   "description": "ASSAULTS, OTHER",
+   "subgroup": "ASSAULTS",
+   "group": "ASSAULTS",
+   "date": "02/02/2016 09:23:26 PM"
+ },
+ {
+   "code": 40,
+   "description": "ASSAULTS, OTHER",
+   "subgroup": "ASSAULTS",
+   "group": "ASSAULTS",
+   "date": "02/02/2016 10:04:50 PM"
+ },
+ {
+   "code": 242,
+   "description": "FIGHT DISTURBANCE",
+   "subgroup": "DISTURBANCES",
+   "group": "DISTURBANCES",
+   "date": "02/02/2016 09:59:42 PM"
+ },
+ {
+   "code": 242,
+   "description": "FIGHT DISTURBANCE",
+   "subgroup": "DISTURBANCES",
+   "group": "DISTURBANCES",
+   "date": "02/02/2016 10:44:27 PM"
+ },
+ {
+   "code": 250,
+   "description": "MISCHIEF, NUISANCE COMPLAINTS",
+   "subgroup": "NUISANCE, MISCHIEF COMPLAINTS",
+   "group": "NUISANCE, MISCHIEF",
+   "date": "02/12/2016 07:08:00 AM"
+ },
+ {
+   "code": 250,
+   "description": "MISCHIEF, NUISANCE COMPLAINTS",
+   "subgroup": "NUISANCE, MISCHIEF COMPLAINTS",
+   "group": "NUISANCE, MISCHIEF",
+   "date": "02/02/2016 11:57:14 PM"
+ },
+ {
+   "code": 250,
+   "description": "MISCHIEF, NUISANCE COMPLAINTS",
+   "subgroup": "NUISANCE, MISCHIEF COMPLAINTS",
+   "group": "NUISANCE, MISCHIEF",
+   "date": "02/03/2016 02:16:29 AM"
+ },
+ {
+   "code": 220,
+   "description": "CRISIS COMPLAINT - GENERAL",
+   "subgroup": "CRISIS CALL",
+   "group": "BEHAVIORAL HEALTH",
+   "date": "02/03/2016 12:34:48 AM"
+ },
+ {
+   "code": 31,
+   "description": "STRONG ARM ROBBERY",
+   "subgroup": "ROBBERY",
+   "group": "ROBBERY",
+   "date": "02/03/2016 12:36:32 AM"
+ },
+ {
+   "code": 291,
+   "description": "PERSON WITH A GUN",
+   "subgroup": "GUN CALLS",
+   "group": "WEAPONS CALLS",
+   "date": "02/03/2016 12:31:41 AM"
+ },
+ {
+   "code": 40,
+   "description": "ASSAULTS, OTHER",
+   "subgroup": "ASSAULTS",
+   "group": "ASSAULTS",
+   "date": "02/12/2016 07:31:24 AM"
+ },
+ {
+   "code": 242,
+   "description": "FIGHT DISTURBANCE",
+   "subgroup": "DISTURBANCES",
+   "group": "DISTURBANCES",
+   "date": "02/03/2016 01:31:14 AM"
+ },
+ {
+   "code": 201,
+   "description": "ALACAD - RESIDENTIAL BURGLARY (FALSE)",
+   "subgroup": "BURGLARY ALACAD (FALSE)",
+   "group": "FALSE ALACAD",
+   "date": "02/03/2016 02:45:24 AM"
+ },
+ {
+   "code": 41,
+   "description": "HARASSMENT, THREATS",
+   "subgroup": "THREATS, HARASSMENT",
+   "group": "THREATS, HARASSMENT",
+   "date": "01/27/2016 11:20:59 AM"
+ },
+ {
+   "code": 204,
+   "description": "ALACAD - VEHICLE (FALSE)",
+   "subgroup": "VEHICLE ALACAD (FALSE)",
+   "group": "FALSE ALACAD",
+   "date": "02/12/2016 08:09:54 AM"
+ },
+ {
+   "code": 250,
+   "description": "MISCHIEF, NUISANCE COMPLAINTS",
+   "subgroup": "NUISANCE, MISCHIEF COMPLAINTS",
+   "group": "NUISANCE, MISCHIEF",
+   "date": "02/12/2016 10:56:36 AM"
+ },
+ {
+   "code": 242,
+   "description": "FIGHT DISTURBANCE",
+   "subgroup": "DISTURBANCES",
+   "group": "DISTURBANCES",
+   "date": "02/12/2016 02:20:08 PM"
+ },
+ {
+   "code": 31,
+   "description": "STRONG ARM ROBBERY",
+   "subgroup": "ROBBERY",
+   "group": "ROBBERY",
+   "date": "02/11/2016 07:42:36 PM"
+ },
+ {
+   "code": 185,
+   "description": "CASUALTY - DRUG RELATED (OVERDOSE, OTHER)",
+   "subgroup": "CASUALTIES",
+   "group": "PERSON DOWN/INJURY",
+   "date": "02/03/2016 03:05:44 AM"
+ },
+ {
+   "code": 30,
+   "description": "ARMED ROBBERY",
+   "subgroup": "GUN CALLS",
+   "group": "ROBBERY",
+   "date": "02/03/2016 03:32:00 AM"
+ },
+ {
+   "code": 40,
+   "description": "ASSAULTS, OTHER",
+   "subgroup": "ASSAULTS",
+   "group": "ASSAULTS",
+   "date": "02/12/2016 09:20:53 PM"
+ },
+ {
+   "code": 201,
+   "description": "ALACAD - RESIDENTIAL BURGLARY (FALSE)",
+   "subgroup": "BURGLARY ALACAD (FALSE)",
+   "group": "FALSE ALACAD",
+   "date": "02/03/2016 07:23:22 AM"
+ },
+ {
+   "code": 250,
+   "description": "MISCHIEF, NUISANCE COMPLAINTS",
+   "subgroup": "NUISANCE, MISCHIEF COMPLAINTS",
+   "group": "NUISANCE, MISCHIEF",
+   "date": "02/03/2016 07:14:27 AM"
+ },
+ {
+   "code": 203,
+   "description": "ALACAD - RESIDENTIAL PANIC (FALSE)",
+   "subgroup": "PANIC ALACAD (FALSE)",
+   "group": "FALSE ALACAD",
+   "date": "02/03/2016 07:01:14 AM"
+ },
+ {
+   "code": 220,
+   "description": "CRISIS COMPLAINT - GENERAL",
+   "subgroup": "CRISIS CALL",
+   "group": "BEHAVIORAL HEALTH",
+   "date": "02/03/2016 07:19:24 AM"
+ },
+ {
+   "code": 250,
+   "description": "MISCHIEF, NUISANCE COMPLAINTS",
+   "subgroup": "NUISANCE, MISCHIEF COMPLAINTS",
+   "group": "NUISANCE, MISCHIEF",
+   "date": "02/03/2016 08:50:38 AM"
+ },
+ {
+   "code": 250,
+   "description": "MISCHIEF, NUISANCE COMPLAINTS",
+   "subgroup": "NUISANCE, MISCHIEF COMPLAINTS",
+   "group": "NUISANCE, MISCHIEF",
+   "date": "02/03/2016 07:24:11 AM"
+ },
+ {
+   "code": 201,
+   "description": "ALACAD - RESIDENTIAL BURGLARY (FALSE)",
+   "subgroup": "BURGLARY ALACAD (FALSE)",
+   "group": "FALSE ALACAD",
+   "date": "02/03/2016 07:32:44 AM"
+ },
+ {
+   "code": 220,
+   "description": "CRISIS COMPLAINT - GENERAL",
+   "subgroup": "CRISIS CALL",
+   "group": "BEHAVIORAL HEALTH",
+   "date": "02/03/2016 07:39:33 AM"
+ },
+ {
+   "code": 250,
+   "description": "MISCHIEF, NUISANCE COMPLAINTS",
+   "subgroup": "NUISANCE, MISCHIEF COMPLAINTS",
+   "group": "NUISANCE, MISCHIEF",
+   "date": "02/03/2016 07:40:27 AM"
+ },
+ {
+   "code": 220,
+   "description": "CRISIS COMPLAINT - GENERAL",
+   "subgroup": "CRISIS CALL",
+   "group": "BEHAVIORAL HEALTH",
+   "date": "02/03/2016 07:53:05 AM"
+ },
+ {
+   "code": 220,
+   "description": "CRISIS COMPLAINT - GENERAL",
+   "subgroup": "CRISIS CALL",
+   "group": "BEHAVIORAL HEALTH",
+   "date": "02/03/2016 12:19:06 PM"
+ },
+ {
+   "code": 202,
+   "description": "ALACAD - COMMERCIAL PANIC (FALSE)",
+   "subgroup": "PANIC ALACAD (FALSE)",
+   "group": "FALSE ALACAD",
+   "date": "02/03/2016 08:07:30 AM"
+ },
+ {
+   "code": 204,
+   "description": "ALACAD - VEHICLE (FALSE)",
+   "subgroup": "VEHICLE ALACAD (FALSE)",
+   "group": "FALSE ALACAD",
+   "date": "02/03/2016 08:19:14 AM"
+ },
+ {
+   "code": 250,
+   "description": "MISCHIEF, NUISANCE COMPLAINTS",
+   "subgroup": "NUISANCE, MISCHIEF COMPLAINTS",
+   "group": "NUISANCE, MISCHIEF",
+   "date": "02/03/2016 08:21:26 AM"
+ },
+ {
+   "code": 250,
+   "description": "MISCHIEF, NUISANCE COMPLAINTS",
+   "subgroup": "NUISANCE, MISCHIEF COMPLAINTS",
+   "group": "NUISANCE, MISCHIEF",
+   "date": "02/03/2016 08:52:00 AM"
+ },
+ {
+   "code": 250,
+   "description": "MISCHIEF, NUISANCE COMPLAINTS",
+   "subgroup": "NUISANCE, MISCHIEF COMPLAINTS",
+   "group": "NUISANCE, MISCHIEF",
+   "date": "02/03/2016 09:43:06 AM"
+ },
+ {
+   "code": 250,
+   "description": "MISCHIEF, NUISANCE COMPLAINTS",
+   "subgroup": "NUISANCE, MISCHIEF COMPLAINTS",
+   "group": "NUISANCE, MISCHIEF",
+   "date": "02/03/2016 01:49:52 PM"
+ },
+ {
+   "code": 220,
+   "description": "CRISIS COMPLAINT - GENERAL",
+   "subgroup": "CRISIS CALL",
+   "group": "BEHAVIORAL HEALTH",
+   "date": "02/03/2016 10:55:09 AM"
+ },
+ {
+   "code": 40,
+   "description": "ASSAULTS, OTHER",
+   "subgroup": "ASSAULTS",
+   "group": "ASSAULTS",
+   "date": "02/03/2016 11:19:20 AM"
+ },
+ {
+   "code": 220,
+   "description": "CRISIS COMPLAINT - GENERAL",
+   "subgroup": "CRISIS CALL",
+   "group": "BEHAVIORAL HEALTH",
+   "date": "02/03/2016 11:15:18 AM"
+ },
+ {
+   "code": 220,
+   "description": "CRISIS COMPLAINT - GENERAL",
+   "subgroup": "CRISIS CALL",
+   "group": "BEHAVIORAL HEALTH",
+   "date": "02/03/2016 11:31:26 AM"
+ },
+ {
+   "code": 41,
+   "description": "HARASSMENT, THREATS",
+   "subgroup": "THREATS, HARASSMENT",
+   "group": "THREATS, HARASSMENT",
+   "date": "02/03/2016 11:41:26 AM"
+ },
+ {
+   "code": 330,
+   "description": "CASUALTY (NON CRIMINAL/TRAFFIC) - MAN DOWN, SICK PERSONS, INJURED, DOA)",
+   "subgroup": "CASUALTIES",
+   "group": "PERSON DOWN/INJURY",
+   "date": "02/03/2016 11:41:34 AM"
+ },
+ {
+   "code": 220,
+   "description": "CRISIS COMPLAINT - GENERAL",
+   "subgroup": "CRISIS CALL",
+   "group": "BEHAVIORAL HEALTH",
+   "date": "02/03/2016 12:16:28 PM"
+ },
+ {
+   "code": 250,
+   "description": "MISCHIEF, NUISANCE COMPLAINTS",
+   "subgroup": "NUISANCE, MISCHIEF COMPLAINTS",
+   "group": "NUISANCE, MISCHIEF",
+   "date": "02/03/2016 12:14:28 PM"
+ },
+ {
+   "code": 242,
+   "description": "FIGHT DISTURBANCE",
+   "subgroup": "DISTURBANCES",
+   "group": "DISTURBANCES",
+   "date": "02/03/2016 12:12:09 PM"
+ },
+ {
+   "code": 250,
+   "description": "MISCHIEF, NUISANCE COMPLAINTS",
+   "subgroup": "NUISANCE, MISCHIEF COMPLAINTS",
+   "group": "NUISANCE, MISCHIEF",
+   "date": "02/03/2016 12:59:54 PM"
+ },
+ {
+   "code": 201,
+   "description": "ALACAD - RESIDENTIAL BURGLARY (FALSE)",
+   "subgroup": "BURGLARY ALACAD (FALSE)",
+   "group": "FALSE ALACAD",
+   "date": "02/03/2016 02:05:30 PM"
+ },
+ {
+   "code": 10,
+   "description": "HOMICIDE",
+   "subgroup": "HOMICIDE",
+   "group": "HOMICIDE",
+   "date": "02/02/2016 04:06:56 AM"
+ },
+ {
+   "code": 250,
+   "description": "MISCHIEF, NUISANCE COMPLAINTS",
+   "subgroup": "NUISANCE, MISCHIEF COMPLAINTS",
+   "group": "NUISANCE, MISCHIEF",
+   "date": "02/12/2016 08:56:11 AM"
+ },
+ {
+   "code": 250,
+   "description": "MISCHIEF, NUISANCE COMPLAINTS",
+   "subgroup": "NUISANCE, MISCHIEF COMPLAINTS",
+   "group": "NUISANCE, MISCHIEF",
+   "date": "02/03/2016 03:32:17 PM"
+ },
+ {
+   "code": 250,
+   "description": "MISCHIEF, NUISANCE COMPLAINTS",
+   "subgroup": "NUISANCE, MISCHIEF COMPLAINTS",
+   "group": "NUISANCE, MISCHIEF",
+   "date": "02/03/2016 03:26:30 PM"
+ },
+ {
+   "code": 201,
+   "description": "ALACAD - RESIDENTIAL BURGLARY (FALSE)",
+   "subgroup": "BURGLARY ALACAD (FALSE)",
+   "group": "FALSE ALACAD",
+   "date": "02/03/2016 03:46:04 PM"
+ },
+ {
+   "code": 220,
+   "description": "CRISIS COMPLAINT - GENERAL",
+   "subgroup": "CRISIS CALL",
+   "group": "BEHAVIORAL HEALTH",
+   "date": "02/03/2016 03:50:09 PM"
+ },
+ {
+   "code": 201,
+   "description": "ALACAD - RESIDENTIAL BURGLARY (FALSE)",
+   "subgroup": "BURGLARY ALACAD (FALSE)",
+   "group": "FALSE ALACAD",
+   "date": "02/03/2016 03:58:24 PM"
+ },
+ {
+   "code": 40,
+   "description": "ASSAULTS, OTHER",
+   "subgroup": "ASSAULTS",
+   "group": "ASSAULTS",
+   "date": "02/03/2016 11:11:01 PM"
+ },
+ {
+   "code": 220,
+   "description": "CRISIS COMPLAINT - GENERAL",
+   "subgroup": "CRISIS CALL",
+   "group": "BEHAVIORAL HEALTH",
+   "date": "02/12/2016 08:47:28 AM"
+ },
+ {
+   "code": 31,
+   "description": "STRONG ARM ROBBERY",
+   "subgroup": "ROBBERY",
+   "group": "ROBBERY",
+   "date": "02/03/2016 04:52:49 PM"
+ },
+ {
+   "code": 40,
+   "description": "ASSAULTS, OTHER",
+   "subgroup": "ASSAULTS",
+   "group": "ASSAULTS",
+   "date": "02/11/2016 06:46:01 PM"
+ },
+ {
+   "code": 201,
+   "description": "ALACAD - RESIDENTIAL BURGLARY (FALSE)",
+   "subgroup": "BURGLARY ALACAD (FALSE)",
+   "group": "FALSE ALACAD",
+   "date": "02/03/2016 06:12:26 PM"
+ },
+ {
+   "code": 41,
+   "description": "HARASSMENT, THREATS",
+   "subgroup": "THREATS, HARASSMENT",
+   "group": "THREATS, HARASSMENT",
+   "date": "02/03/2016 06:29:42 PM"
+ },
+ {
+   "code": 291,
+   "description": "PERSON WITH A GUN",
+   "subgroup": "GUN CALLS",
+   "group": "WEAPONS CALLS",
+   "date": "02/03/2016 06:19:16 PM"
+ },
+ {
+   "code": 250,
+   "description": "MISCHIEF, NUISANCE COMPLAINTS",
+   "subgroup": "NUISANCE, MISCHIEF COMPLAINTS",
+   "group": "NUISANCE, MISCHIEF",
+   "date": "02/03/2016 01:12:53 PM"
+ },
+ {
+   "code": 41,
+   "description": "HARASSMENT, THREATS",
+   "subgroup": "THREATS, HARASSMENT",
+   "group": "THREATS, HARASSMENT",
+   "date": "02/03/2016 07:31:49 PM"
+ },
+ {
+   "code": 250,
+   "description": "MISCHIEF, NUISANCE COMPLAINTS",
+   "subgroup": "NUISANCE, MISCHIEF COMPLAINTS",
+   "group": "NUISANCE, MISCHIEF",
+   "date": "02/12/2016 06:32:20 PM"
+ },
+ {
+   "code": 41,
+   "description": "HARASSMENT, THREATS",
+   "subgroup": "THREATS, HARASSMENT",
+   "group": "THREATS, HARASSMENT",
+   "date": "02/03/2016 07:46:38 PM"
+ },
+ {
+   "code": 40,
+   "description": "ASSAULTS, OTHER",
+   "subgroup": "ASSAULTS",
+   "group": "ASSAULTS",
+   "date": "02/12/2016 02:47:15 PM"
+ },
+ {
+   "code": 40,
+   "description": "ASSAULTS, OTHER",
+   "subgroup": "ASSAULTS",
+   "group": "ASSAULTS",
+   "date": "02/12/2016 06:28:23 PM"
+ },
+ {
+   "code": 41,
+   "description": "HARASSMENT, THREATS",
+   "subgroup": "THREATS, HARASSMENT",
+   "group": "THREATS, HARASSMENT",
+   "date": "02/12/2016 06:19:29 PM"
+ },
+ {
+   "code": 202,
+   "description": "ALACAD - COMMERCIAL PANIC (FALSE)",
+   "subgroup": "PANIC ALACAD (FALSE)",
+   "group": "FALSE ALACAD",
+   "date": "02/12/2016 10:21:49 AM"
+ },
+ {
+   "code": 201,
+   "description": "ALACAD - RESIDENTIAL BURGLARY (FALSE)",
+   "subgroup": "BURGLARY ALACAD (FALSE)",
+   "group": "FALSE ALACAD",
+   "date": "02/12/2016 06:47:08 PM"
+ },
+ {
+   "code": 250,
+   "description": "MISCHIEF, NUISANCE COMPLAINTS",
+   "subgroup": "NUISANCE, MISCHIEF COMPLAINTS",
+   "group": "NUISANCE, MISCHIEF",
+   "date": "02/12/2016 06:36:51 PM"
+ },
+ {
+   "code": 250,
+   "description": "MISCHIEF, NUISANCE COMPLAINTS",
+   "subgroup": "NUISANCE, MISCHIEF COMPLAINTS",
+   "group": "NUISANCE, MISCHIEF",
+   "date": "02/12/2016 06:26:49 PM"
+ },
+ {
+   "code": 220,
+   "description": "CRISIS COMPLAINT - GENERAL",
+   "subgroup": "CRISIS CALL",
+   "group": "BEHAVIORAL HEALTH",
+   "date": "02/12/2016 06:38:16 PM"
+ },
+ {
+   "code": 330,
+   "description": "CASUALTY (NON CRIMINAL/TRAFFIC) - MAN DOWN, SICK PERSONS, INJURED, DOA)",
+   "subgroup": "CASUALTIES",
+   "group": "PERSON DOWN/INJURY",
+   "date": "02/12/2016 10:34:07 AM"
+ },
+ {
+   "code": 40,
+   "description": "ASSAULTS, OTHER",
+   "subgroup": "ASSAULTS",
+   "group": "ASSAULTS",
+   "date": "02/12/2016 10:31:31 AM"
+ },
+ {
+   "code": 31,
+   "description": "STRONG ARM ROBBERY",
+   "subgroup": "ROBBERY",
+   "group": "ROBBERY",
+   "date": "02/04/2016 12:12:08 AM"
+ },
+ {
+   "code": 242,
+   "description": "FIGHT DISTURBANCE",
+   "subgroup": "DISTURBANCES",
+   "group": "DISTURBANCES",
+   "date": "02/04/2016 12:24:24 AM"
+ },
+ {
+   "code": 201,
+   "description": "ALACAD - RESIDENTIAL BURGLARY (FALSE)",
+   "subgroup": "BURGLARY ALACAD (FALSE)",
+   "group": "FALSE ALACAD",
+   "date": "02/03/2016 09:04:28 PM"
+ },
+ {
+   "code": 250,
+   "description": "MISCHIEF, NUISANCE COMPLAINTS",
+   "subgroup": "NUISANCE, MISCHIEF COMPLAINTS",
+   "group": "NUISANCE, MISCHIEF",
+   "date": "02/03/2016 10:37:07 PM"
+ },
+ {
+   "code": 250,
+   "description": "MISCHIEF, NUISANCE COMPLAINTS",
+   "subgroup": "NUISANCE, MISCHIEF COMPLAINTS",
+   "group": "NUISANCE, MISCHIEF",
+   "date": "02/12/2016 11:16:41 AM"
+ },
+ {
+   "code": 250,
+   "description": "MISCHIEF, NUISANCE COMPLAINTS",
+   "subgroup": "NUISANCE, MISCHIEF COMPLAINTS",
+   "group": "NUISANCE, MISCHIEF",
+   "date": "02/03/2016 11:29:02 PM"
+ },
+ {
+   "code": 220,
+   "description": "CRISIS COMPLAINT - GENERAL",
+   "subgroup": "CRISIS CALL",
+   "group": "BEHAVIORAL HEALTH",
+   "date": "02/04/2016 12:18:46 AM"
+ },
+ {
+   "code": 41,
+   "description": "HARASSMENT, THREATS",
+   "subgroup": "THREATS, HARASSMENT",
+   "group": "THREATS, HARASSMENT",
+   "date": "01/31/2016 10:33:58 PM"
+ },
+ {
+   "code": 31,
+   "description": "STRONG ARM ROBBERY",
+   "subgroup": "ROBBERY",
+   "group": "ROBBERY",
+   "date": "02/04/2016 02:46:32 AM"
+ },
+ {
+   "code": 40,
+   "description": "ASSAULTS, OTHER",
+   "subgroup": "ASSAULTS",
+   "group": "ASSAULTS",
+   "date": "02/04/2016 03:01:49 AM"
+ },
+ {
+   "code": 250,
+   "description": "MISCHIEF, NUISANCE COMPLAINTS",
+   "subgroup": "NUISANCE, MISCHIEF COMPLAINTS",
+   "group": "NUISANCE, MISCHIEF",
+   "date": "02/04/2016 09:12:21 AM"
+ },
+ {
+   "code": 30,
+   "description": "ARMED ROBBERY",
+   "subgroup": "GUN CALLS",
+   "group": "ROBBERY",
+   "date": "02/08/2016 02:17:49 PM"
+ },
+ {
+   "code": 40,
+   "description": "ASSAULTS, OTHER",
+   "subgroup": "ASSAULTS",
+   "group": "ASSAULTS",
+   "date": "02/09/2016 05:19:29 PM"
+ },
+ {
+   "code": 201,
+   "description": "ALACAD - RESIDENTIAL BURGLARY (FALSE)",
+   "subgroup": "BURGLARY ALACAD (FALSE)",
+   "group": "FALSE ALACAD",
+   "date": "02/04/2016 05:33:20 AM"
+ },
+ {
+   "code": 220,
+   "description": "CRISIS COMPLAINT - GENERAL",
+   "subgroup": "CRISIS CALL",
+   "group": "BEHAVIORAL HEALTH",
+   "date": "02/04/2016 06:01:50 AM"
+ },
+ {
+   "code": 250,
+   "description": "MISCHIEF, NUISANCE COMPLAINTS",
+   "subgroup": "NUISANCE, MISCHIEF COMPLAINTS",
+   "group": "NUISANCE, MISCHIEF",
+   "date": "02/04/2016 08:24:42 AM"
+ },
+ {
+   "code": 250,
+   "description": "MISCHIEF, NUISANCE COMPLAINTS",
+   "subgroup": "NUISANCE, MISCHIEF COMPLAINTS",
+   "group": "NUISANCE, MISCHIEF",
+   "date": "02/12/2016 07:02:09 PM"
+ },
+ {
+   "code": 330,
+   "description": "CASUALTY (NON CRIMINAL/TRAFFIC) - MAN DOWN, SICK PERSONS, INJURED, DOA)",
+   "subgroup": "CASUALTIES",
+   "group": "PERSON DOWN/INJURY",
+   "date": "02/04/2016 03:57:14 PM"
+ },
+ {
+   "code": 201,
+   "description": "ALACAD - RESIDENTIAL BURGLARY (FALSE)",
+   "subgroup": "BURGLARY ALACAD (FALSE)",
+   "group": "FALSE ALACAD",
+   "date": "02/12/2016 07:02:33 PM"
+ },
+ {
+   "code": 250,
+   "description": "MISCHIEF, NUISANCE COMPLAINTS",
+   "subgroup": "NUISANCE, MISCHIEF COMPLAINTS",
+   "group": "NUISANCE, MISCHIEF",
+   "date": "02/04/2016 09:48:22 AM"
+ },
+ {
+   "code": 41,
+   "description": "HARASSMENT, THREATS",
+   "subgroup": "THREATS, HARASSMENT",
+   "group": "THREATS, HARASSMENT",
+   "date": "02/12/2016 12:01:11 PM"
+ },
+ {
+   "code": 250,
+   "description": "MISCHIEF, NUISANCE COMPLAINTS",
+   "subgroup": "NUISANCE, MISCHIEF COMPLAINTS",
+   "group": "NUISANCE, MISCHIEF",
+   "date": "02/04/2016 10:46:28 AM"
+ },
+ {
+   "code": 41,
+   "description": "HARASSMENT, THREATS",
+   "subgroup": "THREATS, HARASSMENT",
+   "group": "THREATS, HARASSMENT",
+   "date": "02/12/2016 12:01:20 PM"
+ },
+ {
+   "code": 201,
+   "description": "ALACAD - RESIDENTIAL BURGLARY (FALSE)",
+   "subgroup": "BURGLARY ALACAD (FALSE)",
+   "group": "FALSE ALACAD",
+   "date": "02/04/2016 11:36:30 AM"
+ },
+ {
+   "code": 40,
+   "description": "ASSAULTS, OTHER",
+   "subgroup": "ASSAULTS",
+   "group": "ASSAULTS",
+   "date": "02/04/2016 12:27:33 PM"
+ },
+ {
+   "code": 40,
+   "description": "ASSAULTS, OTHER",
+   "subgroup": "ASSAULTS",
+   "group": "ASSAULTS",
+   "date": "02/04/2016 01:46:20 PM"
+ },
+ {
+   "code": 201,
+   "description": "ALACAD - RESIDENTIAL BURGLARY (FALSE)",
+   "subgroup": "BURGLARY ALACAD (FALSE)",
+   "group": "FALSE ALACAD",
+   "date": "02/12/2016 12:28:28 PM"
+ },
+ {
+   "code": 220,
+   "description": "CRISIS COMPLAINT - GENERAL",
+   "subgroup": "CRISIS CALL",
+   "group": "BEHAVIORAL HEALTH",
+   "date": "02/12/2016 12:24:58 PM"
+ },
+ {
+   "code": 201,
+   "description": "ALACAD - RESIDENTIAL BURGLARY (FALSE)",
+   "subgroup": "BURGLARY ALACAD (FALSE)",
+   "group": "FALSE ALACAD",
+   "date": "02/04/2016 01:35:24 PM"
+ },
+ {
+   "code": 330,
+   "description": "CASUALTY (NON CRIMINAL/TRAFFIC) - MAN DOWN, SICK PERSONS, INJURED, DOA)",
+   "subgroup": "CASUALTIES",
+   "group": "PERSON DOWN/INJURY",
+   "date": "02/04/2016 01:27:14 PM"
+ },
+ {
+   "code": 220,
+   "description": "CRISIS COMPLAINT - GENERAL",
+   "subgroup": "CRISIS CALL",
+   "group": "BEHAVIORAL HEALTH",
+   "date": "02/04/2016 03:07:27 PM"
+ },
+ {
+   "code": 201,
+   "description": "ALACAD - RESIDENTIAL BURGLARY (FALSE)",
+   "subgroup": "BURGLARY ALACAD (FALSE)",
+   "group": "FALSE ALACAD",
+   "date": "02/04/2016 01:31:32 PM"
+ },
+ {
+   "code": 220,
+   "description": "CRISIS COMPLAINT - GENERAL",
+   "subgroup": "CRISIS CALL",
+   "group": "BEHAVIORAL HEALTH",
+   "date": "02/04/2016 02:11:31 PM"
+ },
+ {
+   "code": 40,
+   "description": "ASSAULTS, OTHER",
+   "subgroup": "ASSAULTS",
+   "group": "ASSAULTS",
+   "date": "02/04/2016 02:24:23 PM"
+ },
+ {
+   "code": 40,
+   "description": "ASSAULTS, OTHER",
+   "subgroup": "ASSAULTS",
+   "group": "ASSAULTS",
+   "date": "02/04/2016 02:48:17 PM"
+ },
+ {
+   "code": 242,
+   "description": "FIGHT DISTURBANCE",
+   "subgroup": "DISTURBANCES",
+   "group": "DISTURBANCES",
+   "date": "02/04/2016 03:35:24 PM"
+ },
+ {
+   "code": 201,
+   "description": "ALACAD - RESIDENTIAL BURGLARY (FALSE)",
+   "subgroup": "BURGLARY ALACAD (FALSE)",
+   "group": "FALSE ALACAD",
+   "date": "02/04/2016 03:24:11 PM"
+ },
+ {
+   "code": 250,
+   "description": "MISCHIEF, NUISANCE COMPLAINTS",
+   "subgroup": "NUISANCE, MISCHIEF COMPLAINTS",
+   "group": "NUISANCE, MISCHIEF",
+   "date": "02/04/2016 03:27:47 PM"
+ },
+ {
+   "code": 41,
+   "description": "HARASSMENT, THREATS",
+   "subgroup": "THREATS, HARASSMENT",
+   "group": "THREATS, HARASSMENT",
+   "date": "02/04/2016 03:24:42 PM"
+ },
+ {
+   "code": 40,
+   "description": "ASSAULTS, OTHER",
+   "subgroup": "ASSAULTS",
+   "group": "ASSAULTS",
+   "date": "08/29/2016 10:02:17 AM"
+ },
+ {
+   "code": 220,
+   "description": "CRISIS COMPLAINT - GENERAL",
+   "subgroup": "CRISIS CALL",
+   "group": "BEHAVIORAL HEALTH",
+   "date": "02/04/2016 03:42:23 PM"
+ },
+ {
+   "code": 250,
+   "description": "MISCHIEF, NUISANCE COMPLAINTS",
+   "subgroup": "NUISANCE, MISCHIEF COMPLAINTS",
+   "group": "NUISANCE, MISCHIEF",
+   "date": "02/04/2016 04:12:47 PM"
+ },
+ {
+   "code": 201,
+   "description": "ALACAD - RESIDENTIAL BURGLARY (FALSE)",
+   "subgroup": "BURGLARY ALACAD (FALSE)",
+   "group": "FALSE ALACAD",
+   "date": "02/04/2016 04:08:35 PM"
+ },
+ {
+   "code": 250,
+   "description": "MISCHIEF, NUISANCE COMPLAINTS",
+   "subgroup": "NUISANCE, MISCHIEF COMPLAINTS",
+   "group": "NUISANCE, MISCHIEF",
+   "date": "02/04/2016 04:02:19 PM"
+ },
+ {
+   "code": 220,
+   "description": "CRISIS COMPLAINT - GENERAL",
+   "subgroup": "CRISIS CALL",
+   "group": "BEHAVIORAL HEALTH",
+   "date": "02/04/2016 04:16:42 PM"
+ },
+ {
+   "code": 40,
+   "description": "ASSAULTS, OTHER",
+   "subgroup": "ASSAULTS",
+   "group": "ASSAULTS",
+   "date": "02/12/2016 01:23:18 AM"
+ },
+ {
+   "code": 250,
+   "description": "MISCHIEF, NUISANCE COMPLAINTS",
+   "subgroup": "NUISANCE, MISCHIEF COMPLAINTS",
+   "group": "NUISANCE, MISCHIEF",
+   "date": "02/04/2016 04:39:29 PM"
+ },
+ {
+   "code": 201,
+   "description": "ALACAD - RESIDENTIAL BURGLARY (FALSE)",
+   "subgroup": "BURGLARY ALACAD (FALSE)",
+   "group": "FALSE ALACAD",
+   "date": "02/12/2016 01:06:19 PM"
+ },
+ {
+   "code": 220,
+   "description": "CRISIS COMPLAINT - GENERAL",
+   "subgroup": "CRISIS CALL",
+   "group": "BEHAVIORAL HEALTH",
+   "date": "02/12/2016 12:56:22 PM"
+ },
+ {
+   "code": 330,
+   "description": "CASUALTY (NON CRIMINAL/TRAFFIC) - MAN DOWN, SICK PERSONS, INJURED, DOA)",
+   "subgroup": "CASUALTIES",
+   "group": "PERSON DOWN/INJURY",
+   "date": "02/04/2016 04:48:54 PM"
+ },
+ {
+   "code": 330,
+   "description": "CASUALTY (NON CRIMINAL/TRAFFIC) - MAN DOWN, SICK PERSONS, INJURED, DOA)",
+   "subgroup": "CASUALTIES",
+   "group": "PERSON DOWN/INJURY",
+   "date": "02/04/2016 04:41:40 PM"
+ },
+ {
+   "code": 220,
+   "description": "CRISIS COMPLAINT - GENERAL",
+   "subgroup": "CRISIS CALL",
+   "group": "BEHAVIORAL HEALTH",
+   "date": "02/04/2016 04:41:47 PM"
+ },
+ {
+   "code": 291,
+   "description": "PERSON WITH A GUN",
+   "subgroup": "GUN CALLS",
+   "group": "WEAPONS CALLS",
+   "date": "02/04/2016 04:41:45 PM"
+ },
+ {
+   "code": 40,
+   "description": "ASSAULTS, OTHER",
+   "subgroup": "ASSAULTS",
+   "group": "ASSAULTS",
+   "date": "02/04/2016 04:47:55 PM"
+ },
+ {
+   "code": 201,
+   "description": "ALACAD - RESIDENTIAL BURGLARY (FALSE)",
+   "subgroup": "BURGLARY ALACAD (FALSE)",
+   "group": "FALSE ALACAD",
+   "date": "02/04/2016 05:23:17 PM"
+ },
+ {
+   "code": 203,
+   "description": "ALACAD - RESIDENTIAL PANIC (FALSE)",
+   "subgroup": "PANIC ALACAD (FALSE)",
+   "group": "FALSE ALACAD",
+   "date": "02/04/2016 05:51:24 PM"
+ },
+ {
+   "code": 220,
+   "description": "CRISIS COMPLAINT - GENERAL",
+   "subgroup": "CRISIS CALL",
+   "group": "BEHAVIORAL HEALTH",
+   "date": "02/04/2016 06:03:19 PM"
+ },
+ {
+   "code": 220,
+   "description": "CRISIS COMPLAINT - GENERAL",
+   "subgroup": "CRISIS CALL",
+   "group": "BEHAVIORAL HEALTH",
+   "date": "02/04/2016 07:17:18 PM"
+ },
+ {
+   "code": 250,
+   "description": "MISCHIEF, NUISANCE COMPLAINTS",
+   "subgroup": "NUISANCE, MISCHIEF COMPLAINTS",
+   "group": "NUISANCE, MISCHIEF",
+   "date": "02/12/2016 12:53:07 PM"
+ },
+ {
+   "code": 243,
+   "description": "JUVENILE DISTURBANCE",
+   "subgroup": "DISTURBANCES",
+   "group": "DISTURBANCES",
+   "date": "02/04/2016 06:42:06 PM"
+ },
+ {
+   "code": 250,
+   "description": "MISCHIEF, NUISANCE COMPLAINTS",
+   "subgroup": "NUISANCE, MISCHIEF COMPLAINTS",
+   "group": "NUISANCE, MISCHIEF",
+   "date": "02/04/2016 08:09:15 PM"
+ },
+ {
+   "code": 41,
+   "description": "HARASSMENT, THREATS",
+   "subgroup": "THREATS, HARASSMENT",
+   "group": "THREATS, HARASSMENT",
+   "date": "02/04/2016 07:21:52 PM"
+ },
+ {
+   "code": 220,
+   "description": "CRISIS COMPLAINT - GENERAL",
+   "subgroup": "CRISIS CALL",
+   "group": "BEHAVIORAL HEALTH",
+   "date": "02/04/2016 07:26:55 PM"
+ },
+ {
+   "code": 202,
+   "description": "ALACAD - COMMERCIAL PANIC (FALSE)",
+   "subgroup": "PANIC ALACAD (FALSE)",
+   "group": "FALSE ALACAD",
+   "date": "02/04/2016 08:22:37 PM"
+ },
+ {
+   "code": 41,
+   "description": "HARASSMENT, THREATS",
+   "subgroup": "THREATS, HARASSMENT",
+   "group": "THREATS, HARASSMENT",
+   "date": "02/04/2016 07:45:00 PM"
+ },
+ {
+   "code": 330,
+   "description": "CASUALTY (NON CRIMINAL/TRAFFIC) - MAN DOWN, SICK PERSONS, INJURED, DOA)",
+   "subgroup": "CASUALTIES",
+   "group": "PERSON DOWN/INJURY",
+   "date": "02/04/2016 10:13:41 PM"
+ },
+ {
+   "code": 40,
+   "description": "ASSAULTS, OTHER",
+   "subgroup": "ASSAULTS",
+   "group": "ASSAULTS",
+   "date": "02/13/2016 03:23:15 AM"
+ },
+ {
+   "code": 30,
+   "description": "ARMED ROBBERY",
+   "subgroup": "GUN CALLS",
+   "group": "ROBBERY",
+   "date": "02/10/2016 04:32:17 PM"
+ },
+ {
+   "code": 40,
+   "description": "ASSAULTS, OTHER",
+   "subgroup": "ASSAULTS",
+   "group": "ASSAULTS",
+   "date": "02/04/2016 10:38:20 PM"
+ },
+ {
+   "code": 250,
+   "description": "MISCHIEF, NUISANCE COMPLAINTS",
+   "subgroup": "NUISANCE, MISCHIEF COMPLAINTS",
+   "group": "NUISANCE, MISCHIEF",
+   "date": "02/04/2016 11:08:13 PM"
+ },
+ {
+   "code": 250,
+   "description": "MISCHIEF, NUISANCE COMPLAINTS",
+   "subgroup": "NUISANCE, MISCHIEF COMPLAINTS",
+   "group": "NUISANCE, MISCHIEF",
+   "date": "02/05/2016 12:03:30 AM"
+ },
+ {
+   "code": 250,
+   "description": "MISCHIEF, NUISANCE COMPLAINTS",
+   "subgroup": "NUISANCE, MISCHIEF COMPLAINTS",
+   "group": "NUISANCE, MISCHIEF",
+   "date": "02/05/2016 12:34:46 AM"
+ },
+ {
+   "code": 40,
+   "description": "ASSAULTS, OTHER",
+   "subgroup": "ASSAULTS",
+   "group": "ASSAULTS",
+   "date": "02/05/2016 01:39:25 AM"
+ },
+ {
+   "code": 31,
+   "description": "STRONG ARM ROBBERY",
+   "subgroup": "ROBBERY",
+   "group": "ROBBERY",
+   "date": "02/12/2016 01:13:24 PM"
+ },
+ {
+   "code": 250,
+   "description": "MISCHIEF, NUISANCE COMPLAINTS",
+   "subgroup": "NUISANCE, MISCHIEF COMPLAINTS",
+   "group": "NUISANCE, MISCHIEF",
+   "date": "02/05/2016 02:03:11 AM"
+ },
+ {
+   "code": 41,
+   "description": "HARASSMENT, THREATS",
+   "subgroup": "THREATS, HARASSMENT",
+   "group": "THREATS, HARASSMENT",
+   "date": "02/05/2016 02:03:27 AM"
+ },
+ {
+   "code": 250,
+   "description": "MISCHIEF, NUISANCE COMPLAINTS",
+   "subgroup": "NUISANCE, MISCHIEF COMPLAINTS",
+   "group": "NUISANCE, MISCHIEF",
+   "date": "02/05/2016 03:38:00 AM"
+ },
+ {
+   "code": 250,
+   "description": "MISCHIEF, NUISANCE COMPLAINTS",
+   "subgroup": "NUISANCE, MISCHIEF COMPLAINTS",
+   "group": "NUISANCE, MISCHIEF",
+   "date": "02/05/2016 03:39:54 AM"
+ },
+ {
+   "code": 40,
+   "description": "ASSAULTS, OTHER",
+   "subgroup": "ASSAULTS",
+   "group": "ASSAULTS",
+   "date": "02/05/2016 04:33:11 AM"
+ },
+ {
+   "code": 250,
+   "description": "MISCHIEF, NUISANCE COMPLAINTS",
+   "subgroup": "NUISANCE, MISCHIEF COMPLAINTS",
+   "group": "NUISANCE, MISCHIEF",
+   "date": "02/05/2016 06:54:11 AM"
+ },
+ {
+   "code": 330,
+   "description": "CASUALTY (NON CRIMINAL/TRAFFIC) - MAN DOWN, SICK PERSONS, INJURED, DOA)",
+   "subgroup": "CASUALTIES",
+   "group": "PERSON DOWN/INJURY",
+   "date": "02/05/2016 07:43:27 AM"
+ },
+ {
+   "code": 30,
+   "description": "ARMED ROBBERY",
+   "subgroup": "GUN CALLS",
+   "group": "ROBBERY",
+   "date": "02/05/2016 07:28:05 AM"
+ },
+ {
+   "code": 250,
+   "description": "MISCHIEF, NUISANCE COMPLAINTS",
+   "subgroup": "NUISANCE, MISCHIEF COMPLAINTS",
+   "group": "NUISANCE, MISCHIEF",
+   "date": "02/05/2016 07:52:40 AM"
+ },
+ {
+   "code": 201,
+   "description": "ALACAD - RESIDENTIAL BURGLARY (FALSE)",
+   "subgroup": "BURGLARY ALACAD (FALSE)",
+   "group": "FALSE ALACAD",
+   "date": "02/05/2016 08:36:27 AM"
+ },
+ {
+   "code": 242,
+   "description": "FIGHT DISTURBANCE",
+   "subgroup": "DISTURBANCES",
+   "group": "DISTURBANCES",
+   "date": "02/05/2016 08:19:34 AM"
+ },
+ {
+   "code": 201,
+   "description": "ALACAD - RESIDENTIAL BURGLARY (FALSE)",
+   "subgroup": "BURGLARY ALACAD (FALSE)",
+   "group": "FALSE ALACAD",
+   "date": "02/05/2016 09:28:17 AM"
+ },
+ {
+   "code": 250,
+   "description": "MISCHIEF, NUISANCE COMPLAINTS",
+   "subgroup": "NUISANCE, MISCHIEF COMPLAINTS",
+   "group": "NUISANCE, MISCHIEF",
+   "date": "02/12/2016 01:22:12 PM"
+ },
+ {
+   "code": 291,
+   "description": "PERSON WITH A GUN",
+   "subgroup": "GUN CALLS",
+   "group": "WEAPONS CALLS",
+   "date": "02/04/2016 03:42:44 PM"
+ },
+ {
+   "code": 40,
+   "description": "ASSAULTS, OTHER",
+   "subgroup": "ASSAULTS",
+   "group": "ASSAULTS",
+   "date": "02/05/2016 10:56:17 AM"
+ },
+ {
+   "code": 201,
+   "description": "ALACAD - RESIDENTIAL BURGLARY (FALSE)",
+   "subgroup": "BURGLARY ALACAD (FALSE)",
+   "group": "FALSE ALACAD",
+   "date": "02/05/2016 12:36:02 PM"
+ },
+ {
+   "code": 201,
+   "description": "ALACAD - RESIDENTIAL BURGLARY (FALSE)",
+   "subgroup": "BURGLARY ALACAD (FALSE)",
+   "group": "FALSE ALACAD",
+   "date": "02/05/2016 12:37:25 PM"
+ },
+ {
+   "code": 250,
+   "description": "MISCHIEF, NUISANCE COMPLAINTS",
+   "subgroup": "NUISANCE, MISCHIEF COMPLAINTS",
+   "group": "NUISANCE, MISCHIEF",
+   "date": "02/05/2016 12:39:54 PM"
+ },
+ {
+   "code": 250,
+   "description": "MISCHIEF, NUISANCE COMPLAINTS",
+   "subgroup": "NUISANCE, MISCHIEF COMPLAINTS",
+   "group": "NUISANCE, MISCHIEF",
+   "date": "02/05/2016 12:37:32 PM"
+ },
+ {
+   "code": 250,
+   "description": "MISCHIEF, NUISANCE COMPLAINTS",
+   "subgroup": "NUISANCE, MISCHIEF COMPLAINTS",
+   "group": "NUISANCE, MISCHIEF",
+   "date": "02/05/2016 12:23:43 PM"
+ },
+ {
+   "code": 30,
+   "description": "ARMED ROBBERY",
+   "subgroup": "GUN CALLS",
+   "group": "ROBBERY",
+   "date": "02/05/2016 12:23:32 PM"
+ },
+ {
+   "code": 201,
+   "description": "ALACAD - RESIDENTIAL BURGLARY (FALSE)",
+   "subgroup": "BURGLARY ALACAD (FALSE)",
+   "group": "FALSE ALACAD",
+   "date": "02/05/2016 01:04:23 PM"
+ },
+ {
+   "code": 201,
+   "description": "ALACAD - RESIDENTIAL BURGLARY (FALSE)",
+   "subgroup": "BURGLARY ALACAD (FALSE)",
+   "group": "FALSE ALACAD",
+   "date": "02/05/2016 12:56:14 PM"
+ },
+ {
+   "code": 40,
+   "description": "ASSAULTS, OTHER",
+   "subgroup": "ASSAULTS",
+   "group": "ASSAULTS",
+   "date": "02/05/2016 02:18:25 PM"
+ },
+ {
+   "code": 40,
+   "description": "ASSAULTS, OTHER",
+   "subgroup": "ASSAULTS",
+   "group": "ASSAULTS",
+   "date": "02/05/2016 02:13:48 PM"
+ },
+ {
+   "code": 242,
+   "description": "FIGHT DISTURBANCE",
+   "subgroup": "DISTURBANCES",
+   "group": "DISTURBANCES",
+   "date": "02/05/2016 02:22:47 PM"
+ },
+ {
+   "code": 250,
+   "description": "MISCHIEF, NUISANCE COMPLAINTS",
+   "subgroup": "NUISANCE, MISCHIEF COMPLAINTS",
+   "group": "NUISANCE, MISCHIEF",
+   "date": "02/05/2016 05:51:02 PM"
+ },
+ {
+   "code": 40,
+   "description": "ASSAULTS, OTHER",
+   "subgroup": "ASSAULTS",
+   "group": "ASSAULTS",
+   "date": "02/05/2016 05:54:52 PM"
+ },
+ {
+   "code": 242,
+   "description": "FIGHT DISTURBANCE",
+   "subgroup": "DISTURBANCES",
+   "group": "DISTURBANCES",
+   "date": "02/05/2016 07:23:45 PM"
+ },
+ {
+   "code": 40,
+   "description": "ASSAULTS, OTHER",
+   "subgroup": "ASSAULTS",
+   "group": "ASSAULTS",
+   "date": "02/05/2016 07:24:03 PM"
+ },
+ {
+   "code": 201,
+   "description": "ALACAD - RESIDENTIAL BURGLARY (FALSE)",
+   "subgroup": "BURGLARY ALACAD (FALSE)",
+   "group": "FALSE ALACAD",
+   "date": "02/10/2016 03:06:24 PM"
+ },
+ {
+   "code": 30,
+   "description": "ARMED ROBBERY",
+   "subgroup": "GUN CALLS",
+   "group": "ROBBERY",
+   "date": "01/31/2016 01:39:21 PM"
+ },
+ {
+   "code": 202,
+   "description": "ALACAD - COMMERCIAL PANIC (FALSE)",
+   "subgroup": "PANIC ALACAD (FALSE)",
+   "group": "FALSE ALACAD",
+   "date": "02/06/2016 01:31:27 PM"
+ },
+ {
+   "code": 203,
+   "description": "ALACAD - RESIDENTIAL PANIC (FALSE)",
+   "subgroup": "PANIC ALACAD (FALSE)",
+   "group": "FALSE ALACAD",
+   "date": "02/06/2016 05:17:48 PM"
+ },
+ {
+   "code": 31,
+   "description": "STRONG ARM ROBBERY",
+   "subgroup": "ROBBERY",
+   "group": "ROBBERY",
+   "date": "02/06/2016 03:21:21 PM"
+ },
+ {
+   "code": 220,
+   "description": "CRISIS COMPLAINT - GENERAL",
+   "subgroup": "CRISIS CALL",
+   "group": "BEHAVIORAL HEALTH",
+   "date": "02/06/2016 08:36:25 PM"
+ },
+ {
+   "code": 292,
+   "description": "PERSON WITH A WEAPON (NOT GUN)",
+   "subgroup": "WEAPONS CALLS",
+   "group": "WEAPONS CALLS",
+   "date": "02/06/2016 08:44:04 PM"
+ },
+ {
+   "code": 202,
+   "description": "ALACAD - COMMERCIAL PANIC (FALSE)",
+   "subgroup": "PANIC ALACAD (FALSE)",
+   "group": "FALSE ALACAD",
+   "date": "02/06/2016 11:30:48 PM"
+ },
+ {
+   "code": 40,
+   "description": "ASSAULTS, OTHER",
+   "subgroup": "ASSAULTS",
+   "group": "ASSAULTS",
+   "date": "02/06/2016 10:53:22 PM"
+ },
+ {
+   "code": 30,
+   "description": "ARMED ROBBERY",
+   "subgroup": "GUN CALLS",
+   "group": "ROBBERY",
+   "date": "02/07/2016 05:32:24 PM"
+ },
+ {
+   "code": 250,
+   "description": "MISCHIEF, NUISANCE COMPLAINTS",
+   "subgroup": "NUISANCE, MISCHIEF COMPLAINTS",
+   "group": "NUISANCE, MISCHIEF",
+   "date": "02/07/2016 12:29:02 AM"
+ },
+ {
+   "code": 250,
+   "description": "MISCHIEF, NUISANCE COMPLAINTS",
+   "subgroup": "NUISANCE, MISCHIEF COMPLAINTS",
+   "group": "NUISANCE, MISCHIEF",
+   "date": "02/10/2016 02:16:15 AM"
+ },
+ {
+   "code": 242,
+   "description": "FIGHT DISTURBANCE",
+   "subgroup": "DISTURBANCES",
+   "group": "DISTURBANCES",
+   "date": "02/07/2016 12:12:06 PM"
+ },
+ {
+   "code": 330,
+   "description": "CASUALTY (NON CRIMINAL/TRAFFIC) - MAN DOWN, SICK PERSONS, INJURED, DOA)",
+   "subgroup": "CASUALTIES",
+   "group": "PERSON DOWN/INJURY",
+   "date": "02/07/2016 11:57:45 AM"
+ },
+ {
+   "code": 201,
+   "description": "ALACAD - RESIDENTIAL BURGLARY (FALSE)",
+   "subgroup": "BURGLARY ALACAD (FALSE)",
+   "group": "FALSE ALACAD",
+   "date": "02/07/2016 01:06:11 PM"
+ },
+ {
+   "code": 41,
+   "description": "HARASSMENT, THREATS",
+   "subgroup": "THREATS, HARASSMENT",
+   "group": "THREATS, HARASSMENT",
+   "date": "02/11/2016 02:11:54 PM"
+ },
+ {
+   "code": 201,
+   "description": "ALACAD - RESIDENTIAL BURGLARY (FALSE)",
+   "subgroup": "BURGLARY ALACAD (FALSE)",
+   "group": "FALSE ALACAD",
+   "date": "02/08/2016 10:24:09 AM"
+ },
+ {
+   "code": 330,
+   "description": "CASUALTY (NON CRIMINAL/TRAFFIC) - MAN DOWN, SICK PERSONS, INJURED, DOA)",
+   "subgroup": "CASUALTIES",
+   "group": "PERSON DOWN/INJURY",
+   "date": "02/08/2016 11:23:56 AM"
+ },
+ {
+   "code": 250,
+   "description": "MISCHIEF, NUISANCE COMPLAINTS",
+   "subgroup": "NUISANCE, MISCHIEF COMPLAINTS",
+   "group": "NUISANCE, MISCHIEF",
+   "date": "02/16/2016 04:12:39 AM"
+ },
+ {
+   "code": 250,
+   "description": "MISCHIEF, NUISANCE COMPLAINTS",
+   "subgroup": "NUISANCE, MISCHIEF COMPLAINTS",
+   "group": "NUISANCE, MISCHIEF",
+   "date": "02/10/2016 04:05:34 PM"
+ },
+ {
+   "code": 220,
+   "description": "CRISIS COMPLAINT - GENERAL",
+   "subgroup": "CRISIS CALL",
+   "group": "BEHAVIORAL HEALTH",
+   "date": "02/08/2016 02:59:56 PM"
+ },
+ {
+   "code": 250,
+   "description": "MISCHIEF, NUISANCE COMPLAINTS",
+   "subgroup": "NUISANCE, MISCHIEF COMPLAINTS",
+   "group": "NUISANCE, MISCHIEF",
+   "date": "02/08/2016 03:28:43 PM"
+ },
+ {
+   "code": 220,
+   "description": "CRISIS COMPLAINT - GENERAL",
+   "subgroup": "CRISIS CALL",
+   "group": "BEHAVIORAL HEALTH",
+   "date": "02/08/2016 06:45:23 PM"
+ },
+ {
+   "code": 220,
+   "description": "CRISIS COMPLAINT - GENERAL",
+   "subgroup": "CRISIS CALL",
+   "group": "BEHAVIORAL HEALTH",
+   "date": "02/08/2016 10:16:57 PM"
+ },
+ {
+   "code": 31,
+   "description": "STRONG ARM ROBBERY",
+   "subgroup": "ROBBERY",
+   "group": "ROBBERY",
+   "date": "02/09/2016 02:12:34 AM"
+ },
+ {
+   "code": 250,
+   "description": "MISCHIEF, NUISANCE COMPLAINTS",
+   "subgroup": "NUISANCE, MISCHIEF COMPLAINTS",
+   "group": "NUISANCE, MISCHIEF",
+   "date": "02/09/2016 02:17:14 AM"
+ },
+ {
+   "code": 330,
+   "description": "CASUALTY (NON CRIMINAL/TRAFFIC) - MAN DOWN, SICK PERSONS, INJURED, DOA)",
+   "subgroup": "CASUALTIES",
+   "group": "PERSON DOWN/INJURY",
+   "date": "02/09/2016 04:05:10 AM"
+ },
+ {
+   "code": 250,
+   "description": "MISCHIEF, NUISANCE COMPLAINTS",
+   "subgroup": "NUISANCE, MISCHIEF COMPLAINTS",
+   "group": "NUISANCE, MISCHIEF",
+   "date": "02/09/2016 04:02:51 AM"
+ },
+ {
+   "code": 250,
+   "description": "MISCHIEF, NUISANCE COMPLAINTS",
+   "subgroup": "NUISANCE, MISCHIEF COMPLAINTS",
+   "group": "NUISANCE, MISCHIEF",
+   "date": "02/09/2016 08:52:42 AM"
+ },
+ {
+   "code": 201,
+   "description": "ALACAD - RESIDENTIAL BURGLARY (FALSE)",
+   "subgroup": "BURGLARY ALACAD (FALSE)",
+   "group": "FALSE ALACAD",
+   "date": "02/09/2016 08:59:54 AM"
+ },
+ {
+   "code": 250,
+   "description": "MISCHIEF, NUISANCE COMPLAINTS",
+   "subgroup": "NUISANCE, MISCHIEF COMPLAINTS",
+   "group": "NUISANCE, MISCHIEF",
+   "date": "02/09/2016 09:16:24 AM"
+ },
+ {
+   "code": 201,
+   "description": "ALACAD - RESIDENTIAL BURGLARY (FALSE)",
+   "subgroup": "BURGLARY ALACAD (FALSE)",
+   "group": "FALSE ALACAD",
+   "date": "02/09/2016 09:27:36 AM"
+ },
+ {
+   "code": 220,
+   "description": "CRISIS COMPLAINT - GENERAL",
+   "subgroup": "CRISIS CALL",
+   "group": "BEHAVIORAL HEALTH",
+   "date": "12/17/2016 03:33:55 AM"
+ },
+ {
+   "code": 220,
+   "description": "CRISIS COMPLAINT - GENERAL",
+   "subgroup": "CRISIS CALL",
+   "group": "BEHAVIORAL HEALTH",
+   "date": "02/09/2016 08:09:36 PM"
+ },
+ {
+   "code": 41,
+   "description": "HARASSMENT, THREATS",
+   "subgroup": "THREATS, HARASSMENT",
+   "group": "THREATS, HARASSMENT",
+   "date": "02/03/2016 04:06:28 PM"
+ },
+ {
+   "code": 201,
+   "description": "ALACAD - RESIDENTIAL BURGLARY (FALSE)",
+   "subgroup": "BURGLARY ALACAD (FALSE)",
+   "group": "FALSE ALACAD",
+   "date": "02/09/2016 10:44:41 AM"
+ },
+ {
+   "code": 220,
+   "description": "CRISIS COMPLAINT - GENERAL",
+   "subgroup": "CRISIS CALL",
+   "group": "BEHAVIORAL HEALTH",
+   "date": "02/12/2016 02:15:18 PM"
+ },
+ {
+   "code": 250,
+   "description": "MISCHIEF, NUISANCE COMPLAINTS",
+   "subgroup": "NUISANCE, MISCHIEF COMPLAINTS",
+   "group": "NUISANCE, MISCHIEF",
+   "date": "02/09/2016 11:19:06 AM"
+ },
+ {
+   "code": 204,
+   "description": "ALACAD - VEHICLE (FALSE)",
+   "subgroup": "VEHICLE ALACAD (FALSE)",
+   "group": "FALSE ALACAD",
+   "date": "02/09/2016 11:16:11 AM"
+ },
+ {
+   "code": 330,
+   "description": "CASUALTY (NON CRIMINAL/TRAFFIC) - MAN DOWN, SICK PERSONS, INJURED, DOA)",
+   "subgroup": "CASUALTIES",
+   "group": "PERSON DOWN/INJURY",
+   "date": "02/09/2016 11:14:03 AM"
+ },
+ {
+   "code": 250,
+   "description": "MISCHIEF, NUISANCE COMPLAINTS",
+   "subgroup": "NUISANCE, MISCHIEF COMPLAINTS",
+   "group": "NUISANCE, MISCHIEF",
+   "date": "02/09/2016 11:28:30 AM"
+ }
+]
