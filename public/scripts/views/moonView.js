@@ -7,7 +7,7 @@ function moonChart() {
 function moonStuff() {
   var myChart = Highcharts.chart('container', {
     chart: {
-      type: 'bar'
+      type: 'areaspline'
     },
     title: {
       text: 'Crimes'
