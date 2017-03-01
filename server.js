@@ -3,9 +3,11 @@
 const pg = require('pg');
 const express = require('express');
 const requestProxy = require('express-request-proxy');
+// const Highcharts = require('highcharts');
+// require('highcharts/modules/exporting')(Highcharts);
 const app = express();
 const PORT = process.env.PORT || 3000;
-const conString = process.env.DATABASE_URL || 'postgres://localhost:5432'; //replace with 'postgres://localhost:5432' on your Mac, windows postgres://postgres:B86j07L13@localhost:5432/postgres
+const conString = process.env.DATABASE_URL || 'postgres://postgres:B86j07L13@localhost:5432/postgres'; //replace with 'postgres://localhost:5432' on your Mac, windows postgres://postgres:B86j07L13@localhost:5432/postgres
 const client = new pg.Client(conString);
 client.connect();
 
