@@ -11,6 +11,11 @@ main {
 header {
   border-bottom: 1px solid black;
 }
+
+h1{
+  color: #fff;
+}
+
 nav.top-nav {
   min-height: 42px;
 }
@@ -47,7 +52,6 @@ nav.top-nav a {
 @media only screen and (min-width: 767px) {
   /* menu rules */
   nav.top-nav ul  {
-    background-color: rgba(255, 255, 255, 0);
     display: inline-block;
     padding-top: 7px;
     padding-left: 6px;
