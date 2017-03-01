@@ -2,6 +2,8 @@
 @import url('https://fonts.googleapis.com/css?family=Diplomata+SC');
 /*Nav font*/
 @import url('https://fonts.googleapis.com/css?family=Amatic+SC');
+/*body font*/
+@import url('https://fonts.googleapis.com/css?family=Economica');
 
 body {
   background-image: url("../img/moon-mayhem-background.jpg");
@@ -11,5 +13,7 @@ body {
 }
 
 p {
+  font-family: 'Economica', sans-serif;
+  font-size: 1.5em;
   color: #fff;
 }
