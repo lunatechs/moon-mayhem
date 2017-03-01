@@ -1,3 +1,7 @@
+* {
+  border: 1px solid pink;
+}
+
 main {
   width: 90%;
   min-width: 300px;
@@ -11,6 +15,13 @@ main {
 header {
   border-bottom: 1px solid black;
 }
+
+h1{
+  text-align: center;
+  font-family: 'Diplomata SC', cursive;
+  color: #fff;
+}
+
 nav.top-nav {
   min-height: 42px;
 }
@@ -30,6 +41,8 @@ nav.top-nav ul li {
   list-style: none;
   padding: 5px 0;
   min-height: 42px;
+  font-family: 'Amatic SC', cursive;
+  font-size: 2em;
   color: #fff;
 }
 
@@ -47,7 +60,6 @@ nav.top-nav a {
 @media only screen and (min-width: 767px) {
   /* menu rules */
   nav.top-nav ul  {
-    background-color: rgba(255, 255, 255, 0);
     display: inline-block;
     padding-top: 7px;
     padding-left: 6px;
@@ -56,11 +68,11 @@ nav.top-nav a {
     padding: 3px 4px;
     min-height: 0;
     display: inline-block;
-    color: #393E41;
+    color: #fff;
     border: 2px solid rgba(255, 255, 255, 0);
   }
   nav.top-nav li:hover {
-    /*color: #E54B4B;*/
+    color: #4EEDC8;
   }
   nav.top-nav ul {
     float: left;
