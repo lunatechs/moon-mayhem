@@ -41,16 +41,5 @@
       });
   }
 
-  // Yields an array with crime counts for each day
-  moonData.getCounts = function (days) {
-    moonData.counts = days.map(function (day) {
-      return dataContent.filter(function (datum) {
-        if (datum.date.slice(3, 5) === day) {
-          return datum;
-        }
-      }).length;
-    });
-  };
-
   module.moonData = moonData;
 })(window);
