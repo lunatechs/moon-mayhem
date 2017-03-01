@@ -1,3 +1,7 @@
+* {
+  border: 1px solid pink;
+}
+
 main {
   width: 90%;
   min-width: 300px;
@@ -13,6 +17,8 @@ header {
 }
 
 h1{
+  text-align: center;
+  font-family: 'Diplomata SC', cursive;
   color: #fff;
 }
 
@@ -35,6 +41,8 @@ nav.top-nav ul li {
   list-style: none;
   padding: 5px 0;
   min-height: 42px;
+  font-family: 'Amatic SC', cursive;
+  font-size: 2em;
   color: #fff;
 }
 

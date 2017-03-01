@@ -1,6 +1,15 @@
+/*Title font*/
+@import url('https://fonts.googleapis.com/css?family=Diplomata+SC');
+/*Nav font*/
+@import url('https://fonts.googleapis.com/css?family=Amatic+SC');
+
 body {
   background-image: url("../img/moon-mayhem-background.jpg");
   background-repeat: no-repeat;
   background-size: cover;
   background-attachment: fixed;
+}
+
+p {
+  color: #fff;
 }
