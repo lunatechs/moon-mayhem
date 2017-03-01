@@ -23,7 +23,6 @@
     $.getJSON('../../data/cityData.json')
       .then(function (jsonData) {
         dataContent = jsonData.filter(filterFormData);
-        console.log('first stage');
         return jsonData.filter(filterFormData);
       })
       .then(function (dataContent) {
@@ -33,7 +32,6 @@
             return a;
           }, []);
         sortDays(moonData.days);
-        console.log('second stage');
         return moonData.days;
       })
       .then(function (days) {
