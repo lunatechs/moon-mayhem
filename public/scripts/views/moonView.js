@@ -10,14 +10,14 @@ function moonStuff() {
       type: 'areaspline'
     },
     title: {
-      text: 'Crimes'
+      text: moonController.monthName
     },
     xAxis: {
       categories: moonData.days
     },
     yAxis: {
       title: {
-        text: 'Fruit eaten'
+        text: 'Reported Crimes'
       }
     },
     series: [{
