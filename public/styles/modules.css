@@ -4,7 +4,8 @@ form {
 
 form > select {
   margin: 0 auto;
-  width: 30%;
+  width: 28%;
+  padding: 0.5em;
 }
 
 #selector-container {
@@ -13,8 +14,26 @@ form > select {
 }
 
 select {
-  border: 1px green solid;
-  opacity: 0.5;
+
+  border: 2px #0CF2BD solid;
+  border-radius: 15%;
   background-color: black;
+  font-family: 'Economica', sans-serif;
+  font-size: 1.5em;
   color: #fff;
+
+}
+
+button {
+  margin-left: 1em;
+  border: 2px #0CF2BD solid;
+  border-radius: 15%;
+  font-family: 'Economica', sans-serif;
+  background-color: #33658A;
+  font-size: 1.5em;
+  color: #fff;
+}
+
+button:hover {
+  background-color: #5B4E77;
 }
