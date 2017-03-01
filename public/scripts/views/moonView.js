@@ -2,8 +2,6 @@
 
 function moonChart() {
   moonData.getData();
-  // moonData.getDays();
-  // moonData.getCounts();
 
   (() => {
     var myChart = Highcharts.chart('container', {
