@@ -56,11 +56,11 @@ nav.top-nav a {
     padding: 3px 4px;
     min-height: 0;
     display: inline-block;
-    color: #393E41;
+    color: #fff;
     border: 2px solid rgba(255, 255, 255, 0);
   }
   nav.top-nav li:hover {
-    /*color: #E54B4B;*/
+    color: #4EEDC8;
   }
   nav.top-nav ul {
     float: left;

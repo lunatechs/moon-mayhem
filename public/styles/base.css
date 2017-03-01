@@ -1,0 +1,6 @@
+body {
+  background-image: url("../img/moon-mayhem-background.jpg");
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-attachment: fixed;
+}
