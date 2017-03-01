@@ -2,6 +2,8 @@
 
 (function(module) {
   var moonController = {};
+moonController.month;
+
   $('section').hide();
   $('section#main-moon').show();
 
@@ -11,6 +13,7 @@
     moonController.year = $('select')[1].value;
     moonData.getData(); // may want to move this once view functions are in place
   });
+
   moonController.index = function() {
     console.log('moon controller called');
     $('section').hide();
