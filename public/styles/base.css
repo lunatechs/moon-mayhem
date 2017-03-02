@@ -39,3 +39,16 @@ h1 {
   line-height: 1.5;
   color: #fff;
 }
+
+div.about-sections img, div.about-sections p {
+  display: inline-block;
+  float: left;
+}
+
+div.about-sections img {
+  width: 30%;
+}
+
+div.about-sections p {
+  width: 60%;
+}
