@@ -5,6 +5,8 @@ function moonChart() {
 };
 
 function moonStuff() {
+  console.log('moonData.moonFrom:', moonData.moonFrom);
+  console.log('moonData.moonTo:', moonData.moonTo);
   var myChart = Highcharts.chart('container', {
     chart: {
       type: 'areaspline'
@@ -13,7 +15,12 @@ function moonStuff() {
       text: moonController.monthName
     },
     xAxis: {
-      categories: moonData.days
+      categories: moonData.days,
+      plotBands: [{ // add plotBands label
+        from: moonData.moonFrom,
+        to: moonData.moonTo,
+        color: 'rgba(68, 170, 213, .2)'
+      }]
     },
     yAxis: {
       title: {

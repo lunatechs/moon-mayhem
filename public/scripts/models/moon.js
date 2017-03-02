@@ -37,34 +37,43 @@
       .then(function (days) {
         moonData.getCounts(days);
       })
-      .then(moonData.getMoons())
-      .then(callback);
+      .then(function() {
+        console.log('getMoons being called')
+        moonData.getMoons()
+      })
+      .then(function() {
+        console.log('getData callback firing');
+        setTimeout(callback, 400);
+      });
   }
-   // Yields an array with crime counts for each day
-   moonData.getCounts = function (days) {
-     moonData.counts = days.map(function (day) {
-       return dataContent.filter(function (datum) {
-         if (datum.date.slice(3, 5) === day) {
-           return datum;
-         }
-       }).length;
-     });
-   }
+  // Yields an array with crime counts for each day
+  moonData.getCounts = function (days) {
+    moonData.counts = days.map(function (day) {
+      return dataContent.filter(function (datum) {
+        if (datum.date.slice(3, 5) === day) {
+          return datum;
+        }
+      }).length;
+    });
+  }
 
-   moonData.getMoons = function() {
-     $.get(`http://api.usno.navy.mil/moon/phase?date=${parseInt(moonController.month)}/1/${moonController.year}&nump=4&tz=-8&dst=true`)
-     .then(function(data) {
-       data.phasedata.filter(function(datum) {
-         if (datum.phase === 'Full Moon') {
-           var fullMoon = parseInt(datum.date.slice(-2));
-           moonData.fullMoon = [];
-           moonData.fullMoon.push(fullMoon - 4);
-           moonData.fullMoon.push(fullMoon + 2);
-           console.log('moonData.fullMoon is', moonData.fullMoon);
-         }
-       });
-     });
-   }
+  moonData.getMoons = function () {
+    $.get(`http://api.usno.navy.mil/moon/phase?date=${parseInt(moonController.month)}/1/${moonController.year}&nump=4&tz=-8&dst=true`)
+      .then(function (data) {
+        console.log('getMoons.then starting');
+        data.phasedata.filter(function (datum) {
+          if (datum.phase === 'Full Moon') {
+            var fullMoon = parseInt(datum.date.slice(-2));
+            moonData.fullMoon = [];
+            moonData.fullMoon.push((fullMoon - 4) < 0 ? 0 : (fullMoon -4));
+            moonData.fullMoon.push(fullMoon + 2);
+            moonData.moonFrom = moonData.fullMoon[0];
+            moonData.moonTo = moonData.fullMoon[1];
+            console.log('moonData.fullMoon is', moonData.fullMoon);
+          }
+        });
+      });
+  }
 
   module.moonData = moonData;
 })(window);
