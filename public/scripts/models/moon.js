@@ -58,7 +58,7 @@
   }
 
   moonData.getMoons = function () {
-    $.get(`http://api.usno.navy.mil/moon/phase?date=${parseInt(moonController.month)}/1/${moonController.year}&nump=4&tz=-8&dst=true`)
+    $.get(`https://api.usno.navy.mil/moon/phase?date=${parseInt(moonController.month)}/1/${moonController.year}&nump=4&tz=-8&dst=true`)
       .then(function (data) {
         console.log('getMoons.then starting');
         data.phasedata.filter(function (datum) {
