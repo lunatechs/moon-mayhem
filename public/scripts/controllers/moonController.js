@@ -11,6 +11,7 @@
     moonController.month = $('select')[0].value;
     moonController.monthName = $('select option:selected').text();
     moonController.year = $('select')[1].value;
+    $('section#main-moon p.intro').slideUp();
     moonChart();
   });
 
