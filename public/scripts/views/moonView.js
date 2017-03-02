@@ -28,8 +28,13 @@ function moonStuff() {
             fontWeight: 'bold'
           }
         }
+      }],
+      plotLines: [{
+        color: 'red',
+        dashStyle: 'solid',
+        value: moonData.fullMoonDate,
+        width: 2
       }]
-
     },
     yAxis: {
       title: {

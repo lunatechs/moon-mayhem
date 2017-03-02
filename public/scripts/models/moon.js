@@ -64,6 +64,7 @@
         data.phasedata.filter(function (datum) {
           if (datum.phase === 'Full Moon') {
             var fullMoon = parseInt(datum.date.slice(-2));
+            moonData.fullMoonDate = (fullMoon - 1);
             moonData.fullMoon = [];
             moonData.fullMoon.push((fullMoon - 4) < 0 ? 0 : (fullMoon -4));
             moonData.fullMoon.push(fullMoon + 2);
