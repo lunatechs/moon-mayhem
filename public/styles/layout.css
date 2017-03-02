@@ -54,6 +54,9 @@ nav.top-nav a {
   text-decoration: none;
   color:inherit;
 }
+#main-moon p {
+  text-align: center;
+}
 /* Media Queries */
 /* Tablets */
 @media only screen and (min-width: 767px) {
