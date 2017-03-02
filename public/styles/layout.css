@@ -1,6 +1,6 @@
-* {
+/** {
   border: 1px solid pink;
-}
+}*/
 
 main {
   width: 90%;
@@ -13,7 +13,8 @@ main {
 
 /* Menu rules */
 header {
-  border-bottom: 1px solid black;
+  min-height: 42px;
+  background-color: rgba(5, 5, 5, 0.7);
 }
 
 h1{
@@ -22,11 +23,6 @@ h1{
   font-family: 'Diplomata SC', cursive;
   font-size: 2em;
   color: #E6F2F4;
-}
-
-nav.top-nav {
-  min-height: 42px;
-  background-color: rgba(5, 5, 5, 0.7);
 }
 
 nav.top-nav i.menu {
@@ -72,10 +68,10 @@ nav.top-nav a {
     padding-left: 6px;
   }
   nav.top-nav ul li {
-    padding: 3px 4px;
     min-height: 0;
     display: inline-block;
     color: #fff;
+    padding-right: 20px;
   }
   nav.top-nav li:hover {
     color: #4EEDC8;
