@@ -3,7 +3,8 @@
 /*Nav font*/
 @import url('https://fonts.googleapis.com/css?family=Amatic+SC');
 /*body font*/
-@import url('https://fonts.googleapis.com/css?family=Economica');
+/*@import url('https://fonts.googleapis.com/css?family=Economica');*/
+@import url('https://fonts.googleapis.com/css?family=Josefin+Sans');
 
 body {
   background-image: url("../img/moon-mayhem-background.jpg");
@@ -13,10 +14,11 @@ body {
 }
 
 p {
-  font-family: 'Economica', sans-serif;
+  font-family: 'Josefin Sans', sans-serif;
   font-size: 1.75em;
-  line-height: 1.5;
+  line-height: 1.2em;
   color: #fff;
+  text-align: center;
 }
 
 h1 {
@@ -34,10 +36,8 @@ h1 {
 }
 
 #about-moon p {
-  font-family: 'Economica', sans-serif;
-  font-size: 1.75em;
-  line-height: 1.5;
-  color: #fff;
+  text-align: left;
+  padding-left: 5%;
 }
 
 div.about-sections img, div.about-sections p {
@@ -46,9 +46,13 @@ div.about-sections img, div.about-sections p {
 }
 
 div.about-sections img {
-  width: 30%;
+  width: 20%;
 }
 
 div.about-sections p {
-  width: 60%;
+  width: 75%;
+}
+
+#about-moon p strong {
+  color: #4EEDC8;
 }
