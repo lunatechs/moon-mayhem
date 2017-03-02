@@ -13,8 +13,16 @@ body {
 }
 
 p {
-  padding: 0.2em;
+  /*padding: 0.2em;*/
   font-family: 'Economica', sans-serif;
-  font-size: 1.5em;
+  font-size: 1.75em;
+  line-height: 1.5;
   color: #fff;
+}
+
+h1 {
+  font-family: 'Diplomata SC', cursive;
+  margin-top: 20px;
+  text-align: center;
+  color: #E6F2F4;
 }
