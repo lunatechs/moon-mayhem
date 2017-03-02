@@ -37,6 +37,7 @@
       .then(function (days) {
         moonData.getCounts(days);
       })
+      .then(moonData.getMoons())
       .then(callback);
   }
    // Yields an array with crime counts for each day
@@ -47,6 +48,21 @@
            return datum;
          }
        }).length;
+     });
+   }
+
+   moonData.getMoons = function() {
+     $.get(`http://api.usno.navy.mil/moon/phase?date=${parseInt(moonController.month)}/1/${moonController.year}&nump=4&tz=-8&dst=true`)
+     .then(function(data) {
+       data.phasedata.filter(function(datum) {
+         if (datum.phase === 'Full Moon') {
+           var fullMoon = parseInt(datum.date.slice(-2));
+           moonData.fullMoon = [];
+           moonData.fullMoon.push(fullMoon - 4);
+           moonData.fullMoon.push(fullMoon + 2);
+           console.log('moonData.fullMoon is', moonData.fullMoon);
+         }
+       });
      });
    }
 
