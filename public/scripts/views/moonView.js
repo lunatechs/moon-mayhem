@@ -19,8 +19,17 @@ function moonStuff() {
       plotBands: [{ // add plotBands label
         from: moonData.moonFrom,
         to: moonData.moonTo,
-        color: 'rgba(68, 170, 213, .2)'
+        color: 'rgba(68, 170, 213, .2)',
+        label: {
+          text: 'Full Moon Phase',
+          align: 'center',
+          style: {
+            color: 'lightgray',
+            fontWeight: 'bold'
+          }
+        }
       }]
+
     },
     yAxis: {
       title: {
