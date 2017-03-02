@@ -19,11 +19,10 @@
   }
 
   // JSON call to get filtered data
-  moonData.getData = function () {
+  moonData.getData = function (callback) {
     $.getJSON('../../data/cityData.json')
       .then(function (jsonData) {
         dataContent = jsonData.filter(filterFormData);
-        console.log('first stage');
         return jsonData.filter(filterFormData);
       })
       .then(function (dataContent) {
@@ -33,13 +32,39 @@
             return a;
           }, []);
         sortDays(moonData.days);
-        console.log('second stage');
         return moonData.days;
       })
       .then(function (days) {
         moonData.getCounts(days);
-      });
+      })
+      .then(moonData.getMoons())
+      .then(callback);
   }
+   // Yields an array with crime counts for each day
+   moonData.getCounts = function (days) {
+     moonData.counts = days.map(function (day) {
+       return dataContent.filter(function (datum) {
+         if (datum.date.slice(3, 5) === day) {
+           return datum;
+         }
+       }).length;
+     });
+   }
+
+   moonData.getMoons = function() {
+     $.get(`http://api.usno.navy.mil/moon/phase?date=${parseInt(moonController.month)}/1/${moonController.year}&nump=4&tz=-8&dst=true`)
+     .then(function(data) {
+       data.phasedata.filter(function(datum) {
+         if (datum.phase === 'Full Moon') {
+           var fullMoon = parseInt(datum.date.slice(-2));
+           moonData.fullMoon = [];
+           moonData.fullMoon.push(fullMoon - 4);
+           moonData.fullMoon.push(fullMoon + 2);
+           console.log('moonData.fullMoon is', moonData.fullMoon);
+         }
+       });
+     });
+   }
 
   module.moonData = moonData;
 })(window);
