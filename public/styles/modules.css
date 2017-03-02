@@ -2,10 +2,17 @@ form {
   margin: 0 auto;
 }
 
-form > select {
-  margin: 0 auto;
-  width: 28%;
-  margin-left: 0.5em;
+form > select,
+form > button {
+  display: block;
+  color: #fff;
+  width: 100%;
+  margin-bottom: 10px;
+  height: 42px;
+  border: 2px #0CF2BD solid;
+  border-radius: 10px;
+  font-family: 'Economica', sans-serif;
+  font-size: 1.5em;
 }
 
 #selector-container {
@@ -14,26 +21,59 @@ form > select {
 }
 
 select {
-
-  border: 2px #0CF2BD solid;
-  border-radius: 15%;
   background-color: black;
-  font-family: 'Economica', sans-serif;
-  font-size: 1.5em;
-  color: #fff;
-
+  padding-left: 3px;
 }
 
 button {
-  margin-left: 1em;
-  border: 2px #0CF2BD solid;
-  border-radius: 15%;
-  font-family: 'Economica', sans-serif;
   background-color: #034748;
-  font-size: 1.5em;
-  color: #fff;
 }
 
 button:hover {
   background-color: #33658A;
+}
+
+/* Media Queries */
+/* Tablets */
+@media only screen and (min-width: 767px) {
+  /* form rules */
+  #selector-container {
+    width: auto;
+    text-align: center;
+  }
+  form {
+    display: inline-block;
+  }
+  form > select,
+  form > button {
+    display: inline-block;
+    width: auto;
+    margin-bottom: 10px;
+  }
+  select {
+    min-height: 42px;
+    border: 2px #0CF2BD solid;
+    border-radius: 10px;
+    background-color: black;
+    font-family: 'Economica', sans-serif;
+    font-size: 1.5em;
+    color: #fff;
+    margin-right: 0.25em;
+  }
+
+  button {
+    margin-left: .75em;
+    border: 2px #0CF2BD solid;
+    border-radius: 10px;
+    font-family: 'Economica', sans-serif;
+    background-color: #034748;
+    font-size: 1.5em;
+    color: #fff;
+  }
+}
+
+/* Laptop and above */
+@media only screen and (min-width: 1025px) {
+  /* form rules */
+
 }
