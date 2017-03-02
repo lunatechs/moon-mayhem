@@ -20,7 +20,7 @@ h1{
   text-align: center;
   font-family: 'Diplomata SC', cursive;
   font-size: 3em;
-  color: #fff;
+  color: #E6F2F4;
 }
 
 nav.top-nav {
@@ -70,7 +70,6 @@ nav.top-nav a {
     min-height: 0;
     display: inline-block;
     color: #fff;
-    border: 2px solid rgba(255, 255, 255, 0);
   }
   nav.top-nav li:hover {
     color: #4EEDC8;
@@ -83,6 +82,15 @@ nav.top-nav a {
   }
   i.menu {
     display: none;
+  }
+  select {
+    display: inline-block;
+    min-height: 0;
+    float: left;
+  }
+  button {
+    display: inline-block;
+    min-height: 0;
   }
 }
 
