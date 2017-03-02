@@ -1,6 +1,6 @@
-/** {
+* {
   border: 1px solid pink;
-}*/
+}
 
 main {
   width: 90%;
@@ -17,25 +17,28 @@ header {
 }
 
 h1{
+  margin-top: 20%;
   text-align: center;
   font-family: 'Diplomata SC', cursive;
-  font-size: 3em;
-  color: #fff;
+  font-size: 2em;
+  color: #E6F2F4;
 }
 
 nav.top-nav {
   min-height: 42px;
+  background-color: rgba(5, 5, 5, 0.7);
 }
 
 nav.top-nav i.menu {
   padding: 11px 16px 6px 0;
   float: right;
+  color: #fff;
+  font-size: 1.7em;
 }
 
 nav.top-nav ul {
   display: none;
   margin:0;
-  background-color: rgba(5, 5, 5, 0.7);
 }
 
 nav.top-nav ul li {
@@ -55,11 +58,14 @@ nav.top-nav a {
   text-decoration: none;
   color:inherit;
 }
-
 /* Media Queries */
 /* Tablets */
 @media only screen and (min-width: 767px) {
   /* menu rules */
+  h1{
+    margin-top: 10%;
+    font-size: 2.5em;
+  }
   nav.top-nav ul  {
     display: inline-block;
     padding-top: 7px;
@@ -70,19 +76,25 @@ nav.top-nav a {
     min-height: 0;
     display: inline-block;
     color: #fff;
-    border: 2px solid rgba(255, 255, 255, 0);
   }
   nav.top-nav li:hover {
     color: #4EEDC8;
   }
-  nav.top-nav ul {
-    float: left;
-  }
+
   nav.top-nav ul li.active-nav-item a {
     border-bottom: 2px solid #000;
   }
   i.menu {
     display: none;
+  }
+  select {
+    display: inline-block;
+    min-height: 0;
+    float: left;
+  }
+  button {
+    display: inline-block;
+    min-height: 0;
   }
 }
 

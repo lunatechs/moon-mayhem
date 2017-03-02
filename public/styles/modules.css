@@ -5,11 +5,11 @@ form {
 form > select {
   margin: 0 auto;
   width: 28%;
-  padding: 0.5em;
+  margin-left: 0.5em;
 }
 
 #selector-container {
-  width: 50%;
+  width: 70%;
   margin: 0 auto;
 }
 
@@ -29,11 +29,11 @@ button {
   border: 2px #0CF2BD solid;
   border-radius: 15%;
   font-family: 'Economica', sans-serif;
-  background-color: #33658A;
+  background-color: #034748;
   font-size: 1.5em;
   color: #fff;
 }
 
 button:hover {
-  background-color: #5B4E77;
+  background-color: #33658A;
 }

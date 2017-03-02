@@ -13,6 +13,7 @@ body {
 }
 
 p {
+  padding: 0.2em;
   font-family: 'Economica', sans-serif;
   font-size: 1.5em;
   color: #fff;
