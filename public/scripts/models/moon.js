@@ -43,7 +43,7 @@
       })
       .then(function() {
         console.log('getData callback firing');
-        setTimeout(callback, 600);
+        setTimeout(callback, 1000);
       });
   }
   // Yields an array with crime counts for each day
