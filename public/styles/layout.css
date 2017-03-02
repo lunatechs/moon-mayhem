@@ -18,11 +18,7 @@ header {
 }
 
 h1{
-  margin-top: 20%;
-  text-align: center;
-  font-family: 'Diplomata SC', cursive;
   font-size: 2em;
-  color: #E6F2F4;
 }
 
 nav.top-nav i.menu {
@@ -57,14 +53,13 @@ nav.top-nav a {
 #main-moon p {
   text-align: center;
 }
+div#container {
+  margin-top: 60px;
+}
 /* Media Queries */
 /* Tablets */
 @media only screen and (min-width: 767px) {
   /* menu rules */
-  h1{
-    margin-top: 10%;
-    font-size: 2.5em;
-  }
   nav.top-nav ul  {
     display: inline-block;
     padding-top: 7px;
@@ -95,6 +90,9 @@ nav.top-nav a {
     display: inline-block;
     min-height: 0;
   }
+  h1 {
+    font-size: 2.5em;
+  }
 }
 
 /* Laptop and above */
@@ -103,5 +101,8 @@ nav.top-nav a {
   nav {
     max-width: 1025px;
     margin: 0 auto;
+  }
+  h1 {
+    font-size: 3em;
   }
 }
