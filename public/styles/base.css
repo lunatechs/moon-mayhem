@@ -13,7 +13,6 @@ body {
 }
 
 p {
-  /*padding: 0.2em;*/
   font-family: 'Economica', sans-serif;
   font-size: 1.75em;
   line-height: 1.5;
@@ -25,4 +24,31 @@ h1 {
   margin-top: 20px;
   text-align: center;
   color: #E6F2F4;
+}
+
+#about-moon h1 {
+  font-family: 'Diplomata SC', cursive;
+  margin-top: 20px;
+  text-align: center;
+  color: #E6F2F4;
+}
+
+#about-moon p {
+  font-family: 'Economica', sans-serif;
+  font-size: 1.75em;
+  line-height: 1.5;
+  color: #fff;
+}
+
+div.about-sections img, div.about-sections p {
+  display: inline-block;
+  float: left;
+}
+
+div.about-sections img {
+  width: 30%;
+}
+
+div.about-sections p {
+  width: 60%;
 }
