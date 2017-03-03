@@ -56,3 +56,16 @@ div.about-sections p {
 #about-moon p strong {
   color: #4EEDC8;
 }
+
+#resources li {
+  list-style: none;
+  font-family: 'Josefin Sans', sans-serif;
+  font-size: 1.75em;
+  line-height: 1.5em;
+  color: #fff;
+  text-align: center;
+}
+
+#resources ul li a {
+  color: #4EEDC8;
+}
