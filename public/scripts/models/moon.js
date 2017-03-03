@@ -36,6 +36,7 @@
       })
       .then(function (days) {
         moonData.getCounts(days);
+        console.log('for', moonController.month, moonController.year, 'days',moonData.days, 'counts', moonData.counts);
       })
       .then(function() {
         console.log('getMoons being called')
